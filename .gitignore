@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+model_checkpoint.pth
+data/vectors/movie_embeddings.npy

@@ -1,0 +1,5826 @@
+[
+  {
+    "review_id": "bbeccb7b-308a-494b-a647-2b2585eca837",
+    "user_id": "b0c68cb3-6868-4fd4-a9bb-e85d3f919cb0",
+    "movie_id": "m119",
+    "rating": 3.3092005015451242,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-13T20:00:44.892314"
+  },
+  {
+    "review_id": "792207e3-a4af-4a35-83ab-e41674a99852",
+    "user_id": "b0c68cb3-6868-4fd4-a9bb-e85d3f919cb0",
+    "movie_id": "m193",
+    "rating": 4.703596408880495,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-15T20:00:44.892314"
+  },
+  {
+    "review_id": "cbed5a25-f3fe-40c8-96d8-8a5cb6c8dbfd",
+    "user_id": "b0c68cb3-6868-4fd4-a9bb-e85d3f919cb0",
+    "movie_id": "m129",
+    "rating": 3.102835314705247,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-24T20:00:44.892314"
+  },
+  {
+    "review_id": "d166f4ed-bd76-4cc1-8fb6-4bfcf818e1ff",
+    "user_id": "0da0145f-5a07-436a-b399-4c30b0319f33",
+    "movie_id": "m294",
+    "rating": 1.1765132602680062,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-23T20:00:44.892314"
+  },
+  {
+    "review_id": "dcf06d34-fcc0-45d3-a6b1-67824f7a6344",
+    "user_id": "0da0145f-5a07-436a-b399-4c30b0319f33",
+    "movie_id": "m129",
+    "rating": 4.463903429821324,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-03T20:00:44.892314"
+  },
+  {
+    "review_id": "3711e488-7e04-4a16-bc2c-a67732130cb3",
+    "user_id": "68c4224a-d664-4b45-b6eb-28429cc1635c",
+    "movie_id": "m226",
+    "rating": 2.147519054385639,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-15T20:00:44.893319"
+  },
+  {
+    "review_id": "d2dc0504-40c0-43cc-9c62-4cdc8d0256c4",
+    "user_id": "68c4224a-d664-4b45-b6eb-28429cc1635c",
+    "movie_id": "m263",
+    "rating": 4.70866981096915,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-09T20:00:44.893319"
+  },
+  {
+    "review_id": "f1d9b946-be53-40b6-9377-8d23c21533f8",
+    "user_id": "69b96117-cf33-4665-8b95-f46802afcd78",
+    "movie_id": "m241",
+    "rating": 3.456589627615781,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-27T20:00:44.893319"
+  },
+  {
+    "review_id": "f1d087d8-7443-4d37-a593-a3b4d9711265",
+    "user_id": "69b96117-cf33-4665-8b95-f46802afcd78",
+    "movie_id": "m65",
+    "rating": 1.976067214924103,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-04T20:00:44.893319"
+  },
+  {
+    "review_id": "d28a2916-4873-4cb5-bd44-581c57468362",
+    "user_id": "e2671612-bfcd-45d8-b259-c36d8e2e3004",
+    "movie_id": "m216",
+    "rating": 1.8346428728061581,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-23T20:00:44.893319"
+  },
+  {
+    "review_id": "f6985536-7aee-4310-bb53-73b502ca280f",
+    "user_id": "b6d2cc9c-efba-4a0f-be9a-39ba152d4d08",
+    "movie_id": "m207",
+    "rating": 3.360519947931262,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-28T20:00:44.893319"
+  },
+  {
+    "review_id": "08f71a21-76ba-4eb3-819f-4ced9efda83a",
+    "user_id": "b6d2cc9c-efba-4a0f-be9a-39ba152d4d08",
+    "movie_id": "m146",
+    "rating": 3.3430093734301587,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-04T20:00:44.893319"
+  },
+  {
+    "review_id": "298c9af5-fa0b-4943-b03e-29ae45a8c88d",
+    "user_id": "b6d2cc9c-efba-4a0f-be9a-39ba152d4d08",
+    "movie_id": "m261",
+    "rating": 1.8291894678962084,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-13T20:00:44.893319"
+  },
+  {
+    "review_id": "f5d4f4f3-c105-48e1-ad22-8c92d81cabf1",
+    "user_id": "9e89d2e4-d5d4-4129-8607-509f79b0b90a",
+    "movie_id": "m9",
+    "rating": 3.3972730009175867,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-09T20:00:44.893319"
+  },
+  {
+    "review_id": "4bf863a9-7510-4a31-ae95-be6c863ad672",
+    "user_id": "9e89d2e4-d5d4-4129-8607-509f79b0b90a",
+    "movie_id": "m284",
+    "rating": 3.3081836474046193,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-09T20:00:44.893319"
+  },
+  {
+    "review_id": "ed26ac30-a7f9-4571-9369-166e0fc64c17",
+    "user_id": "ff3b95d3-bb8a-498a-b847-996b22a4b9d2",
+    "movie_id": "m31",
+    "rating": 1.430886027718353,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-12T20:00:44.894313"
+  },
+  {
+    "review_id": "c16569a9-1aca-47c2-acda-c03136158b3c",
+    "user_id": "ff3b95d3-bb8a-498a-b847-996b22a4b9d2",
+    "movie_id": "m169",
+    "rating": 4.368044458569706,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-07T20:00:44.894313"
+  },
+  {
+    "review_id": "ad2e412f-bef1-47c3-9412-ed85bf83bc4f",
+    "user_id": "ff3b95d3-bb8a-498a-b847-996b22a4b9d2",
+    "movie_id": "m188",
+    "rating": 2.26742424903336,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-17T20:00:44.894313"
+  },
+  {
+    "review_id": "ba5468d5-f4c9-4924-91de-981c2014c899",
+    "user_id": "287e7f3b-dd36-4211-820c-b5c450633689",
+    "movie_id": "m212",
+    "rating": 2.3523889866861696,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-30T20:00:44.894313"
+  },
+  {
+    "review_id": "3f8ffd1d-ca6e-4ac7-8699-2b8867af267e",
+    "user_id": "287e7f3b-dd36-4211-820c-b5c450633689",
+    "movie_id": "m173",
+    "rating": 1.6415265981879439,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-07T20:00:44.894313"
+  },
+  {
+    "review_id": "58fd0bc6-bf3a-403a-a36e-469a3770e2b9",
+    "user_id": "287e7f3b-dd36-4211-820c-b5c450633689",
+    "movie_id": "m213",
+    "rating": 2.940324027009455,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-08T20:00:44.894313"
+  },
+  {
+    "review_id": "4534e426-78c8-4ee9-8ed6-be6926b08dfa",
+    "user_id": "f031ef77-6105-455e-874b-12cfe61494a8",
+    "movie_id": "m48",
+    "rating": 4.379118872503378,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-28T20:00:44.894313"
+  },
+  {
+    "review_id": "d9444db0-cc9b-42d5-923d-f9c0cb2b479e",
+    "user_id": "f031ef77-6105-455e-874b-12cfe61494a8",
+    "movie_id": "m61",
+    "rating": 4.242750616560167,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-06T20:00:44.894313"
+  },
+  {
+    "review_id": "47f14787-3705-4a81-849a-14b31f41ce25",
+    "user_id": "1944a40f-5899-4b63-a0d0-4f8ea48ac391",
+    "movie_id": "m196",
+    "rating": 1.7568965090857094,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-19T20:00:44.894313"
+  },
+  {
+    "review_id": "3c33ff24-4267-4cfa-9152-b04fc0528a39",
+    "user_id": "1944a40f-5899-4b63-a0d0-4f8ea48ac391",
+    "movie_id": "m249",
+    "rating": 3.016074920711748,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-25T20:00:44.894313"
+  },
+  {
+    "review_id": "ad760b14-d09b-4b64-b987-e2227eecbc2e",
+    "user_id": "8fae4d25-c2d5-4541-ae4a-d1697a314a3c",
+    "movie_id": "m112",
+    "rating": 1.6048182780203266,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-11T20:00:44.895313"
+  },
+  {
+    "review_id": "47459d0e-e9ee-4bc8-a2ff-51d9238c9348",
+    "user_id": "3d6a5762-dc53-435e-84f5-301beffdb732",
+    "movie_id": "m256",
+    "rating": 3.2542238064062383,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-06T20:00:44.895313"
+  },
+  {
+    "review_id": "854ac222-309c-4eac-8faa-e807a04dd9e9",
+    "user_id": "3d6a5762-dc53-435e-84f5-301beffdb732",
+    "movie_id": "m57",
+    "rating": 4.587832548504444,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-08T20:00:44.895313"
+  },
+  {
+    "review_id": "994b64f6-f96d-4025-9f2a-8b21593a352a",
+    "user_id": "3d6a5762-dc53-435e-84f5-301beffdb732",
+    "movie_id": "m295",
+    "rating": 3.60759030164733,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-07T20:00:44.895313"
+  },
+  {
+    "review_id": "a26b2c76-10c3-4a17-b7e2-08395d5713e8",
+    "user_id": "2a9ea8da-0a22-49dc-a678-aaad0e71f6ac",
+    "movie_id": "m156",
+    "rating": 3.4045025683297188,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-27T20:00:44.895313"
+  },
+  {
+    "review_id": "65a04848-d638-4ac1-bd97-ccfa7fa48dd4",
+    "user_id": "2a9ea8da-0a22-49dc-a678-aaad0e71f6ac",
+    "movie_id": "m138",
+    "rating": 3.8512094231114924,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-17T20:00:44.895313"
+  },
+  {
+    "review_id": "3b2fb57e-29e0-4b1d-a20b-b410c7ff6b90",
+    "user_id": "2a9ea8da-0a22-49dc-a678-aaad0e71f6ac",
+    "movie_id": "m26",
+    "rating": 4.5338745123735995,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-10T20:00:44.895313"
+  },
+  {
+    "review_id": "763e807a-01f3-4246-bc50-d57763e38943",
+    "user_id": "c221a08f-3c11-4324-85aa-b3671f5f41f8",
+    "movie_id": "m245",
+    "rating": 2.70823993695628,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-04T20:00:44.895313"
+  },
+  {
+    "review_id": "f423e28b-4e99-41bb-b299-482c17daaaec",
+    "user_id": "d36ea073-0b02-4c17-b5fe-2cd4db732646",
+    "movie_id": "m244",
+    "rating": 1.3183562074401847,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-14T20:00:44.895313"
+  },
+  {
+    "review_id": "be0d1bed-69b8-4461-a233-0de7f6941411",
+    "user_id": "a3acf3ef-ea23-410f-8415-457dbcc66323",
+    "movie_id": "m116",
+    "rating": 1.7129085295573034,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-08T20:00:44.896315"
+  },
+  {
+    "review_id": "53f9ae33-5a3e-427a-a62a-3222a4ade4c3",
+    "user_id": "a3acf3ef-ea23-410f-8415-457dbcc66323",
+    "movie_id": "m109",
+    "rating": 4.556007961047124,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-05T20:00:44.896315"
+  },
+  {
+    "review_id": "1b98096f-9b14-44b0-908e-cd0d0bf3f76a",
+    "user_id": "a3acf3ef-ea23-410f-8415-457dbcc66323",
+    "movie_id": "m202",
+    "rating": 3.7270928076931025,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-24T20:00:44.896315"
+  },
+  {
+    "review_id": "d4f81291-ab0f-46de-8947-4f3f3ba9f30c",
+    "user_id": "51192340-41ff-4e46-8f9e-a8da9f0bff53",
+    "movie_id": "m209",
+    "rating": 3.82548379554205,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-17T20:00:44.896315"
+  },
+  {
+    "review_id": "c2079a2d-8471-4b1d-b1be-6abb8fa2fa22",
+    "user_id": "51192340-41ff-4e46-8f9e-a8da9f0bff53",
+    "movie_id": "m20",
+    "rating": 2.7537599399112915,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-28T20:00:44.896315"
+  },
+  {
+    "review_id": "78aa8978-7e9e-4b1b-9af0-ba0e5893356b",
+    "user_id": "4e323189-ba0e-484f-b0d8-a615ee242182",
+    "movie_id": "m265",
+    "rating": 3.165036400126628,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-09T20:00:44.896315"
+  },
+  {
+    "review_id": "32c1d2c3-e014-4337-b2a8-ae511aea609c",
+    "user_id": "4505a4c6-b160-4a7d-a2de-8667f14b58c6",
+    "movie_id": "m292",
+    "rating": 3.4241114100601076,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-06T20:00:44.896315"
+  },
+  {
+    "review_id": "8a49acb6-f314-4f91-b487-a61f67ef613f",
+    "user_id": "4505a4c6-b160-4a7d-a2de-8667f14b58c6",
+    "movie_id": "m99",
+    "rating": 1.6553120864279545,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-19T20:00:44.896315"
+  },
+  {
+    "review_id": "0d99990c-a8b7-4ad6-aede-c696b6442c06",
+    "user_id": "a9809209-af40-406b-a66c-d9b936577d03",
+    "movie_id": "m135",
+    "rating": 3.0918423986022088,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-01T20:00:44.896315"
+  },
+  {
+    "review_id": "3de93b4b-90e0-4caf-b95b-5a083f819821",
+    "user_id": "a9809209-af40-406b-a66c-d9b936577d03",
+    "movie_id": "m8",
+    "rating": 4.501058172125008,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-20T20:00:44.896315"
+  },
+  {
+    "review_id": "598b2b33-ccd0-4bf1-9f69-3f05e7ad2ae8",
+    "user_id": "a9809209-af40-406b-a66c-d9b936577d03",
+    "movie_id": "m165",
+    "rating": 4.248273899364414,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-09T20:00:44.896315"
+  },
+  {
+    "review_id": "818eaf1e-d370-4997-935a-9d70a5e59973",
+    "user_id": "f047c577-c84d-467b-891d-c845defa6b62",
+    "movie_id": "m234",
+    "rating": 2.370418441652293,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-23T20:00:44.897314"
+  },
+  {
+    "review_id": "2864467a-0809-4646-b179-1a6697ac1c11",
+    "user_id": "9bcd2fda-a458-4421-b2eb-28e2a61c2ac2",
+    "movie_id": "m189",
+    "rating": 3.2312573256972157,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-28T20:00:44.897314"
+  },
+  {
+    "review_id": "377223d6-d501-42b6-a470-0b6e94eab2b4",
+    "user_id": "9bcd2fda-a458-4421-b2eb-28e2a61c2ac2",
+    "movie_id": "m29",
+    "rating": 3.333608000245349,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-03T20:00:44.897314"
+  },
+  {
+    "review_id": "8e6c02a5-ffe8-4b65-992a-7e95a7e5e769",
+    "user_id": "485767c6-a584-4b54-af77-d38cdc60d3eb",
+    "movie_id": "m287",
+    "rating": 4.795542831276346,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-14T20:00:44.897314"
+  },
+  {
+    "review_id": "98632dc1-a29a-4f3f-8858-b2b0ad8f81bc",
+    "user_id": "5d42e08e-d067-4df6-802f-87176bbc2eda",
+    "movie_id": "m240",
+    "rating": 2.9106874984949376,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-19T20:00:44.897314"
+  },
+  {
+    "review_id": "ccbe6bef-e1ad-41c4-aa45-bff066fc7ef8",
+    "user_id": "e983e528-02d8-410b-83f6-f009c24acb2f",
+    "movie_id": "m293",
+    "rating": 1.1868725386344159,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-14T20:00:44.897314"
+  },
+  {
+    "review_id": "4ce467b7-fb93-4668-b3be-c7143f3151e8",
+    "user_id": "376889aa-37b7-479e-adeb-20e10e278f0d",
+    "movie_id": "m59",
+    "rating": 1.6535483767545007,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-08T20:00:44.898314"
+  },
+  {
+    "review_id": "2bd4c0c9-4ade-4e4e-ab41-635d4ac0025a",
+    "user_id": "c7cd6190-9f3c-4ae6-9863-ffbd2668c818",
+    "movie_id": "m79",
+    "rating": 3.988130337271922,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-19T20:00:44.898314"
+  },
+  {
+    "review_id": "c397ccd9-a067-4f3e-9b06-9476956568a5",
+    "user_id": "c7cd6190-9f3c-4ae6-9863-ffbd2668c818",
+    "movie_id": "m282",
+    "rating": 3.9770451482944624,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-03T20:00:44.898314"
+  },
+  {
+    "review_id": "f9d8232c-63fa-43b8-b06f-29a906dfd801",
+    "user_id": "c7cd6190-9f3c-4ae6-9863-ffbd2668c818",
+    "movie_id": "m183",
+    "rating": 1.9812190049102232,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-03T20:00:44.898314"
+  },
+  {
+    "review_id": "1b5c3d39-37c3-47f8-a37c-ff67cd99768e",
+    "user_id": "a99d57be-50c8-4720-9230-5b347df05e80",
+    "movie_id": "m236",
+    "rating": 3.2558995822743872,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-05T20:00:44.898314"
+  },
+  {
+    "review_id": "31edf55f-f72f-4e82-9e73-d0de0df49bcf",
+    "user_id": "a99d57be-50c8-4720-9230-5b347df05e80",
+    "movie_id": "m261",
+    "rating": 1.121073664129114,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-06T20:00:44.898314"
+  },
+  {
+    "review_id": "64395794-2028-4099-ba40-d2fa970ad091",
+    "user_id": "a99d57be-50c8-4720-9230-5b347df05e80",
+    "movie_id": "m161",
+    "rating": 4.901579906867367,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-04T20:00:44.898314"
+  },
+  {
+    "review_id": "46ce90d3-522e-40ea-9340-e4ee553cb52e",
+    "user_id": "de6da43f-60f2-46a1-906a-8779f221a029",
+    "movie_id": "m34",
+    "rating": 2.814033341784922,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-01T20:00:44.898314"
+  },
+  {
+    "review_id": "56cf59fa-e02e-4081-95ad-31648edcc41a",
+    "user_id": "de6da43f-60f2-46a1-906a-8779f221a029",
+    "movie_id": "m206",
+    "rating": 3.3936723809208607,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-28T20:00:44.898314"
+  },
+  {
+    "review_id": "8d38dc23-6954-434b-a0cc-f90fe33bb9ab",
+    "user_id": "8e9ae3ac-088d-447b-88d4-233923410f3d",
+    "movie_id": "m290",
+    "rating": 1.593728547814722,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-28T20:00:44.898314"
+  },
+  {
+    "review_id": "fb6e973a-2c28-415e-950d-04228d4dc5bb",
+    "user_id": "2c534774-0566-4148-bf42-8c725f4c6e6d",
+    "movie_id": "m179",
+    "rating": 2.0885889065888867,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-29T20:00:44.898314"
+  },
+  {
+    "review_id": "2b673124-a9e9-4015-b28c-041799dab4f0",
+    "user_id": "2c534774-0566-4148-bf42-8c725f4c6e6d",
+    "movie_id": "m228",
+    "rating": 4.999027822607061,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-05T20:00:44.898314"
+  },
+  {
+    "review_id": "71480541-5c95-41df-a549-8213524268a7",
+    "user_id": "ed35f98e-1fe8-4b7e-8c4c-dec6a695a25d",
+    "movie_id": "m84",
+    "rating": 2.685838366145863,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-14T20:00:44.899312"
+  },
+  {
+    "review_id": "a5763b6f-46d2-4189-9f74-378a9fc7809c",
+    "user_id": "aa82f7f8-93a7-4839-a9ec-24731ba9ef08",
+    "movie_id": "m93",
+    "rating": 1.4841009377491425,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-26T20:00:44.899312"
+  },
+  {
+    "review_id": "9500d259-20ae-4882-bc62-e7efc797d5df",
+    "user_id": "ef022fd4-4f5d-47e5-b5db-6aa4bd41a5cf",
+    "movie_id": "m111",
+    "rating": 1.0148605763307041,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-25T20:00:44.899312"
+  },
+  {
+    "review_id": "1d7ce0b0-395d-47c2-b6cc-149e52dcf307",
+    "user_id": "ef022fd4-4f5d-47e5-b5db-6aa4bd41a5cf",
+    "movie_id": "m205",
+    "rating": 4.532080653145162,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-06T20:00:44.899312"
+  },
+  {
+    "review_id": "2a39c235-0363-4db0-b7e1-42e2398d5c3a",
+    "user_id": "7de4c204-78fe-4359-84f7-23556263f422",
+    "movie_id": "m199",
+    "rating": 4.979317877359409,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-05T20:00:44.899312"
+  },
+  {
+    "review_id": "7e5d6e1b-7e7f-4d33-8209-445d644fdaa3",
+    "user_id": "7de4c204-78fe-4359-84f7-23556263f422",
+    "movie_id": "m252",
+    "rating": 1.7951873892629453,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-10T20:00:44.899312"
+  },
+  {
+    "review_id": "e819bfb3-5bdb-4f13-98a7-81cd58d7693e",
+    "user_id": "7de4c204-78fe-4359-84f7-23556263f422",
+    "movie_id": "m10",
+    "rating": 4.720358532174861,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-29T20:00:44.899312"
+  },
+  {
+    "review_id": "b1755633-721d-43c2-bf7a-d526a2fe78c6",
+    "user_id": "c9bc6497-3a3e-41c6-babe-1a5329a90ff7",
+    "movie_id": "m273",
+    "rating": 4.9990964178688575,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-19T20:00:44.899312"
+  },
+  {
+    "review_id": "1ce3595e-5939-46ed-ad16-f03acf43707e",
+    "user_id": "c9bc6497-3a3e-41c6-babe-1a5329a90ff7",
+    "movie_id": "m128",
+    "rating": 3.893368869087586,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-09T20:00:44.899312"
+  },
+  {
+    "review_id": "e0488724-3af4-4676-ab2a-70906883d6ca",
+    "user_id": "37927a09-87fc-4c45-8b6d-cf9634e00923",
+    "movie_id": "m262",
+    "rating": 3.4759449824513586,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-01T20:00:44.900311"
+  },
+  {
+    "review_id": "8b0126b8-695d-4195-9ce3-213004c888bf",
+    "user_id": "37927a09-87fc-4c45-8b6d-cf9634e00923",
+    "movie_id": "m284",
+    "rating": 4.770655544337217,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-09T20:00:44.900311"
+  },
+  {
+    "review_id": "9c803636-c4b5-4bab-ad5f-5ec55bf81747",
+    "user_id": "7a7e1c99-b7cd-48fa-be64-adaddc0a3e60",
+    "movie_id": "m256",
+    "rating": 2.5844821125691873,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-07T20:00:44.900311"
+  },
+  {
+    "review_id": "3b4556e6-d3c1-4c61-b75a-90ad813bc3b3",
+    "user_id": "7a7e1c99-b7cd-48fa-be64-adaddc0a3e60",
+    "movie_id": "m118",
+    "rating": 4.794693022407785,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-22T20:00:44.900311"
+  },
+  {
+    "review_id": "09dca47f-89ea-4605-8d45-633809e9c046",
+    "user_id": "7a7e1c99-b7cd-48fa-be64-adaddc0a3e60",
+    "movie_id": "m45",
+    "rating": 1.4412446834158716,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-26T20:00:44.900311"
+  },
+  {
+    "review_id": "b8ff9dd3-3801-4b0b-a76c-2b5d7a14b22c",
+    "user_id": "ce234c1e-193a-47a9-ad79-50912c883ba5",
+    "movie_id": "m40",
+    "rating": 4.01023985735966,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-22T20:00:44.900311"
+  },
+  {
+    "review_id": "8d47f858-1592-4525-bf88-cedbc13d7e09",
+    "user_id": "ce234c1e-193a-47a9-ad79-50912c883ba5",
+    "movie_id": "m300",
+    "rating": 2.738317290626856,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-09T20:00:44.900311"
+  },
+  {
+    "review_id": "47e02503-6ea8-437f-a5ae-d8a444b21bcd",
+    "user_id": "fe15796a-6af0-43da-8a4e-1a349081af37",
+    "movie_id": "m241",
+    "rating": 1.4232214914082193,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-21T20:00:44.901311"
+  },
+  {
+    "review_id": "0450ef13-2cbf-4c66-96d1-c16d753f6d9f",
+    "user_id": "97108ff1-47dc-4ee5-a34d-649cb134639a",
+    "movie_id": "m252",
+    "rating": 4.778819014863395,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-27T20:00:44.901311"
+  },
+  {
+    "review_id": "d9ecc979-f64a-4533-b181-799f88cdeb61",
+    "user_id": "97108ff1-47dc-4ee5-a34d-649cb134639a",
+    "movie_id": "m74",
+    "rating": 3.606652510823874,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-17T20:00:44.901311"
+  },
+  {
+    "review_id": "ccd6cc4e-b581-4e2a-bc79-b0275bb2a1d3",
+    "user_id": "97108ff1-47dc-4ee5-a34d-649cb134639a",
+    "movie_id": "m111",
+    "rating": 3.359125190606283,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-04T20:00:44.901311"
+  },
+  {
+    "review_id": "c945dc08-4ebc-4a4f-a8fc-62d66bf54df6",
+    "user_id": "32bd34e5-d234-4d07-94c0-0b3f1e9e975a",
+    "movie_id": "m174",
+    "rating": 1.1801781575210635,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-29T20:00:44.901311"
+  },
+  {
+    "review_id": "1aa154bb-5f19-41aa-82b5-7b9390f521b6",
+    "user_id": "32bd34e5-d234-4d07-94c0-0b3f1e9e975a",
+    "movie_id": "m182",
+    "rating": 3.2060098055229687,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-01T20:00:44.901311"
+  },
+  {
+    "review_id": "e048e3c9-8fbf-4442-ab00-48ce955aaf99",
+    "user_id": "32bd34e5-d234-4d07-94c0-0b3f1e9e975a",
+    "movie_id": "m224",
+    "rating": 2.373596755326877,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-10T20:00:44.901311"
+  },
+  {
+    "review_id": "812e6dc4-81bb-422d-87dd-b2bf46c55164",
+    "user_id": "e0a4036e-545d-411a-ad43-d37712923c6d",
+    "movie_id": "m240",
+    "rating": 4.2501472383511825,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-19T20:00:44.901311"
+  },
+  {
+    "review_id": "ac4024a6-3838-46e8-b18a-ad3e22b6e7a8",
+    "user_id": "e0a4036e-545d-411a-ad43-d37712923c6d",
+    "movie_id": "m246",
+    "rating": 3.5706587654461566,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-02T20:00:44.901311"
+  },
+  {
+    "review_id": "f603495b-42c7-48bd-8e6e-3ca86389825a",
+    "user_id": "e0a4036e-545d-411a-ad43-d37712923c6d",
+    "movie_id": "m138",
+    "rating": 3.943583333797092,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-25T20:00:44.901311"
+  },
+  {
+    "review_id": "103fa1d6-0686-4e13-93f4-00e8ea500ecd",
+    "user_id": "32a5fe6e-1e4d-405a-b50a-531fd77e98bf",
+    "movie_id": "m25",
+    "rating": 2.114172382753062,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-24T20:00:44.901311"
+  },
+  {
+    "review_id": "88c4f751-2199-4192-8779-97f01bc2a500",
+    "user_id": "32a5fe6e-1e4d-405a-b50a-531fd77e98bf",
+    "movie_id": "m41",
+    "rating": 1.8771400324520031,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-27T20:00:44.901311"
+  },
+  {
+    "review_id": "d9ba1894-0a9b-4435-9eec-a49019edacc5",
+    "user_id": "32a5fe6e-1e4d-405a-b50a-531fd77e98bf",
+    "movie_id": "m62",
+    "rating": 2.950627412543926,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-09T20:00:44.901311"
+  },
+  {
+    "review_id": "576a3409-a9d9-4213-a5b5-2a476864d75b",
+    "user_id": "16944490-7760-4616-90af-6d1e3313424b",
+    "movie_id": "m295",
+    "rating": 2.624629661619404,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-21T20:00:44.901311"
+  },
+  {
+    "review_id": "170c71b2-f1a2-4a60-a880-b4f5d2d75bd6",
+    "user_id": "841f0e1b-bc17-424b-84fe-e82978ddfe3f",
+    "movie_id": "m73",
+    "rating": 1.3494099832072983,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-14T20:00:44.901311"
+  },
+  {
+    "review_id": "baeff11e-4cb6-4ed2-b63f-8d88a8f1fa3a",
+    "user_id": "841f0e1b-bc17-424b-84fe-e82978ddfe3f",
+    "movie_id": "m119",
+    "rating": 3.5932902278966594,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-11T20:00:44.901311"
+  },
+  {
+    "review_id": "537a2709-b4ac-4a89-b605-70543ce2e9cd",
+    "user_id": "841f0e1b-bc17-424b-84fe-e82978ddfe3f",
+    "movie_id": "m203",
+    "rating": 3.263165992820087,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-25T20:00:44.901311"
+  },
+  {
+    "review_id": "c274a51d-a303-4c98-9057-e255144af344",
+    "user_id": "05282a37-dd00-40c4-adb9-a843b42bdbc9",
+    "movie_id": "m40",
+    "rating": 4.702983264514923,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-15T20:00:44.901311"
+  },
+  {
+    "review_id": "cacc1d75-d4bf-4f90-ae99-b4820b00662c",
+    "user_id": "d9716761-b790-4fc6-8d0d-adadec8a044a",
+    "movie_id": "m19",
+    "rating": 1.7955898145003606,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-20T20:00:44.902311"
+  },
+  {
+    "review_id": "d67154e1-47f8-46bb-9cd8-34aff7ccb672",
+    "user_id": "d9716761-b790-4fc6-8d0d-adadec8a044a",
+    "movie_id": "m129",
+    "rating": 4.826025405388139,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-29T20:00:44.902311"
+  },
+  {
+    "review_id": "b2556869-473f-480b-9df5-1c15a1fb2045",
+    "user_id": "d9716761-b790-4fc6-8d0d-adadec8a044a",
+    "movie_id": "m74",
+    "rating": 4.27009852211245,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-06T20:00:44.902311"
+  },
+  {
+    "review_id": "fc066d65-2c46-4e1a-a1c8-5ce5df14d067",
+    "user_id": "496932ed-1c1a-41ce-86fa-f5d47c9e8677",
+    "movie_id": "m177",
+    "rating": 4.642906424101794,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-04T20:00:44.902311"
+  },
+  {
+    "review_id": "bec060a6-1326-4866-9542-4ecfeb59bd76",
+    "user_id": "dd043cfc-1a73-474e-9f87-b5436f0eb6ff",
+    "movie_id": "m51",
+    "rating": 3.8118096198693365,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-25T20:00:44.902311"
+  },
+  {
+    "review_id": "b95ff235-c675-4bd0-9ddf-695b1e3cb206",
+    "user_id": "bdec658a-a463-4f82-b1e5-dc03baeb6b4a",
+    "movie_id": "m51",
+    "rating": 2.297180853924849,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-09T20:00:44.902311"
+  },
+  {
+    "review_id": "eb877a7f-e74c-4686-a0ea-06a14b698721",
+    "user_id": "bdec658a-a463-4f82-b1e5-dc03baeb6b4a",
+    "movie_id": "m111",
+    "rating": 1.7181722392998324,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-01T20:00:44.902311"
+  },
+  {
+    "review_id": "295ef3cc-7763-47ed-a270-663db348c390",
+    "user_id": "4a982b5d-8ae3-4b8c-8d38-ef303743f6dd",
+    "movie_id": "m53",
+    "rating": 2.144535925291965,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-13T20:00:44.902311"
+  },
+  {
+    "review_id": "7238b83f-b65f-4c27-84d2-3ecbd97d4be9",
+    "user_id": "4a982b5d-8ae3-4b8c-8d38-ef303743f6dd",
+    "movie_id": "m295",
+    "rating": 4.078787893190958,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-19T20:00:44.902311"
+  },
+  {
+    "review_id": "8cbc504e-d671-4a1a-9743-eec361373c35",
+    "user_id": "4a982b5d-8ae3-4b8c-8d38-ef303743f6dd",
+    "movie_id": "m118",
+    "rating": 3.9639836279298604,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-08T20:00:44.902311"
+  },
+  {
+    "review_id": "3fb93e2d-9091-4fa5-9c00-b40d37b91639",
+    "user_id": "f2f900c6-d5ab-4373-9da3-5204d281851f",
+    "movie_id": "m15",
+    "rating": 2.8527191819290096,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-02T20:00:44.902311"
+  },
+  {
+    "review_id": "8275855f-dd9f-45ba-a526-f8f8f8f97567",
+    "user_id": "17141586-f312-453d-a7d7-51da5703b4c6",
+    "movie_id": "m244",
+    "rating": 2.951258919234977,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-20T20:00:44.903311"
+  },
+  {
+    "review_id": "360391ea-df0e-4187-ab39-f10b730486e4",
+    "user_id": "172bfca8-6314-4934-9791-ffe4e4ecfff5",
+    "movie_id": "m238",
+    "rating": 2.6442915540770078,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-31T20:00:44.903311"
+  },
+  {
+    "review_id": "65cdb62d-078b-4680-b093-a7cba0010e5e",
+    "user_id": "172bfca8-6314-4934-9791-ffe4e4ecfff5",
+    "movie_id": "m136",
+    "rating": 2.5894145554381915,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-10T20:00:44.903311"
+  },
+  {
+    "review_id": "c82e27e3-2527-4528-b03b-fd03ca10031a",
+    "user_id": "172bfca8-6314-4934-9791-ffe4e4ecfff5",
+    "movie_id": "m152",
+    "rating": 4.347952464448793,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-02T20:00:44.903311"
+  },
+  {
+    "review_id": "e7d54f50-a492-4ef3-a3c0-90e9f78e6f66",
+    "user_id": "c4301b08-bc6b-447d-a24f-ca04d033997b",
+    "movie_id": "m110",
+    "rating": 4.052016132032958,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-21T20:00:44.903311"
+  },
+  {
+    "review_id": "d5a63d5c-fe3a-4bc6-a5b1-e3c66e657825",
+    "user_id": "c4301b08-bc6b-447d-a24f-ca04d033997b",
+    "movie_id": "m135",
+    "rating": 4.8160663746931895,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-07T20:00:44.903311"
+  },
+  {
+    "review_id": "caec6f4f-adea-4b20-8973-d47a251d2d3d",
+    "user_id": "da216462-6449-4874-b87b-e1c1667396b5",
+    "movie_id": "m20",
+    "rating": 1.852625476434628,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-07T20:00:44.903311"
+  },
+  {
+    "review_id": "4c86ca6a-7d09-44eb-9af8-c5c52ce53718",
+    "user_id": "da216462-6449-4874-b87b-e1c1667396b5",
+    "movie_id": "m277",
+    "rating": 1.957555178514757,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-17T20:00:44.903311"
+  },
+  {
+    "review_id": "d8e90ce6-335d-455b-a9c5-56f323e83225",
+    "user_id": "da216462-6449-4874-b87b-e1c1667396b5",
+    "movie_id": "m141",
+    "rating": 2.728614446839192,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-13T20:00:44.903311"
+  },
+  {
+    "review_id": "031640c1-0efc-4325-bd13-96130cfad375",
+    "user_id": "bb46777f-d780-41fd-8055-d8325816d7df",
+    "movie_id": "m138",
+    "rating": 4.001211451999756,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-10T20:00:44.903311"
+  },
+  {
+    "review_id": "e7cec5cc-b9ed-4cf3-ae52-964f6cf1eda0",
+    "user_id": "093c2ba1-9567-4b5c-8aec-846f6146095d",
+    "movie_id": "m132",
+    "rating": 2.4390806693693143,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-22T20:00:44.904311"
+  },
+  {
+    "review_id": "f0b1b3a8-b64a-4e05-9413-44175bd34da6",
+    "user_id": "093c2ba1-9567-4b5c-8aec-846f6146095d",
+    "movie_id": "m7",
+    "rating": 4.607353216162701,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-04T20:00:44.904311"
+  },
+  {
+    "review_id": "0e894ed6-f682-4b6b-ac8b-f9625670bff8",
+    "user_id": "093c2ba1-9567-4b5c-8aec-846f6146095d",
+    "movie_id": "m75",
+    "rating": 2.9123095907482783,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-16T20:00:44.904311"
+  },
+  {
+    "review_id": "5e39af87-3ee8-4f6d-8a1c-2c551d70df5c",
+    "user_id": "b1ef007a-f7dd-42c1-80cb-65d13c89a48f",
+    "movie_id": "m100",
+    "rating": 1.7173205096499093,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-14T20:00:44.904311"
+  },
+  {
+    "review_id": "22d0512d-beae-4886-9813-6243f080b8aa",
+    "user_id": "b1ef007a-f7dd-42c1-80cb-65d13c89a48f",
+    "movie_id": "m6",
+    "rating": 2.567099089290056,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-19T20:00:44.904311"
+  },
+  {
+    "review_id": "1d962b2f-86d0-4d75-bcec-58197b22ab9e",
+    "user_id": "a10b4839-7d91-4104-a83b-ee49ae523f21",
+    "movie_id": "m54",
+    "rating": 2.915114582942417,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-18T20:00:44.904311"
+  },
+  {
+    "review_id": "c2811ff4-02b7-47f9-b45d-000fc276ca64",
+    "user_id": "eb1924bb-2d22-48bb-a060-8dc68df7249e",
+    "movie_id": "m18",
+    "rating": 4.269084513744117,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-28T20:00:44.904311"
+  },
+  {
+    "review_id": "f0c2f2ae-3cdb-45c5-b693-0206bceaabfd",
+    "user_id": "8143039f-42c9-4b67-9032-6d501cbdce11",
+    "movie_id": "m145",
+    "rating": 1.1294007269981932,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-15T20:00:44.904311"
+  },
+  {
+    "review_id": "4fe665fb-c7cd-49a8-8d72-89f5a6f37597",
+    "user_id": "8143039f-42c9-4b67-9032-6d501cbdce11",
+    "movie_id": "m78",
+    "rating": 1.037513526213759,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-26T20:00:44.904311"
+  },
+  {
+    "review_id": "9d900f4b-56af-4301-be7a-5fd66a5b3548",
+    "user_id": "7300dd47-f17c-4258-aa01-4fcfc6638f98",
+    "movie_id": "m156",
+    "rating": 4.111065841066642,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-10T20:00:44.904311"
+  },
+  {
+    "review_id": "f22d8a9f-3dcb-4d10-9ac6-1925aac20693",
+    "user_id": "7300dd47-f17c-4258-aa01-4fcfc6638f98",
+    "movie_id": "m112",
+    "rating": 4.264004048933959,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-17T20:00:44.904311"
+  },
+  {
+    "review_id": "f5a9b09a-af4d-48be-a218-561c000f790a",
+    "user_id": "7300dd47-f17c-4258-aa01-4fcfc6638f98",
+    "movie_id": "m263",
+    "rating": 3.877182517366568,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-24T20:00:44.904311"
+  },
+  {
+    "review_id": "4fb77927-029a-4290-abaf-9effcaf6bc30",
+    "user_id": "9bcb5eda-2cf6-4ec5-86da-334decb574b2",
+    "movie_id": "m276",
+    "rating": 3.882406630381611,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-15T20:00:44.905312"
+  },
+  {
+    "review_id": "85460ed7-1257-4304-a938-9c02ab61538c",
+    "user_id": "9bcb5eda-2cf6-4ec5-86da-334decb574b2",
+    "movie_id": "m144",
+    "rating": 1.52020728022545,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-20T20:00:44.905312"
+  },
+  {
+    "review_id": "27c83714-df0c-4245-8a0d-55cf45a4cb5d",
+    "user_id": "56ace14a-bbd4-4564-b25f-18302ab607fb",
+    "movie_id": "m259",
+    "rating": 3.2238701860828938,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-09T20:00:44.905312"
+  },
+  {
+    "review_id": "edf0f7f5-f225-47ee-baeb-df6eee2f0ee4",
+    "user_id": "56ace14a-bbd4-4564-b25f-18302ab607fb",
+    "movie_id": "m217",
+    "rating": 3.845860596986521,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-13T20:00:44.905312"
+  },
+  {
+    "review_id": "b2c013e7-7c31-4671-ad7a-8abed3ac9361",
+    "user_id": "56ace14a-bbd4-4564-b25f-18302ab607fb",
+    "movie_id": "m56",
+    "rating": 2.43091692660434,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-31T20:00:44.905312"
+  },
+  {
+    "review_id": "02c17d65-411c-4f8c-bfc0-febb5bbf1ce7",
+    "user_id": "ccf0e155-b603-4a2b-9c10-e3c52290a439",
+    "movie_id": "m154",
+    "rating": 2.653523793848953,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-25T20:00:44.905312"
+  },
+  {
+    "review_id": "c0634198-1fb2-4b8c-b390-7d64c3703489",
+    "user_id": "f1e2d1e1-2bea-43f7-9e4d-c2d68765183d",
+    "movie_id": "m122",
+    "rating": 3.701760090090565,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-07T20:00:44.906311"
+  },
+  {
+    "review_id": "9f8c89d1-bde2-4a20-8f07-42b912545b29",
+    "user_id": "f1e2d1e1-2bea-43f7-9e4d-c2d68765183d",
+    "movie_id": "m194",
+    "rating": 2.7935828733266566,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-11T20:00:44.906311"
+  },
+  {
+    "review_id": "7e4680b7-ead7-451f-9ea5-c22531a09bfc",
+    "user_id": "b6941537-334d-4c0a-b8a4-af23030f91f5",
+    "movie_id": "m241",
+    "rating": 2.033436366605383,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-10T20:00:44.906311"
+  },
+  {
+    "review_id": "253bb7ae-ef65-44d9-815e-e2f514716b11",
+    "user_id": "b6941537-334d-4c0a-b8a4-af23030f91f5",
+    "movie_id": "m298",
+    "rating": 3.6549207128364793,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-17T20:00:44.906311"
+  },
+  {
+    "review_id": "cfb713d7-9dbe-420e-982b-f65dd344f3f8",
+    "user_id": "b6941537-334d-4c0a-b8a4-af23030f91f5",
+    "movie_id": "m157",
+    "rating": 1.5199621782936124,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-20T20:00:44.906311"
+  },
+  {
+    "review_id": "49cd31aa-44bf-496e-89a3-f16d616870f7",
+    "user_id": "1e5e441f-f786-4763-9684-1474e8e4ae4c",
+    "movie_id": "m275",
+    "rating": 1.8576336648473961,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-25T20:00:44.906311"
+  },
+  {
+    "review_id": "13cc58d0-726a-4f70-9641-766650a7be51",
+    "user_id": "6e820172-aa8d-4d74-81a2-efdc30cac2d0",
+    "movie_id": "m178",
+    "rating": 3.754188687034756,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-29T20:00:44.907311"
+  },
+  {
+    "review_id": "70a63c63-c076-44c2-9c25-9a95eefb8ea9",
+    "user_id": "6e820172-aa8d-4d74-81a2-efdc30cac2d0",
+    "movie_id": "m17",
+    "rating": 4.921273342101388,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-20T20:00:44.907311"
+  },
+  {
+    "review_id": "115a89e2-6c89-4138-adc4-585cac40acbf",
+    "user_id": "bd3f7e00-6ee3-4bb3-85c1-90646d912ee2",
+    "movie_id": "m17",
+    "rating": 2.850634544717461,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-08T20:00:44.907311"
+  },
+  {
+    "review_id": "e769eaed-8c83-4d31-afb3-b3eb5244bdd4",
+    "user_id": "6b84ca85-bb26-40d0-b4b1-eab12b0af087",
+    "movie_id": "m81",
+    "rating": 4.431923072023533,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-17T20:00:44.908312"
+  },
+  {
+    "review_id": "2c20a668-3ac3-4e1c-a459-8b5900f9c318",
+    "user_id": "6b84ca85-bb26-40d0-b4b1-eab12b0af087",
+    "movie_id": "m187",
+    "rating": 1.6160038409251123,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-14T20:00:44.908312"
+  },
+  {
+    "review_id": "6d9ebd7d-6f13-4e64-9ce8-813003f172b6",
+    "user_id": "91cf270a-848a-4d35-8784-d270606d9308",
+    "movie_id": "m291",
+    "rating": 3.2846700100263355,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-11T20:00:44.908312"
+  },
+  {
+    "review_id": "0b51e3ce-4c5b-402b-a710-0fb5c1fe1c58",
+    "user_id": "e5d29071-f47e-43bf-8ef9-9ba7e260ffe2",
+    "movie_id": "m149",
+    "rating": 1.4302788331166085,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-07T20:00:44.908312"
+  },
+  {
+    "review_id": "322671d5-b833-4256-a2b5-26288413c524",
+    "user_id": "22cb7269-dc77-47f7-ab9f-5b4bf7ff974a",
+    "movie_id": "m255",
+    "rating": 1.2078064068272556,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-25T20:00:44.908312"
+  },
+  {
+    "review_id": "f56b2fa9-c3a6-4c23-a978-a016065596fb",
+    "user_id": "22cb7269-dc77-47f7-ab9f-5b4bf7ff974a",
+    "movie_id": "m177",
+    "rating": 3.1654278132203553,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-09T20:00:44.908312"
+  },
+  {
+    "review_id": "4e3d7aac-0c58-4d67-be51-bed14749f77b",
+    "user_id": "22cb7269-dc77-47f7-ab9f-5b4bf7ff974a",
+    "movie_id": "m237",
+    "rating": 3.598332734671307,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-26T20:00:44.908312"
+  },
+  {
+    "review_id": "1d795214-857c-4b45-97de-8e9da3a131e2",
+    "user_id": "68701fcb-bcd4-43d5-8850-6472948dabd7",
+    "movie_id": "m130",
+    "rating": 3.3617250249616983,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-22T20:00:44.908312"
+  },
+  {
+    "review_id": "905ab7df-74b7-4b8c-a3c0-841c0d2c330d",
+    "user_id": "cc2f015d-b435-4c5b-893a-5821f90fc971",
+    "movie_id": "m44",
+    "rating": 1.3219961430012894,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-10T20:00:44.908312"
+  },
+  {
+    "review_id": "89566ba6-a579-443a-b08e-58cbdfb4265c",
+    "user_id": "c4bc16fe-fec7-406f-a049-d4713a222f4f",
+    "movie_id": "m274",
+    "rating": 4.521091937640292,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-21T20:00:44.909312"
+  },
+  {
+    "review_id": "5af5683d-c073-416a-94ff-627cdbb95df5",
+    "user_id": "1d89a318-f50f-4893-af0a-9f491a1e65db",
+    "movie_id": "m1",
+    "rating": 2.250144474322264,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-01T20:00:44.909312"
+  },
+  {
+    "review_id": "82d00a25-950e-4591-94b7-b43a8b81c274",
+    "user_id": "1d89a318-f50f-4893-af0a-9f491a1e65db",
+    "movie_id": "m76",
+    "rating": 1.0093446355232256,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-14T20:00:44.909312"
+  },
+  {
+    "review_id": "a3bed60f-b4ea-4dc4-9429-78df1a335258",
+    "user_id": "a90b1762-82d2-4fbf-8dc2-8934c3f11867",
+    "movie_id": "m155",
+    "rating": 4.278700438221584,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-09T20:00:44.909312"
+  },
+  {
+    "review_id": "d55efe01-8318-49c6-80ce-7d99c3cba666",
+    "user_id": "435dbd5a-62b8-46ff-bb75-b8316d34ddd4",
+    "movie_id": "m29",
+    "rating": 1.1916777640636855,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-18T20:00:44.909312"
+  },
+  {
+    "review_id": "80d56449-c669-4acc-8f63-1b838aee907a",
+    "user_id": "3690a94b-d75c-44fe-9384-c9bd20379492",
+    "movie_id": "m241",
+    "rating": 1.0065319543617353,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-29T20:00:44.909312"
+  },
+  {
+    "review_id": "6d8ad3e1-f792-413a-b739-074b7d2ee9b7",
+    "user_id": "3690a94b-d75c-44fe-9384-c9bd20379492",
+    "movie_id": "m166",
+    "rating": 1.1350374785212884,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-17T20:00:44.909312"
+  },
+  {
+    "review_id": "40633691-deac-4a21-9c3a-f2c7ed3761c6",
+    "user_id": "3690a94b-d75c-44fe-9384-c9bd20379492",
+    "movie_id": "m77",
+    "rating": 3.946147010556807,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-11T20:00:44.909312"
+  },
+  {
+    "review_id": "8bc34c28-171c-4b72-86b8-f56a3d45ff8a",
+    "user_id": "1ef0144f-4b56-4e96-b1d6-444378bb93b0",
+    "movie_id": "m97",
+    "rating": 4.781238168377726,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-07T20:00:44.910311"
+  },
+  {
+    "review_id": "213b4012-696c-4031-b8fd-8809cf004db9",
+    "user_id": "1ef0144f-4b56-4e96-b1d6-444378bb93b0",
+    "movie_id": "m179",
+    "rating": 2.3908210858469263,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-08T20:00:44.910311"
+  },
+  {
+    "review_id": "30e6a187-cdbe-437a-907e-5299b75c769f",
+    "user_id": "1ef0144f-4b56-4e96-b1d6-444378bb93b0",
+    "movie_id": "m248",
+    "rating": 4.643685568521736,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-07T20:00:44.910311"
+  },
+  {
+    "review_id": "3f0a777c-813c-423c-9cd8-f6a6c66fd16a",
+    "user_id": "2e4e4e9c-2c44-4408-8bbb-d9316f6c6846",
+    "movie_id": "m64",
+    "rating": 2.0782164370311076,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-29T20:00:44.910311"
+  },
+  {
+    "review_id": "1acc148f-da6e-4927-8303-560cfaea334b",
+    "user_id": "dd2ba6f6-43df-41de-b0b0-0c92b3aa550a",
+    "movie_id": "m87",
+    "rating": 1.729422434586041,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-24T20:00:44.910311"
+  },
+  {
+    "review_id": "a84c7704-47be-4be3-ad4f-2815703a3f8c",
+    "user_id": "dd2ba6f6-43df-41de-b0b0-0c92b3aa550a",
+    "movie_id": "m178",
+    "rating": 2.422467001438129,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-21T20:00:44.910311"
+  },
+  {
+    "review_id": "2b7ce821-e496-4aa3-b0fa-55223300c1cf",
+    "user_id": "dd2ba6f6-43df-41de-b0b0-0c92b3aa550a",
+    "movie_id": "m118",
+    "rating": 3.6954643232933786,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-25T20:00:44.910311"
+  },
+  {
+    "review_id": "55a6a5c7-8d3c-43c3-be15-152b1bd29c42",
+    "user_id": "fade996f-0b47-4354-a301-fffbd79db921",
+    "movie_id": "m2",
+    "rating": 1.13963780976407,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-26T20:00:44.910311"
+  },
+  {
+    "review_id": "498e793d-6edc-491b-a75c-cfc8bce0c432",
+    "user_id": "fade996f-0b47-4354-a301-fffbd79db921",
+    "movie_id": "m154",
+    "rating": 4.644550484457586,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-15T20:00:44.910311"
+  },
+  {
+    "review_id": "aac713e7-ad13-430d-b4a5-0300ad6946ee",
+    "user_id": "b6b66d0b-a2d3-4c49-88f3-50186f8ebffe",
+    "movie_id": "m98",
+    "rating": 2.6082000357892414,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-17T20:00:44.910311"
+  },
+  {
+    "review_id": "6b58f997-da15-485f-9e9e-003ae8eaf1cf",
+    "user_id": "b6b66d0b-a2d3-4c49-88f3-50186f8ebffe",
+    "movie_id": "m175",
+    "rating": 1.4079077612673752,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-10T20:00:44.910311"
+  },
+  {
+    "review_id": "9010da7c-52d6-404a-802e-8b05c278da66",
+    "user_id": "1e230980-9144-4586-86c1-3b7bc044474c",
+    "movie_id": "m78",
+    "rating": 4.165083424501088,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-20T20:00:44.911312"
+  },
+  {
+    "review_id": "3f5f38f6-97a9-42e7-ac4e-1c970a639e5c",
+    "user_id": "06045053-9bc9-4a52-9d86-0e053d2b55d5",
+    "movie_id": "m219",
+    "rating": 1.8338943191075132,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-14T20:00:44.911312"
+  },
+  {
+    "review_id": "e79b9d9b-ca82-4c98-a2b0-c18d0a5bfbd9",
+    "user_id": "06045053-9bc9-4a52-9d86-0e053d2b55d5",
+    "movie_id": "m136",
+    "rating": 4.370925036978883,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-13T20:00:44.911312"
+  },
+  {
+    "review_id": "ed623e21-c0ed-4681-8ce4-95ee04f8da68",
+    "user_id": "06045053-9bc9-4a52-9d86-0e053d2b55d5",
+    "movie_id": "m29",
+    "rating": 3.7887066557780464,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-20T20:00:44.911312"
+  },
+  {
+    "review_id": "44ac9a86-68c3-4734-8c80-2368fdef2f96",
+    "user_id": "0cece46a-2eb3-4990-a7b1-9f00553757c1",
+    "movie_id": "m152",
+    "rating": 4.343338980609543,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-21T20:00:44.911312"
+  },
+  {
+    "review_id": "361312fa-9158-4ba7-a0ce-0ccf26c9db62",
+    "user_id": "952b21f4-e645-4253-9c82-b7174021620f",
+    "movie_id": "m133",
+    "rating": 4.002843157202589,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-20T20:00:44.911312"
+  },
+  {
+    "review_id": "129bd6ed-4103-49b0-abdd-33e0d3c5a3b8",
+    "user_id": "952b21f4-e645-4253-9c82-b7174021620f",
+    "movie_id": "m188",
+    "rating": 4.2673584591236144,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-05T20:00:44.911312"
+  },
+  {
+    "review_id": "600a06f1-1a29-4ff5-8583-36d7f7c63e36",
+    "user_id": "952b21f4-e645-4253-9c82-b7174021620f",
+    "movie_id": "m181",
+    "rating": 3.8843254392709956,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-16T20:00:44.911312"
+  },
+  {
+    "review_id": "d832ba44-11a8-4857-a4f6-4e1e90b88388",
+    "user_id": "af2df79b-1674-4409-a682-1b5ceff45eed",
+    "movie_id": "m84",
+    "rating": 4.144642602183838,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-07T20:00:44.911312"
+  },
+  {
+    "review_id": "5066689d-cfe3-473a-8603-3b997a8695a7",
+    "user_id": "af2df79b-1674-4409-a682-1b5ceff45eed",
+    "movie_id": "m77",
+    "rating": 4.3723277133669995,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-22T20:00:44.911312"
+  },
+  {
+    "review_id": "1f7ba474-fa0a-4154-8f69-8919c7de5194",
+    "user_id": "1cc90ee0-f62e-4145-a098-df98c9543fdf",
+    "movie_id": "m285",
+    "rating": 4.730228260729451,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-30T20:00:44.912316"
+  },
+  {
+    "review_id": "9fef22b1-03d9-48be-996c-eb541c90a5f1",
+    "user_id": "1cc90ee0-f62e-4145-a098-df98c9543fdf",
+    "movie_id": "m222",
+    "rating": 1.4125246451958646,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-22T20:00:44.912316"
+  },
+  {
+    "review_id": "9a3bcb88-22f8-42ec-b4fe-b3cd1f90c607",
+    "user_id": "bf85b068-14d7-4f23-8200-f37423bd20f9",
+    "movie_id": "m117",
+    "rating": 2.724653595988294,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-14T20:00:44.912316"
+  },
+  {
+    "review_id": "dbc529da-7eea-4d39-b0a9-db1478325617",
+    "user_id": "bf85b068-14d7-4f23-8200-f37423bd20f9",
+    "movie_id": "m70",
+    "rating": 2.70194115119641,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-15T20:00:44.912316"
+  },
+  {
+    "review_id": "20a4a6a0-4817-40a1-997d-2029817b8ac2",
+    "user_id": "86fc0a76-ef62-4875-8523-a45373d3b56e",
+    "movie_id": "m173",
+    "rating": 3.127840560194879,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-10T20:00:44.912316"
+  },
+  {
+    "review_id": "470b44f3-c9c1-4ce2-a287-3a43e0a3151f",
+    "user_id": "86fc0a76-ef62-4875-8523-a45373d3b56e",
+    "movie_id": "m104",
+    "rating": 3.0052931780812733,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-15T20:00:44.912316"
+  },
+  {
+    "review_id": "63d9551d-9347-45a1-8a22-a24146d62050",
+    "user_id": "86fc0a76-ef62-4875-8523-a45373d3b56e",
+    "movie_id": "m293",
+    "rating": 3.850813200190197,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-18T20:00:44.912316"
+  },
+  {
+    "review_id": "2aaf7778-5567-467b-bb38-6cc7a716de35",
+    "user_id": "e383ff70-5320-4fd1-a5af-3ae28b6ca1b4",
+    "movie_id": "m24",
+    "rating": 2.052969653439594,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-26T20:00:44.913312"
+  },
+  {
+    "review_id": "523c0879-50d0-487c-90de-952799daade7",
+    "user_id": "e383ff70-5320-4fd1-a5af-3ae28b6ca1b4",
+    "movie_id": "m271",
+    "rating": 3.469366936192376,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-20T20:00:44.913312"
+  },
+  {
+    "review_id": "606f50bb-db58-4b7c-a5c6-935b09743cf3",
+    "user_id": "8ed570ff-c2e5-4de6-98f5-f89e966e6ad6",
+    "movie_id": "m92",
+    "rating": 1.1657059795318445,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-01T20:00:44.913312"
+  },
+  {
+    "review_id": "0eb5038f-b36e-40bb-b3a8-3e166ec883a1",
+    "user_id": "0dd36a19-c4fc-4090-934f-6b76e343d9cb",
+    "movie_id": "m26",
+    "rating": 4.343148826213477,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-27T20:00:44.913312"
+  },
+  {
+    "review_id": "7cc49598-9741-4bd0-86bc-dbecad712295",
+    "user_id": "0dd36a19-c4fc-4090-934f-6b76e343d9cb",
+    "movie_id": "m82",
+    "rating": 1.6031564768313618,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-15T20:00:44.913312"
+  },
+  {
+    "review_id": "d517d164-a8f1-4a77-8edc-c48cfadaf757",
+    "user_id": "25360351-df06-41c9-87b3-e30a39bc8475",
+    "movie_id": "m114",
+    "rating": 3.325676581657286,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-07T20:00:44.913312"
+  },
+  {
+    "review_id": "6fad0688-4195-4ff9-886b-43fb29230ac0",
+    "user_id": "25360351-df06-41c9-87b3-e30a39bc8475",
+    "movie_id": "m192",
+    "rating": 4.528911164240932,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-23T20:00:44.913312"
+  },
+  {
+    "review_id": "28bba8dc-e43f-460f-9ce5-16320a05ff53",
+    "user_id": "25360351-df06-41c9-87b3-e30a39bc8475",
+    "movie_id": "m177",
+    "rating": 3.136333664678572,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-08T20:00:44.913312"
+  },
+  {
+    "review_id": "8048e7e8-ab3c-4c30-9448-6974036f2b6a",
+    "user_id": "4494e67a-3fe6-4b5d-aee4-64cde4954700",
+    "movie_id": "m221",
+    "rating": 4.745777763342597,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-06T20:00:44.913312"
+  },
+  {
+    "review_id": "8113b699-7eab-4265-8921-a35123876d7e",
+    "user_id": "4494e67a-3fe6-4b5d-aee4-64cde4954700",
+    "movie_id": "m251",
+    "rating": 2.9496973669106237,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-02T20:00:44.913312"
+  },
+  {
+    "review_id": "350d1b03-081f-4ee0-acb1-58094cc358df",
+    "user_id": "9e27f84b-cc65-4ab0-9ad2-2e5fe0aaacd2",
+    "movie_id": "m208",
+    "rating": 4.328338420817559,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-29T20:00:44.913312"
+  },
+  {
+    "review_id": "1b41ef67-fd7e-48d1-8464-8441715a8cab",
+    "user_id": "9e27f84b-cc65-4ab0-9ad2-2e5fe0aaacd2",
+    "movie_id": "m237",
+    "rating": 1.3288414217221187,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-01T20:00:44.913312"
+  },
+  {
+    "review_id": "c841a98d-9ea4-4845-891a-d9686221a9da",
+    "user_id": "9e27f84b-cc65-4ab0-9ad2-2e5fe0aaacd2",
+    "movie_id": "m148",
+    "rating": 3.5733316055664464,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-30T20:00:44.913312"
+  },
+  {
+    "review_id": "4d46455e-45b7-4142-ab2d-e1735118807a",
+    "user_id": "b8cfedfa-7e28-47ed-95a6-5814a5a91b95",
+    "movie_id": "m209",
+    "rating": 4.598014364508547,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-17T20:00:44.914312"
+  },
+  {
+    "review_id": "a2b9921c-9e90-4628-b6de-1014830563a4",
+    "user_id": "b8cfedfa-7e28-47ed-95a6-5814a5a91b95",
+    "movie_id": "m276",
+    "rating": 2.83260383937567,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-21T20:00:44.914312"
+  },
+  {
+    "review_id": "27d66013-c3d2-4533-8ea1-01dbd5b38c2c",
+    "user_id": "93165cf1-2142-49c2-ba5d-0556da664ace",
+    "movie_id": "m222",
+    "rating": 3.568664428164434,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-16T20:00:44.914312"
+  },
+  {
+    "review_id": "f508528c-6b23-4285-92ef-02e45094c301",
+    "user_id": "93165cf1-2142-49c2-ba5d-0556da664ace",
+    "movie_id": "m44",
+    "rating": 1.5861464114445347,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-05T20:00:44.914312"
+  },
+  {
+    "review_id": "70f810b2-2473-4fa5-ba82-92d4adf1eed1",
+    "user_id": "fae5b7cd-30b0-45ad-b1a6-4d4e868efdbc",
+    "movie_id": "m181",
+    "rating": 4.557795014734964,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-22T20:00:44.914312"
+  },
+  {
+    "review_id": "d42b6c5e-f9ed-42cd-9e38-97a1d45ffd2c",
+    "user_id": "fae5b7cd-30b0-45ad-b1a6-4d4e868efdbc",
+    "movie_id": "m111",
+    "rating": 2.6778623398183954,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-08T20:00:44.914312"
+  },
+  {
+    "review_id": "d18feb30-87f5-49f5-bfbc-55f6cfc2f40f",
+    "user_id": "fae5b7cd-30b0-45ad-b1a6-4d4e868efdbc",
+    "movie_id": "m171",
+    "rating": 2.2594037304978754,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-21T20:00:44.914312"
+  },
+  {
+    "review_id": "c98cc0fc-12ad-4da3-bfa5-6b666a71ba62",
+    "user_id": "646e49eb-61ee-4fb5-a23e-cdd9d953585f",
+    "movie_id": "m106",
+    "rating": 1.4169204328087974,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-04T20:00:44.914312"
+  },
+  {
+    "review_id": "588a7164-eefd-48ac-a1a4-a441eb58a124",
+    "user_id": "f3efc782-1164-4962-91f6-671474d76a3e",
+    "movie_id": "m258",
+    "rating": 2.6108721938991173,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-23T20:00:44.914312"
+  },
+  {
+    "review_id": "18ff51b4-d45b-4836-803e-65cb5aae2d6e",
+    "user_id": "06cc910a-5f3c-4bb8-b08a-15a78d0efdba",
+    "movie_id": "m75",
+    "rating": 2.4123859029810806,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-12T20:00:44.915311"
+  },
+  {
+    "review_id": "1b15f108-6051-452b-9d3c-d7a82c3c5414",
+    "user_id": "d2b7c2d1-a437-44fc-958e-e8911e560891",
+    "movie_id": "m171",
+    "rating": 4.916859999960075,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-11T20:00:44.915311"
+  },
+  {
+    "review_id": "cd841816-2ec1-428e-9d86-e02efd8223c3",
+    "user_id": "fae23884-850a-434d-bd45-23432d4816e5",
+    "movie_id": "m277",
+    "rating": 1.3023691755559743,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-25T20:00:44.916311"
+  },
+  {
+    "review_id": "fecbfb1f-9c27-440a-9b32-c091e8ea7d16",
+    "user_id": "fae23884-850a-434d-bd45-23432d4816e5",
+    "movie_id": "m115",
+    "rating": 3.166510879925129,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-07T20:00:44.916311"
+  },
+  {
+    "review_id": "ba738785-bfd5-4558-b2ba-ce316ab58dce",
+    "user_id": "578e22f6-a205-40d3-886c-2886230299c2",
+    "movie_id": "m150",
+    "rating": 1.4479298353596533,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-21T20:00:44.916311"
+  },
+  {
+    "review_id": "44793d2a-be75-424e-8b77-f722d7d61c63",
+    "user_id": "578e22f6-a205-40d3-886c-2886230299c2",
+    "movie_id": "m269",
+    "rating": 2.579163503187713,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-18T20:00:44.916311"
+  },
+  {
+    "review_id": "e51681d2-19a8-484b-b458-b48b6633766f",
+    "user_id": "578e22f6-a205-40d3-886c-2886230299c2",
+    "movie_id": "m292",
+    "rating": 2.8125223578275773,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-24T20:00:44.916311"
+  },
+  {
+    "review_id": "f5753603-4246-4951-a4ce-ca477bdab8cf",
+    "user_id": "ea120863-ab9f-498b-81b8-d9b411d1ba9c",
+    "movie_id": "m192",
+    "rating": 1.7176597166788161,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-29T20:00:44.916311"
+  },
+  {
+    "review_id": "b10cec41-d58a-47a6-aa10-1f1c317d9f61",
+    "user_id": "ea120863-ab9f-498b-81b8-d9b411d1ba9c",
+    "movie_id": "m29",
+    "rating": 3.5912403907522337,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-08T20:00:44.916311"
+  },
+  {
+    "review_id": "c4c17cf2-03b3-4057-8770-12719566f254",
+    "user_id": "ea120863-ab9f-498b-81b8-d9b411d1ba9c",
+    "movie_id": "m4",
+    "rating": 4.655496158711871,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-20T20:00:44.916311"
+  },
+  {
+    "review_id": "dedbec3d-b6dd-42e5-a8cc-8d0324204217",
+    "user_id": "e968a22d-dc6e-4ac3-b48e-4ffc5886bcb3",
+    "movie_id": "m219",
+    "rating": 3.7882281113041123,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-29T20:00:44.916311"
+  },
+  {
+    "review_id": "9250eafa-66ba-4fe5-a373-a5eedf77a267",
+    "user_id": "894bb7c6-f0b0-4a21-9e9b-7ec3b955fe67",
+    "movie_id": "m144",
+    "rating": 3.5908914596836854,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-18T20:00:44.916311"
+  },
+  {
+    "review_id": "3086f1a3-8dc5-410e-917e-3e515d8bb56d",
+    "user_id": "e9a692ee-b23b-41c4-b995-bcadcba37ba9",
+    "movie_id": "m160",
+    "rating": 4.745898459325865,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-12T20:00:44.916311"
+  },
+  {
+    "review_id": "8b648517-9050-4669-bf6a-368d379f7ed1",
+    "user_id": "e9a692ee-b23b-41c4-b995-bcadcba37ba9",
+    "movie_id": "m38",
+    "rating": 2.8286064844079837,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-01T20:00:44.916311"
+  },
+  {
+    "review_id": "2f986419-d641-4e6e-a833-f797fa2e9016",
+    "user_id": "08fd9917-db6f-4c12-acd0-ef54c59bd884",
+    "movie_id": "m1",
+    "rating": 2.7086776281227687,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-19T20:00:44.917311"
+  },
+  {
+    "review_id": "f9729a12-37b0-4f9d-98a2-9a61f3acb04b",
+    "user_id": "88951fa7-bef7-4809-a4da-5202f0894090",
+    "movie_id": "m74",
+    "rating": 3.2507667120197206,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-18T20:00:44.917311"
+  },
+  {
+    "review_id": "9116a282-8c34-485d-9574-cae2a187b4dc",
+    "user_id": "88951fa7-bef7-4809-a4da-5202f0894090",
+    "movie_id": "m160",
+    "rating": 2.2630956686199553,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-11T20:00:44.917311"
+  },
+  {
+    "review_id": "9bfe2429-7206-4dcf-84f0-0bfaa73d79ad",
+    "user_id": "88951fa7-bef7-4809-a4da-5202f0894090",
+    "movie_id": "m186",
+    "rating": 4.092571072975599,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-30T20:00:44.917311"
+  },
+  {
+    "review_id": "c081a86a-d027-45ec-bd96-bf642b329c55",
+    "user_id": "8bc51ae2-48d3-4622-897d-109edcf754f6",
+    "movie_id": "m115",
+    "rating": 4.6349871631725605,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-11T20:00:44.917311"
+  },
+  {
+    "review_id": "1e69c1eb-cfef-4e47-8f08-2c07eefa42f4",
+    "user_id": "8bc51ae2-48d3-4622-897d-109edcf754f6",
+    "movie_id": "m172",
+    "rating": 4.533495345778608,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-25T20:00:44.917311"
+  },
+  {
+    "review_id": "eff1e033-6ec1-4d1e-905b-813eef980bf5",
+    "user_id": "8bc51ae2-48d3-4622-897d-109edcf754f6",
+    "movie_id": "m174",
+    "rating": 3.378597335096547,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-31T20:00:44.917311"
+  },
+  {
+    "review_id": "82aec34a-da5e-4de6-aada-6a6d69066f3b",
+    "user_id": "7e7fef69-4ccf-4b5e-a27a-245f16ee0a8e",
+    "movie_id": "m251",
+    "rating": 4.672117837804111,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-22T20:00:44.917311"
+  },
+  {
+    "review_id": "694b0331-a6e4-49be-8579-3aa2e8788739",
+    "user_id": "7e169669-a1c9-4d6e-a240-3ed40cc36646",
+    "movie_id": "m11",
+    "rating": 1.7377178577022971,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-27T20:00:44.917311"
+  },
+  {
+    "review_id": "b6599192-2932-45db-b1c4-3037e39b427f",
+    "user_id": "7e169669-a1c9-4d6e-a240-3ed40cc36646",
+    "movie_id": "m120",
+    "rating": 2.88703719232835,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-15T20:00:44.917311"
+  },
+  {
+    "review_id": "d69825f9-54ef-475d-bff9-c5a3b3144409",
+    "user_id": "7e169669-a1c9-4d6e-a240-3ed40cc36646",
+    "movie_id": "m38",
+    "rating": 3.0016221644085213,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-09T20:00:44.917311"
+  },
+  {
+    "review_id": "c14958c7-3d18-4349-a336-903a4421b088",
+    "user_id": "c5d66ab7-68c9-434a-8ca5-fa2425483e52",
+    "movie_id": "m84",
+    "rating": 2.1284558232694764,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-01T20:00:44.918312"
+  },
+  {
+    "review_id": "d1ecbd0e-5e99-4826-bb3b-e0c53e009e98",
+    "user_id": "c5d66ab7-68c9-434a-8ca5-fa2425483e52",
+    "movie_id": "m53",
+    "rating": 4.3566578957567605,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-11T20:00:44.918312"
+  },
+  {
+    "review_id": "740ee3c6-3d96-47b6-9121-02f40ff54e92",
+    "user_id": "96860095-f051-4183-adc0-04417b69ffc7",
+    "movie_id": "m133",
+    "rating": 3.7338327469026344,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-02T20:00:44.918312"
+  },
+  {
+    "review_id": "a0004f25-8cf7-46d7-a658-1ee0b346a02d",
+    "user_id": "96860095-f051-4183-adc0-04417b69ffc7",
+    "movie_id": "m131",
+    "rating": 4.182310648083135,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-24T20:00:44.918312"
+  },
+  {
+    "review_id": "626ebdcd-0bad-4199-ac96-c0de9dcd7204",
+    "user_id": "96860095-f051-4183-adc0-04417b69ffc7",
+    "movie_id": "m244",
+    "rating": 3.1811911929857644,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-14T20:00:44.918312"
+  },
+  {
+    "review_id": "990c4a4a-1cde-4e7b-bfb8-a4612ccec6ad",
+    "user_id": "d56a3e21-3fd0-4c97-831a-994a2454950b",
+    "movie_id": "m146",
+    "rating": 2.727974280982065,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-21T20:00:44.919311"
+  },
+  {
+    "review_id": "9198c0f5-0b4c-4978-ab00-1ec4ed72bb69",
+    "user_id": "d56a3e21-3fd0-4c97-831a-994a2454950b",
+    "movie_id": "m278",
+    "rating": 3.005168098568662,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-30T20:00:44.919311"
+  },
+  {
+    "review_id": "08f15bd5-5ad1-4295-8f85-9e517ca0c48b",
+    "user_id": "2eeb6a24-14de-4792-92f6-804fc0c55069",
+    "movie_id": "m42",
+    "rating": 1.787861293562068,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-25T20:00:44.919311"
+  },
+  {
+    "review_id": "ff956345-8978-4782-957d-79f4b91fccc5",
+    "user_id": "25e3a835-be43-4482-9567-c94906fbb1f8",
+    "movie_id": "m158",
+    "rating": 2.9871651448964056,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-09T20:00:44.919311"
+  },
+  {
+    "review_id": "0835ae17-745a-4c22-9c33-df931cd3fa6d",
+    "user_id": "570ba118-8f2c-4418-8a0a-44f4ec4201d6",
+    "movie_id": "m252",
+    "rating": 3.8129651188718445,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-09T20:00:44.919311"
+  },
+  {
+    "review_id": "d9ffee71-c461-450b-9de3-f08dfdfe513c",
+    "user_id": "570ba118-8f2c-4418-8a0a-44f4ec4201d6",
+    "movie_id": "m169",
+    "rating": 1.4291907355432114,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-04T20:00:44.919311"
+  },
+  {
+    "review_id": "b8c4d430-9504-4feb-aaef-5df6af4473e9",
+    "user_id": "570ba118-8f2c-4418-8a0a-44f4ec4201d6",
+    "movie_id": "m80",
+    "rating": 1.220150724063128,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-27T20:00:44.919311"
+  },
+  {
+    "review_id": "7342124b-87ae-438a-8f04-963077618e38",
+    "user_id": "c85ba4d8-94d7-488b-9429-f3469ccc5cc7",
+    "movie_id": "m186",
+    "rating": 3.571068525462221,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-27T20:00:44.919311"
+  },
+  {
+    "review_id": "0f4c6126-a85a-4403-9c6d-0b26291bacf7",
+    "user_id": "c85ba4d8-94d7-488b-9429-f3469ccc5cc7",
+    "movie_id": "m64",
+    "rating": 4.352217818858675,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-20T20:00:44.919311"
+  },
+  {
+    "review_id": "f66f038e-ea3c-4bc5-8390-790649801f97",
+    "user_id": "2d97066b-4973-45f6-9de9-9557200e0325",
+    "movie_id": "m87",
+    "rating": 4.5636709686453685,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-12T20:00:44.920311"
+  },
+  {
+    "review_id": "95195f10-124f-4fbf-8da4-de71a48fc1d3",
+    "user_id": "2d97066b-4973-45f6-9de9-9557200e0325",
+    "movie_id": "m64",
+    "rating": 3.302827091166209,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-15T20:00:44.920311"
+  },
+  {
+    "review_id": "872e087c-74da-4add-ba8d-2d6fe9086ff5",
+    "user_id": "74cba611-30ea-4497-88c5-9bf28cdd0469",
+    "movie_id": "m103",
+    "rating": 3.6155815027242464,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-01T20:00:44.920311"
+  },
+  {
+    "review_id": "f065aa29-a540-4d55-b2ee-aa64ee0f7a56",
+    "user_id": "74cba611-30ea-4497-88c5-9bf28cdd0469",
+    "movie_id": "m151",
+    "rating": 2.22886144076253,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-16T20:00:44.920311"
+  },
+  {
+    "review_id": "009e6ba2-dc4a-47a8-bb47-9f815e639c6d",
+    "user_id": "5a95ec0c-a202-4099-bf17-476a0f8b5c5b",
+    "movie_id": "m97",
+    "rating": 1.2154327883027989,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-06T20:00:44.920311"
+  },
+  {
+    "review_id": "eed4f732-0a7d-4aa8-92dc-093783fe0d3a",
+    "user_id": "012ef3c0-d7d6-4aef-a2c8-1d7a8dafaf0a",
+    "movie_id": "m242",
+    "rating": 2.3605023644862655,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-30T20:00:44.920311"
+  },
+  {
+    "review_id": "5bdcfbbf-83ba-489c-bba7-5fa14acb22d0",
+    "user_id": "c1e750d6-a3a4-4ab5-b9a4-30f16cdaebf2",
+    "movie_id": "m105",
+    "rating": 2.6500292259561635,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-14T20:00:44.920311"
+  },
+  {
+    "review_id": "204860ab-d91d-4fcd-8ced-44f4d881d44e",
+    "user_id": "c1e750d6-a3a4-4ab5-b9a4-30f16cdaebf2",
+    "movie_id": "m122",
+    "rating": 1.415606667390509,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-04T20:00:44.920311"
+  },
+  {
+    "review_id": "36226d3e-bd12-47fa-8a78-17a7cf35c980",
+    "user_id": "c1e750d6-a3a4-4ab5-b9a4-30f16cdaebf2",
+    "movie_id": "m58",
+    "rating": 1.459292079684643,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-19T20:00:44.920311"
+  },
+  {
+    "review_id": "541d014e-30d6-4df3-9beb-71e6016b0fe6",
+    "user_id": "53a8e0f2-710a-4dde-91df-27e968369549",
+    "movie_id": "m274",
+    "rating": 4.6611124214502615,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-06T20:00:44.921311"
+  },
+  {
+    "review_id": "22a0a33b-39d3-45bd-ab51-c514ad49b1d9",
+    "user_id": "53a8e0f2-710a-4dde-91df-27e968369549",
+    "movie_id": "m3",
+    "rating": 1.4595966749725937,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-22T20:00:44.921311"
+  },
+  {
+    "review_id": "ba8fe6b8-08ca-449a-a9cb-9bd053911e2a",
+    "user_id": "b7c52f1d-4fc7-4b2a-aba5-e95823092664",
+    "movie_id": "m263",
+    "rating": 3.374735365906311,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-08T20:00:44.921311"
+  },
+  {
+    "review_id": "2c4a7274-95dc-4249-a1ee-cc5dfd5ed4b3",
+    "user_id": "93856848-2b09-4bb0-a459-63c7dcfe2d67",
+    "movie_id": "m161",
+    "rating": 4.648133481430198,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-30T20:00:44.921311"
+  },
+  {
+    "review_id": "60b7d2c8-2a6f-45ce-af31-6f6882b83eaa",
+    "user_id": "93856848-2b09-4bb0-a459-63c7dcfe2d67",
+    "movie_id": "m105",
+    "rating": 2.1809540411099935,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-14T20:00:44.921311"
+  },
+  {
+    "review_id": "edd113e0-c4f6-4974-92c2-cfb963bbbc17",
+    "user_id": "93856848-2b09-4bb0-a459-63c7dcfe2d67",
+    "movie_id": "m181",
+    "rating": 1.9632340272675535,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-19T20:00:44.921311"
+  },
+  {
+    "review_id": "d958e12e-24d2-4a0a-8dec-90078cef9549",
+    "user_id": "fa0b43ab-4e5b-45a6-a25a-c9e7449b7650",
+    "movie_id": "m189",
+    "rating": 1.7675586816218232,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-18T20:00:44.921311"
+  },
+  {
+    "review_id": "e657dcd6-c092-4af5-ae3c-e79472751c0e",
+    "user_id": "fa0b43ab-4e5b-45a6-a25a-c9e7449b7650",
+    "movie_id": "m18",
+    "rating": 4.2145951933781465,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-26T20:00:44.921311"
+  },
+  {
+    "review_id": "8a0c663b-abb3-4201-94df-597b1283e1a5",
+    "user_id": "fa0b43ab-4e5b-45a6-a25a-c9e7449b7650",
+    "movie_id": "m287",
+    "rating": 4.082195774451069,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-13T20:00:44.921311"
+  },
+  {
+    "review_id": "22c45b28-a44b-40b0-ad95-5edae4f840b0",
+    "user_id": "a02e4144-c8cc-4831-bb9f-56495aa927a6",
+    "movie_id": "m36",
+    "rating": 1.66993840827802,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-20T20:00:44.922311"
+  },
+  {
+    "review_id": "b298490f-dbf6-4386-96f8-7629747a5864",
+    "user_id": "a02e4144-c8cc-4831-bb9f-56495aa927a6",
+    "movie_id": "m233",
+    "rating": 1.1328144778746054,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-02T20:00:44.922311"
+  },
+  {
+    "review_id": "5d174c7f-9101-4fcd-8d06-882779b77bbb",
+    "user_id": "a02e4144-c8cc-4831-bb9f-56495aa927a6",
+    "movie_id": "m175",
+    "rating": 3.4390066727847066,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-24T20:00:44.922311"
+  },
+  {
+    "review_id": "69386f1a-00d7-4417-a716-2c78d4726425",
+    "user_id": "df64507c-c1b0-4466-ae80-76b1af250043",
+    "movie_id": "m265",
+    "rating": 4.813869318293312,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-13T20:00:44.922311"
+  },
+  {
+    "review_id": "2a13776a-cbd3-46c2-ae90-bd6b0f654999",
+    "user_id": "0ea06032-e566-4588-b9ef-134accf8ee47",
+    "movie_id": "m35",
+    "rating": 2.968444613091821,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-16T20:00:44.922311"
+  },
+  {
+    "review_id": "9bde411b-b2e0-495a-9b61-f898e635f5e7",
+    "user_id": "342badd6-99e9-4ab5-a560-94bb5aeea682",
+    "movie_id": "m90",
+    "rating": 2.0179245427632546,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-21T20:00:44.922311"
+  },
+  {
+    "review_id": "1cf80028-22ab-4300-b6c7-5f99acec4e8f",
+    "user_id": "31902d3f-471f-47ba-848c-1080f4f0000a",
+    "movie_id": "m164",
+    "rating": 4.7013030407366685,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-28T20:00:44.922311"
+  },
+  {
+    "review_id": "78af1770-6a74-4143-86e9-962e27307b54",
+    "user_id": "2c708554-4b4e-452e-bfd7-cf5683060663",
+    "movie_id": "m177",
+    "rating": 4.448271975612792,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-18T20:00:44.922311"
+  },
+  {
+    "review_id": "2289ac8e-0242-456a-88ca-426f58176c7c",
+    "user_id": "66c5963b-9293-4bf9-9a32-c7ed7e65a51b",
+    "movie_id": "m203",
+    "rating": 2.988726953011523,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-18T20:00:44.923311"
+  },
+  {
+    "review_id": "bf4cf6ca-1965-4145-9de6-bbfc86018640",
+    "user_id": "8f0c2650-d83e-4509-9739-9bb5ceeaa65d",
+    "movie_id": "m263",
+    "rating": 3.4277139181938514,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-09T20:00:44.923311"
+  },
+  {
+    "review_id": "89969738-e3e7-4685-a18c-2a4bb46a339e",
+    "user_id": "d75e18d2-0fde-4464-9879-51f144f9066a",
+    "movie_id": "m18",
+    "rating": 4.102943401857699,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-11T20:00:44.923311"
+  },
+  {
+    "review_id": "eabcbf4e-14c9-4166-baa8-23aa13cab5ff",
+    "user_id": "ca0b93a6-245e-499a-9c19-2c6ada503867",
+    "movie_id": "m194",
+    "rating": 3.101943021856384,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-25T20:00:44.923311"
+  },
+  {
+    "review_id": "eabb5d38-ce1f-4220-bcdf-36287af70424",
+    "user_id": "ca0b93a6-245e-499a-9c19-2c6ada503867",
+    "movie_id": "m249",
+    "rating": 3.112252680734037,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-04T20:00:44.923311"
+  },
+  {
+    "review_id": "a08e3ade-50fb-4160-adbc-678878fb58fc",
+    "user_id": "3a69305d-c1dd-4409-905b-7c81ad0d9708",
+    "movie_id": "m278",
+    "rating": 1.825587212706783,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-07T20:00:44.923311"
+  },
+  {
+    "review_id": "1742a18f-ce2a-4732-9ba7-14a2fb5664e4",
+    "user_id": "3a69305d-c1dd-4409-905b-7c81ad0d9708",
+    "movie_id": "m251",
+    "rating": 4.871488457929768,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-23T20:00:44.923311"
+  },
+  {
+    "review_id": "b304b801-b617-4f74-8879-b01d76f5fe1f",
+    "user_id": "0b87dc73-cb72-47db-9bb8-2a2317d1bd6b",
+    "movie_id": "m116",
+    "rating": 4.332432123282998,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-27T20:00:44.923311"
+  },
+  {
+    "review_id": "9a19016d-7c9a-4876-8142-a2e337d2ac1a",
+    "user_id": "0b87dc73-cb72-47db-9bb8-2a2317d1bd6b",
+    "movie_id": "m183",
+    "rating": 2.3997499759306296,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-22T20:00:44.923311"
+  },
+  {
+    "review_id": "d2929c89-0778-498a-94d8-182e8805c5a1",
+    "user_id": "0b87dc73-cb72-47db-9bb8-2a2317d1bd6b",
+    "movie_id": "m79",
+    "rating": 4.910625754340078,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-14T20:00:44.923311"
+  },
+  {
+    "review_id": "5dfdc93e-7b23-41c0-aed8-fbf390fb6a71",
+    "user_id": "96e587b7-83d7-4974-8e5e-3449cc68094a",
+    "movie_id": "m259",
+    "rating": 4.324159552351043,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-31T20:00:44.924311"
+  },
+  {
+    "review_id": "9c121ba3-d18f-42e4-8eb2-e3827e7a99cd",
+    "user_id": "8949ead1-04f4-4bfd-8fc1-e5439263ada8",
+    "movie_id": "m15",
+    "rating": 3.3568013924536517,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-08T20:00:44.924311"
+  },
+  {
+    "review_id": "3ce85b18-16d2-4d35-9337-2eb8706297ad",
+    "user_id": "405c96f7-815d-4df3-9436-9816ccdb61f7",
+    "movie_id": "m155",
+    "rating": 2.509370343692729,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-07T20:00:44.924311"
+  },
+  {
+    "review_id": "7dbb5d6b-9d84-45a2-8119-631edab98d80",
+    "user_id": "405c96f7-815d-4df3-9436-9816ccdb61f7",
+    "movie_id": "m165",
+    "rating": 1.3124501688163002,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-13T20:00:44.924311"
+  },
+  {
+    "review_id": "9a02c800-8257-4209-bfd7-66478b4b36dd",
+    "user_id": "405c96f7-815d-4df3-9436-9816ccdb61f7",
+    "movie_id": "m153",
+    "rating": 4.908001084561205,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-08T20:00:44.924311"
+  },
+  {
+    "review_id": "a81a5b9a-d82d-4eb8-8500-1aa2fe586a87",
+    "user_id": "cb4b78c3-098a-4202-9e0e-0bd302263b3d",
+    "movie_id": "m181",
+    "rating": 2.114062458713046,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-21T20:00:44.924311"
+  },
+  {
+    "review_id": "16e623ca-ed4c-4d0b-aa65-835c5ce1ca26",
+    "user_id": "cb4b78c3-098a-4202-9e0e-0bd302263b3d",
+    "movie_id": "m61",
+    "rating": 4.32525035589679,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-21T20:00:44.924311"
+  },
+  {
+    "review_id": "bcc9ba39-287b-4700-9e4d-6be13b8394de",
+    "user_id": "f8edc9f2-43b6-4939-9e50-c7cf774ecf2a",
+    "movie_id": "m114",
+    "rating": 2.3433149542994927,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-23T20:00:44.924311"
+  },
+  {
+    "review_id": "bb265578-de3a-4b92-b2b0-9a16ba223617",
+    "user_id": "569dcc03-8106-4ff4-b925-f715ec9030e4",
+    "movie_id": "m49",
+    "rating": 2.6295235363078104,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-23T20:00:44.925311"
+  },
+  {
+    "review_id": "9d7f1d6f-7640-4a97-81f9-65745ab51b5d",
+    "user_id": "0dc02516-5c8b-47e2-a237-8a5360570637",
+    "movie_id": "m37",
+    "rating": 1.9730946215864202,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-02T20:00:44.925311"
+  },
+  {
+    "review_id": "4ddfd3a0-5785-49c2-8040-1ed15c78c47c",
+    "user_id": "5cee48c4-a347-4dc4-ac1c-67bda31b52be",
+    "movie_id": "m190",
+    "rating": 3.6369933582523912,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-28T20:00:44.925311"
+  },
+  {
+    "review_id": "790a70c5-c97e-4d3c-be0d-638e9087aab2",
+    "user_id": "5cee48c4-a347-4dc4-ac1c-67bda31b52be",
+    "movie_id": "m147",
+    "rating": 4.25650167807274,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-07T20:00:44.925311"
+  },
+  {
+    "review_id": "59bacddc-8b48-49b4-b323-253a97df4927",
+    "user_id": "5cee48c4-a347-4dc4-ac1c-67bda31b52be",
+    "movie_id": "m170",
+    "rating": 4.5711918573266015,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-14T20:00:44.925311"
+  },
+  {
+    "review_id": "4cae9503-183e-412a-a3c4-7cd8f60dd6f2",
+    "user_id": "260455ce-37cd-4a0a-a507-c9e461de51f8",
+    "movie_id": "m153",
+    "rating": 1.0447826428001235,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-06T20:00:44.926311"
+  },
+  {
+    "review_id": "565fe0e9-0a73-4f77-8790-0cd533143f88",
+    "user_id": "260455ce-37cd-4a0a-a507-c9e461de51f8",
+    "movie_id": "m273",
+    "rating": 3.088909391481267,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-31T20:00:44.926311"
+  },
+  {
+    "review_id": "b405b22b-29a6-4990-ada5-3ebb2c714bf5",
+    "user_id": "5f9fef91-f161-4513-89fd-ecb48a17f818",
+    "movie_id": "m11",
+    "rating": 2.7710498163401738,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-06T20:00:44.926311"
+  },
+  {
+    "review_id": "f4b3469a-037f-44bf-8136-ff6aaf3efb1f",
+    "user_id": "5f9fef91-f161-4513-89fd-ecb48a17f818",
+    "movie_id": "m64",
+    "rating": 1.1352956560352703,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-17T20:00:44.926311"
+  },
+  {
+    "review_id": "48b30a19-8abc-4043-8654-7d4ddb69f610",
+    "user_id": "5f9fef91-f161-4513-89fd-ecb48a17f818",
+    "movie_id": "m69",
+    "rating": 2.1082821197586465,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-18T20:00:44.926311"
+  },
+  {
+    "review_id": "25c0f3c1-77f5-40f0-9640-49f26f68eb0d",
+    "user_id": "21d6e14f-f65a-4db6-9b14-d6d549e02571",
+    "movie_id": "m125",
+    "rating": 2.0700817103622233,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-02T20:00:44.926311"
+  },
+  {
+    "review_id": "96f990af-669f-4975-84e0-ef86febc8585",
+    "user_id": "21d6e14f-f65a-4db6-9b14-d6d549e02571",
+    "movie_id": "m143",
+    "rating": 4.672525647499091,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-08T20:00:44.926311"
+  },
+  {
+    "review_id": "9ef8e941-2132-4391-bf48-83ef5b6b0242",
+    "user_id": "d3fb7436-74d7-4691-9361-1934df6cecb4",
+    "movie_id": "m172",
+    "rating": 1.5392798103830767,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-06T20:00:44.926311"
+  },
+  {
+    "review_id": "4ed3e536-7bd5-4100-88f7-d86686d7044b",
+    "user_id": "d3fb7436-74d7-4691-9361-1934df6cecb4",
+    "movie_id": "m242",
+    "rating": 2.3221665687856925,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-01T20:00:44.926311"
+  },
+  {
+    "review_id": "39aeb833-4b69-4355-a4f0-1a664d7f7513",
+    "user_id": "9e34d4b4-919e-4eaa-b8c0-17a68f26a818",
+    "movie_id": "m248",
+    "rating": 4.469058418897747,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-08T20:00:44.927311"
+  },
+  {
+    "review_id": "8d8954c4-7469-4df0-b857-170a922d0b93",
+    "user_id": "83bae77c-18a9-45db-a1e3-0802489dba7e",
+    "movie_id": "m281",
+    "rating": 1.543925737840167,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-26T20:00:44.927311"
+  },
+  {
+    "review_id": "d8383fff-09d8-4998-9c78-0f94aabed6e1",
+    "user_id": "83bae77c-18a9-45db-a1e3-0802489dba7e",
+    "movie_id": "m229",
+    "rating": 1.483379621247737,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-22T20:00:44.927311"
+  },
+  {
+    "review_id": "d0e57500-f64d-4218-8f63-b5f785b1de45",
+    "user_id": "83bae77c-18a9-45db-a1e3-0802489dba7e",
+    "movie_id": "m103",
+    "rating": 1.8900583847803638,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-16T20:00:44.927311"
+  },
+  {
+    "review_id": "42d9e291-33f6-447a-84a4-ffd3f0f066f8",
+    "user_id": "299328c0-a58b-475a-ad1a-33c267a0dbd6",
+    "movie_id": "m179",
+    "rating": 1.504935662085225,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-27T20:00:44.927311"
+  },
+  {
+    "review_id": "7e566c97-2941-46f9-9fcd-913fb2d7287e",
+    "user_id": "299328c0-a58b-475a-ad1a-33c267a0dbd6",
+    "movie_id": "m119",
+    "rating": 1.636132627964042,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-21T20:00:44.927311"
+  },
+  {
+    "review_id": "cde8471e-41e3-403a-b0e9-a4d7c2284919",
+    "user_id": "d9d96649-86ef-4932-9b54-a4f7f43b4b02",
+    "movie_id": "m152",
+    "rating": 4.754841260778812,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-01T20:00:44.927311"
+  },
+  {
+    "review_id": "d2e00d99-e0c3-4da8-9797-d7efdb0cb087",
+    "user_id": "d9d96649-86ef-4932-9b54-a4f7f43b4b02",
+    "movie_id": "m160",
+    "rating": 4.172775499464393,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-11T20:00:44.927311"
+  },
+  {
+    "review_id": "68a8c0fa-320d-4221-a0fd-827fc7af3930",
+    "user_id": "9c2e0db9-54c3-485f-a98f-01bb33e34513",
+    "movie_id": "m281",
+    "rating": 4.460641036772101,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-13T20:00:44.927311"
+  },
+  {
+    "review_id": "14c298c8-e521-4b8b-b0d8-52da3782ecdf",
+    "user_id": "9c2e0db9-54c3-485f-a98f-01bb33e34513",
+    "movie_id": "m209",
+    "rating": 4.007744655460316,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-09T20:00:44.927311"
+  },
+  {
+    "review_id": "30a60d85-fd57-4ea7-bf77-526812df7141",
+    "user_id": "9c2e0db9-54c3-485f-a98f-01bb33e34513",
+    "movie_id": "m264",
+    "rating": 2.1243233751252175,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-14T20:00:44.927311"
+  },
+  {
+    "review_id": "e1f2e348-d666-4c1c-9fc7-e446539c6d77",
+    "user_id": "37e538f9-97d0-41c2-b00c-0345c4f4f464",
+    "movie_id": "m191",
+    "rating": 3.3656541473272568,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-29T20:00:44.927311"
+  },
+  {
+    "review_id": "dfb23880-4e3b-4fc3-8f07-ad9ca7a374d8",
+    "user_id": "37e538f9-97d0-41c2-b00c-0345c4f4f464",
+    "movie_id": "m135",
+    "rating": 1.4953246398840756,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-24T20:00:44.927311"
+  },
+  {
+    "review_id": "aa06b565-de39-4aed-9085-bca01af3bd4e",
+    "user_id": "37e538f9-97d0-41c2-b00c-0345c4f4f464",
+    "movie_id": "m131",
+    "rating": 4.886271900433402,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-24T20:00:44.927311"
+  },
+  {
+    "review_id": "efedc595-c592-47e7-9bc4-40278456f56d",
+    "user_id": "3e4bbb3b-9b18-4dda-ae94-cad91d786d33",
+    "movie_id": "m57",
+    "rating": 4.389777343924251,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-10T20:00:44.928315"
+  },
+  {
+    "review_id": "54da203c-f700-4377-a20b-1ca6829b831a",
+    "user_id": "3e4bbb3b-9b18-4dda-ae94-cad91d786d33",
+    "movie_id": "m181",
+    "rating": 3.4093098951992586,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-01T20:00:44.928315"
+  },
+  {
+    "review_id": "97f83f87-0d44-4d97-9430-53ebae8bbe7c",
+    "user_id": "3e4bbb3b-9b18-4dda-ae94-cad91d786d33",
+    "movie_id": "m164",
+    "rating": 1.5477936692719823,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-30T20:00:44.928315"
+  },
+  {
+    "review_id": "e343873f-3a92-4e20-959d-2b97e735c4c3",
+    "user_id": "5610d0b8-4dd5-4fe1-9944-5445f52b63f7",
+    "movie_id": "m235",
+    "rating": 4.540834825711665,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-04T20:00:44.928315"
+  },
+  {
+    "review_id": "c3527732-648a-45fb-8437-2299f37dd2b6",
+    "user_id": "3809f556-acee-4d3b-892f-bd2c46beb451",
+    "movie_id": "m104",
+    "rating": 4.196854020068413,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-14T20:00:44.928315"
+  },
+  {
+    "review_id": "dfd00dae-e43e-4982-b0c5-0093ed450fea",
+    "user_id": "06cae73a-b405-4bdf-bdb3-fcd55edfc006",
+    "movie_id": "m102",
+    "rating": 4.3116221777031924,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-27T20:00:44.928315"
+  },
+  {
+    "review_id": "192c1915-01d3-40b3-975d-3c80d4146d26",
+    "user_id": "9f4bb86f-4959-4922-b62d-9a059ff776a4",
+    "movie_id": "m64",
+    "rating": 1.8319607414669892,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-25T20:00:44.928315"
+  },
+  {
+    "review_id": "a9c7cc18-fe82-4032-aea5-09d1afd1fd3c",
+    "user_id": "4d8a66aa-26c5-4d99-87d1-e185884420bf",
+    "movie_id": "m249",
+    "rating": 4.636154555143804,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-28T20:00:44.928315"
+  },
+  {
+    "review_id": "caeaa3fd-d5ac-4dab-aa9c-5a2f36a1a4f7",
+    "user_id": "a730449e-af42-4440-993f-6c0d042f1542",
+    "movie_id": "m222",
+    "rating": 2.7959099088744,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-18T20:00:44.929314"
+  },
+  {
+    "review_id": "2eb25249-419b-438a-8f2a-5c77dd3c6d3f",
+    "user_id": "27d0ad4b-2ffe-4e7c-9980-9f9e3e68d09b",
+    "movie_id": "m132",
+    "rating": 1.8966727549751714,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-16T20:00:44.929314"
+  },
+  {
+    "review_id": "5386e833-41d8-4fc0-a063-c3ce9a5bffba",
+    "user_id": "27d0ad4b-2ffe-4e7c-9980-9f9e3e68d09b",
+    "movie_id": "m114",
+    "rating": 1.229082458484481,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-24T20:00:44.929314"
+  },
+  {
+    "review_id": "3571761a-9bc0-410a-a0f8-756b53372a54",
+    "user_id": "4009d6be-9d8e-4461-8b1c-589be63b22b7",
+    "movie_id": "m25",
+    "rating": 3.328793433312475,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-08T20:00:44.929314"
+  },
+  {
+    "review_id": "8c56ff74-36dc-4eeb-b405-a77c22455cc2",
+    "user_id": "4009d6be-9d8e-4461-8b1c-589be63b22b7",
+    "movie_id": "m49",
+    "rating": 4.4843647671075235,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-26T20:00:44.929314"
+  },
+  {
+    "review_id": "6a7b0479-6d97-4fdc-b041-64d0c44c7ff5",
+    "user_id": "b1db2dc9-0dd2-4139-a11c-7397591bfc42",
+    "movie_id": "m191",
+    "rating": 2.5993360808539117,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-13T20:00:44.929314"
+  },
+  {
+    "review_id": "c77e23d8-afe8-4446-aae9-fd64fc7e66d2",
+    "user_id": "9e287ba5-347f-46f6-aeac-4b476a3d9375",
+    "movie_id": "m110",
+    "rating": 1.5973753746578443,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-28T20:00:44.929314"
+  },
+  {
+    "review_id": "f6e4bdbd-f7b5-496f-8593-1845fe7d7386",
+    "user_id": "9e287ba5-347f-46f6-aeac-4b476a3d9375",
+    "movie_id": "m88",
+    "rating": 4.902068337852906,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-20T20:00:44.929314"
+  },
+  {
+    "review_id": "e4ca6742-0b8a-4ab5-8e11-f93592fee733",
+    "user_id": "9e287ba5-347f-46f6-aeac-4b476a3d9375",
+    "movie_id": "m185",
+    "rating": 4.482876112190484,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-28T20:00:44.929314"
+  },
+  {
+    "review_id": "62b61127-db5b-44a4-8f1d-8fdf68a3693a",
+    "user_id": "288a39ca-06fb-4b82-94f3-3e6a5a734bb7",
+    "movie_id": "m50",
+    "rating": 1.5154780991097083,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-21T20:00:44.929314"
+  },
+  {
+    "review_id": "cb023bae-859b-463a-a9ae-ea7770d625ca",
+    "user_id": "288a39ca-06fb-4b82-94f3-3e6a5a734bb7",
+    "movie_id": "m76",
+    "rating": 1.5720071122993153,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-19T20:00:44.929314"
+  },
+  {
+    "review_id": "38a75d10-82e8-48de-9609-bcc35cbf0aa9",
+    "user_id": "288a39ca-06fb-4b82-94f3-3e6a5a734bb7",
+    "movie_id": "m230",
+    "rating": 2.983776541659398,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-04T20:00:44.929314"
+  },
+  {
+    "review_id": "67f104fe-d769-4574-a50d-f9513aed6343",
+    "user_id": "a695f15f-cbf5-4166-90d5-6312714b067c",
+    "movie_id": "m198",
+    "rating": 3.063075023626116,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-12T20:00:44.930312"
+  },
+  {
+    "review_id": "62bdf8ff-d032-4dcb-bb71-267820bf3e76",
+    "user_id": "a695f15f-cbf5-4166-90d5-6312714b067c",
+    "movie_id": "m204",
+    "rating": 2.906053338984641,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-05T20:00:44.930312"
+  },
+  {
+    "review_id": "ce9f0c6c-7a49-426e-ad90-9399c5e60ab0",
+    "user_id": "722cf35f-e75a-4aa3-ba15-9bdda808ad52",
+    "movie_id": "m178",
+    "rating": 1.42206832518217,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-05T20:00:44.930312"
+  },
+  {
+    "review_id": "bb6d2f13-1718-44ee-8bdc-65c137d5c532",
+    "user_id": "edee4797-584d-4333-8185-ec32c7ead0af",
+    "movie_id": "m184",
+    "rating": 2.9844401806196443,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-01T20:00:44.930312"
+  },
+  {
+    "review_id": "fa56be44-33df-4a58-adc7-6ffdc0ae0464",
+    "user_id": "edee4797-584d-4333-8185-ec32c7ead0af",
+    "movie_id": "m270",
+    "rating": 1.3413376848746554,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-02T20:00:44.930312"
+  },
+  {
+    "review_id": "67dbc51e-5c42-4d5c-ab43-eb1934479311",
+    "user_id": "db00c90d-a9c8-43c0-99f4-c9f29399329f",
+    "movie_id": "m143",
+    "rating": 3.0816038440681766,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-29T20:00:44.931311"
+  },
+  {
+    "review_id": "95de895e-ead1-41c1-aa59-59ebd483df63",
+    "user_id": "0e112354-d395-4f61-bcea-1193e46d4ccc",
+    "movie_id": "m111",
+    "rating": 4.615647226860281,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-02T20:00:44.931311"
+  },
+  {
+    "review_id": "43d74625-4360-4ba7-bf91-c5e4fa40a500",
+    "user_id": "a91a513b-96a9-4c77-804c-9424cead9056",
+    "movie_id": "m264",
+    "rating": 2.681423830614761,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-04T20:00:44.931311"
+  },
+  {
+    "review_id": "b339a168-5efe-4f83-862e-65a9cea5ef9e",
+    "user_id": "a91a513b-96a9-4c77-804c-9424cead9056",
+    "movie_id": "m145",
+    "rating": 2.4919447719529217,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-27T20:00:44.931311"
+  },
+  {
+    "review_id": "6c7047b1-71ad-42e0-8246-e5f5b4a1e0ac",
+    "user_id": "245281a9-5484-4bdd-b3f9-a9a5169932ad",
+    "movie_id": "m290",
+    "rating": 3.7724392019220114,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-05T20:00:44.931311"
+  },
+  {
+    "review_id": "1a24d041-d299-4a82-8054-c133389e679d",
+    "user_id": "245281a9-5484-4bdd-b3f9-a9a5169932ad",
+    "movie_id": "m257",
+    "rating": 3.8154494604065343,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-17T20:00:44.931311"
+  },
+  {
+    "review_id": "a4d9a14c-a85c-444d-a1ca-c0e292e58cef",
+    "user_id": "245281a9-5484-4bdd-b3f9-a9a5169932ad",
+    "movie_id": "m192",
+    "rating": 3.319754195152342,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-03T20:00:44.931311"
+  },
+  {
+    "review_id": "18c37e96-7844-49eb-b735-bd82200c40b3",
+    "user_id": "ebb3c1c7-2f49-441d-8bed-c01d8797c8e9",
+    "movie_id": "m58",
+    "rating": 4.33747568933386,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-11T20:00:44.931311"
+  },
+  {
+    "review_id": "b0451dbc-deee-4c16-afae-9aecbc8a6a46",
+    "user_id": "ebb3c1c7-2f49-441d-8bed-c01d8797c8e9",
+    "movie_id": "m293",
+    "rating": 2.679932793000378,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-05T20:00:44.931311"
+  },
+  {
+    "review_id": "14eafc2f-c20b-478b-8f46-8f93da7fd247",
+    "user_id": "460d8229-821e-4f4e-be22-48131af73a73",
+    "movie_id": "m194",
+    "rating": 1.5946386604627572,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-16T20:00:44.932312"
+  },
+  {
+    "review_id": "bc37f8c2-8421-4669-bcbc-91283498d283",
+    "user_id": "7e0fa521-89d7-417a-8852-ef62aa30b762",
+    "movie_id": "m223",
+    "rating": 3.0856199092634533,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-26T20:00:44.932312"
+  },
+  {
+    "review_id": "960ccd3f-4988-46dd-be85-ade9454bd4ca",
+    "user_id": "77865413-bb71-4734-87eb-c7e2fd055be1",
+    "movie_id": "m105",
+    "rating": 1.6604844509640393,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-19T20:00:44.932312"
+  },
+  {
+    "review_id": "d7e9864a-688a-4965-846d-6b02ea6db8cf",
+    "user_id": "77865413-bb71-4734-87eb-c7e2fd055be1",
+    "movie_id": "m146",
+    "rating": 1.9550235124944026,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-30T20:00:44.932312"
+  },
+  {
+    "review_id": "945938af-e400-42b9-bc81-0de8faaf21e2",
+    "user_id": "77865413-bb71-4734-87eb-c7e2fd055be1",
+    "movie_id": "m134",
+    "rating": 2.488023929348129,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-20T20:00:44.932312"
+  },
+  {
+    "review_id": "5a87ce8b-3ac3-415e-ae8e-a648286e0c8a",
+    "user_id": "9dc92f4a-6894-4b39-95e2-da08ebcf27ce",
+    "movie_id": "m135",
+    "rating": 4.410233946527923,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-17T20:00:44.932312"
+  },
+  {
+    "review_id": "eff724f6-6f89-42cd-8a4d-e5fe77be1f17",
+    "user_id": "9dc92f4a-6894-4b39-95e2-da08ebcf27ce",
+    "movie_id": "m30",
+    "rating": 1.6317691261907248,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-29T20:00:44.932312"
+  },
+  {
+    "review_id": "9623fd6b-820a-4a08-98ac-be5fc598c0d5",
+    "user_id": "9dc92f4a-6894-4b39-95e2-da08ebcf27ce",
+    "movie_id": "m174",
+    "rating": 4.582249898892981,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-31T20:00:44.932312"
+  },
+  {
+    "review_id": "e541a30e-0dcf-4b42-8df7-8adceefe1c0f",
+    "user_id": "7464cb89-eba3-4aba-bf0a-b0759f72eebd",
+    "movie_id": "m119",
+    "rating": 2.342549667954471,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-14T20:00:44.932312"
+  },
+  {
+    "review_id": "e1701885-10f1-4f17-ac07-95414bbe9e96",
+    "user_id": "7464cb89-eba3-4aba-bf0a-b0759f72eebd",
+    "movie_id": "m19",
+    "rating": 3.9746554628358823,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-09T20:00:44.932312"
+  },
+  {
+    "review_id": "83a805cd-cc77-47d9-8934-b8924e8a95c8",
+    "user_id": "7464cb89-eba3-4aba-bf0a-b0759f72eebd",
+    "movie_id": "m6",
+    "rating": 4.842859176702171,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-13T20:00:44.932312"
+  },
+  {
+    "review_id": "ceadfc7d-1801-4285-a059-bec0555c88ca",
+    "user_id": "c947e160-4023-481a-aaf3-846145b6052d",
+    "movie_id": "m280",
+    "rating": 3.090268757426863,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-05T20:00:44.933311"
+  },
+  {
+    "review_id": "b2bb3ea5-4058-4ab6-845c-38c57079b9c5",
+    "user_id": "c947e160-4023-481a-aaf3-846145b6052d",
+    "movie_id": "m51",
+    "rating": 2.36304906914586,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-21T20:00:44.933311"
+  },
+  {
+    "review_id": "611cc579-1c61-4487-9468-8aed617bc8fb",
+    "user_id": "c947e160-4023-481a-aaf3-846145b6052d",
+    "movie_id": "m204",
+    "rating": 2.114644509644547,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-25T20:00:44.933311"
+  },
+  {
+    "review_id": "21c8db6c-bc1d-487c-a77d-1d3e065b335a",
+    "user_id": "105a83af-4fa6-4927-800e-7efe3123865e",
+    "movie_id": "m178",
+    "rating": 4.281808931009705,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-08T20:00:44.933311"
+  },
+  {
+    "review_id": "8401c943-289f-4307-b916-15def449bd20",
+    "user_id": "0bdd9ed6-8d70-4236-96ee-70a7cbe99369",
+    "movie_id": "m207",
+    "rating": 3.1154289264405737,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-26T20:00:44.933311"
+  },
+  {
+    "review_id": "2eb84876-d672-4f6c-ad7e-aa80e706f951",
+    "user_id": "0bdd9ed6-8d70-4236-96ee-70a7cbe99369",
+    "movie_id": "m245",
+    "rating": 1.3837957624001391,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-02T20:00:44.933311"
+  },
+  {
+    "review_id": "b6f67325-1a0a-4025-82e6-db99d31dcf29",
+    "user_id": "0bdd9ed6-8d70-4236-96ee-70a7cbe99369",
+    "movie_id": "m191",
+    "rating": 1.02380734994829,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-31T20:00:44.933311"
+  },
+  {
+    "review_id": "83b4675e-4107-48d3-932b-bff6229cc678",
+    "user_id": "0692b832-81c7-4243-81b7-6bd0f63236c5",
+    "movie_id": "m179",
+    "rating": 3.3470506565361293,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-20T20:00:44.933311"
+  },
+  {
+    "review_id": "f8d24edc-5bae-44bc-b99e-3631e224d883",
+    "user_id": "3d4e63ed-a85b-4fed-8fe5-6031feac2bd0",
+    "movie_id": "m294",
+    "rating": 3.653037374055204,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-02T20:00:44.934311"
+  },
+  {
+    "review_id": "a5764095-dac9-4c11-af4a-60bd022165ef",
+    "user_id": "3d4e63ed-a85b-4fed-8fe5-6031feac2bd0",
+    "movie_id": "m166",
+    "rating": 3.0012582207248037,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-22T20:00:44.934311"
+  },
+  {
+    "review_id": "1bc34490-c583-4465-99e8-e92488b623ef",
+    "user_id": "3d4e63ed-a85b-4fed-8fe5-6031feac2bd0",
+    "movie_id": "m197",
+    "rating": 2.6652680248941283,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-07T20:00:44.934311"
+  },
+  {
+    "review_id": "ae85ff1f-ec6e-4f75-87f6-e28a8b46570e",
+    "user_id": "ab6559be-16be-4997-8ccb-f48433ded6b1",
+    "movie_id": "m73",
+    "rating": 1.765793225498176,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-25T20:00:44.934311"
+  },
+  {
+    "review_id": "fdf8a8c2-56dd-4bb9-8f78-f6b5e25fe14e",
+    "user_id": "ab6559be-16be-4997-8ccb-f48433ded6b1",
+    "movie_id": "m1",
+    "rating": 4.31261414737782,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-28T20:00:44.934311"
+  },
+  {
+    "review_id": "9c26c050-f31a-441e-8261-78a10a7d2893",
+    "user_id": "ab6559be-16be-4997-8ccb-f48433ded6b1",
+    "movie_id": "m130",
+    "rating": 2.51382569538922,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-09T20:00:44.934311"
+  },
+  {
+    "review_id": "3573f290-f83c-4e17-9ce4-258d991a9cc5",
+    "user_id": "87ae6f40-34d8-4647-8252-8a37d7c3c25d",
+    "movie_id": "m52",
+    "rating": 3.759823305738236,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-02T20:00:44.935311"
+  },
+  {
+    "review_id": "335f9bf0-a432-4279-b878-fd42570228fa",
+    "user_id": "87ae6f40-34d8-4647-8252-8a37d7c3c25d",
+    "movie_id": "m208",
+    "rating": 3.5147202606994408,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-30T20:00:44.935311"
+  },
+  {
+    "review_id": "fa9b54fb-f18e-42e0-ad2c-5b9f39a49b9a",
+    "user_id": "e9ee4b21-40a7-4a5c-ae8f-19febdebcfbd",
+    "movie_id": "m285",
+    "rating": 1.6141574978820228,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-25T20:00:44.935311"
+  },
+  {
+    "review_id": "eb94f79b-a889-43b7-b334-ea7d0912142c",
+    "user_id": "7717e375-4ec3-4ed1-b28b-e57544d5122b",
+    "movie_id": "m14",
+    "rating": 4.209110916220045,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-25T20:00:44.935311"
+  },
+  {
+    "review_id": "a7b976b1-9c20-4ef0-b57b-0eb411baf6c6",
+    "user_id": "7717e375-4ec3-4ed1-b28b-e57544d5122b",
+    "movie_id": "m265",
+    "rating": 3.082428443360758,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-10T20:00:44.935311"
+  },
+  {
+    "review_id": "8b3aceb5-bc47-4ae0-8122-1b4d9a4ecfb0",
+    "user_id": "07b9dea6-2796-4249-8ed8-03fb4dc2e5d2",
+    "movie_id": "m229",
+    "rating": 4.610908509409564,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-08T20:00:44.935311"
+  },
+  {
+    "review_id": "3166d4aa-1017-444f-ab56-99c05563c83f",
+    "user_id": "07b9dea6-2796-4249-8ed8-03fb4dc2e5d2",
+    "movie_id": "m67",
+    "rating": 4.050819155640324,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-21T20:00:44.935311"
+  },
+  {
+    "review_id": "12d7c4c3-0f01-42b4-a1c6-79a479c45833",
+    "user_id": "f212f931-bca1-45b7-bb47-633977132a77",
+    "movie_id": "m169",
+    "rating": 1.8036311057758816,
+    "text": "Sample review text...",
+    "timestamp": "2025-12-01T20:00:44.935311"
+  },
+  {
+    "review_id": "3a14838a-e21d-471f-b64b-6f701ea9c7b8",
+    "user_id": "bb8fe7cb-bf78-44a6-9e16-a01bcccc905a",
+    "movie_id": "m246",
+    "rating": 2.4096338078809647,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-03T20:00:44.935311"
+  },
+  {
+    "review_id": "764f8ab2-0ab8-4771-bc94-b0aa68fed7ef",
+    "user_id": "bb8fe7cb-bf78-44a6-9e16-a01bcccc905a",
+    "movie_id": "m49",
+    "rating": 3.600143494255721,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-18T20:00:44.935311"
+  },
+  {
+    "review_id": "2b4d361a-7512-47c1-aefd-585c2c357931",
+    "user_id": "bb8fe7cb-bf78-44a6-9e16-a01bcccc905a",
+    "movie_id": "m139",
+    "rating": 4.856367764834175,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-02T20:00:44.935311"
+  },
+  {
+    "review_id": "42f9f8f4-d64e-4e93-b56f-d501774089f1",
+    "user_id": "6edae6d4-e29f-4f08-b4d6-914a48a8580b",
+    "movie_id": "m116",
+    "rating": 1.7660471954192296,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-04T20:00:44.936311"
+  },
+  {
+    "review_id": "f2cb0e3d-ad55-4d1e-9ddc-82a293a6cbab",
+    "user_id": "6edae6d4-e29f-4f08-b4d6-914a48a8580b",
+    "movie_id": "m133",
+    "rating": 3.963527192153375,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-03T20:00:44.936311"
+  },
+  {
+    "review_id": "b853cc92-5a81-4c50-b4d1-e6bfe32c8587",
+    "user_id": "a706c4b2-bd53-43b6-b792-58af1ce177c8",
+    "movie_id": "m267",
+    "rating": 3.9478909965247384,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-17T20:00:44.936311"
+  },
+  {
+    "review_id": "392a1522-187c-40fd-abb3-c8582d0abf33",
+    "user_id": "a706c4b2-bd53-43b6-b792-58af1ce177c8",
+    "movie_id": "m45",
+    "rating": 4.997191528084664,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-11T20:00:44.936311"
+  },
+  {
+    "review_id": "bc0e5a38-380d-48e7-bef9-75a9b9867efa",
+    "user_id": "a706c4b2-bd53-43b6-b792-58af1ce177c8",
+    "movie_id": "m11",
+    "rating": 2.9880243901760264,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-14T20:00:44.936311"
+  },
+  {
+    "review_id": "0c73531e-f595-4d8a-aa25-d20b28d1402b",
+    "user_id": "0df7da0f-9faa-4e1e-aeec-bc32cf04ef5f",
+    "movie_id": "m233",
+    "rating": 1.0150849883234234,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-01T20:00:44.936311"
+  },
+  {
+    "review_id": "efa7e629-7229-4f11-865c-0200ae0e990a",
+    "user_id": "d5ce175c-67b4-48dc-9a06-bd9ad545ec79",
+    "movie_id": "m55",
+    "rating": 3.9389367867576093,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-24T20:00:44.937312"
+  },
+  {
+    "review_id": "05565bba-a479-4357-8213-998cabfb674b",
+    "user_id": "cddcdfbb-8113-4144-947c-c2e96b5ea953",
+    "movie_id": "m231",
+    "rating": 4.27479394823073,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-27T20:00:44.937312"
+  },
+  {
+    "review_id": "c161952e-8982-4bcc-806e-227ee3905e51",
+    "user_id": "6dd6e766-d62a-41b9-94a7-a9018777fc31",
+    "movie_id": "m272",
+    "rating": 4.636228266547518,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-28T20:00:44.937312"
+  },
+  {
+    "review_id": "fe25a283-b679-420f-a89a-9355add7454b",
+    "user_id": "c950cfe1-d29a-49bb-8a0f-5d6f272f6b7e",
+    "movie_id": "m110",
+    "rating": 4.513580481978315,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-13T20:00:44.937312"
+  },
+  {
+    "review_id": "a4a8dc09-8956-4287-a5b2-99ec3ff44c05",
+    "user_id": "c950cfe1-d29a-49bb-8a0f-5d6f272f6b7e",
+    "movie_id": "m19",
+    "rating": 2.465949213832442,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-10T20:00:44.937312"
+  },
+  {
+    "review_id": "fd2f933e-d3f6-410c-bf58-2d79de382a7f",
+    "user_id": "c949151f-4741-49c9-9b0d-d6804fb84489",
+    "movie_id": "m202",
+    "rating": 1.3243807059665382,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-28T20:00:44.937312"
+  },
+  {
+    "review_id": "cc147f57-a528-408d-b117-305e68f21f18",
+    "user_id": "c949151f-4741-49c9-9b0d-d6804fb84489",
+    "movie_id": "m269",
+    "rating": 4.2093170355620435,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-04T20:00:44.937312"
+  },
+  {
+    "review_id": "d98243c6-6771-4bda-bcbd-7d8339f0856d",
+    "user_id": "c949151f-4741-49c9-9b0d-d6804fb84489",
+    "movie_id": "m140",
+    "rating": 1.3351615850881102,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-18T20:00:44.937312"
+  },
+  {
+    "review_id": "cfef416a-1295-4da5-84aa-6cdd8276bf1f",
+    "user_id": "6f44faa3-1bbd-49ab-9cdd-f79ab05e9a6e",
+    "movie_id": "m277",
+    "rating": 4.688067924610445,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-29T20:00:44.938312"
+  },
+  {
+    "review_id": "f4ebf1ee-103b-4a8d-945c-ffb3c9a03840",
+    "user_id": "6f44faa3-1bbd-49ab-9cdd-f79ab05e9a6e",
+    "movie_id": "m235",
+    "rating": 4.212009517206363,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-18T20:00:44.938312"
+  },
+  {
+    "review_id": "5e294a5b-6736-4147-86cf-32e424e5e199",
+    "user_id": "8d20882f-67f2-4d0c-97bb-59fca4eef50e",
+    "movie_id": "m99",
+    "rating": 2.1913864674626775,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-24T20:00:44.938312"
+  },
+  {
+    "review_id": "4f546d95-0db5-4b55-9006-93cf0f95306b",
+    "user_id": "d2020180-665d-4b02-908c-7c1930c6a224",
+    "movie_id": "m155",
+    "rating": 1.1615837732256136,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-12T20:00:44.938312"
+  },
+  {
+    "review_id": "f8b2cdca-f78a-4126-8f6e-46269688c784",
+    "user_id": "d2020180-665d-4b02-908c-7c1930c6a224",
+    "movie_id": "m149",
+    "rating": 1.1686992478739913,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-19T20:00:44.938312"
+  },
+  {
+    "review_id": "830307b7-441a-414b-b622-db12d87bf2fc",
+    "user_id": "d2020180-665d-4b02-908c-7c1930c6a224",
+    "movie_id": "m103",
+    "rating": 3.347299788445662,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-22T20:00:44.938312"
+  },
+  {
+    "review_id": "d55223b1-9810-48f9-8b58-16906c36bc1d",
+    "user_id": "08c7fbe0-d46e-426c-bd39-f4351d993381",
+    "movie_id": "m244",
+    "rating": 4.651523935270317,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-11T20:00:44.939311"
+  },
+  {
+    "review_id": "c06cc20e-3966-485c-ba2d-d98e26c41f13",
+    "user_id": "08c7fbe0-d46e-426c-bd39-f4351d993381",
+    "movie_id": "m177",
+    "rating": 4.817531653758725,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-22T20:00:44.939311"
+  },
+  {
+    "review_id": "093c60ed-9c80-4221-8008-c32652106c2f",
+    "user_id": "83a2d1bc-6d5f-42aa-94ca-7c3b967ef8a8",
+    "movie_id": "m92",
+    "rating": 3.410706431337828,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-20T20:00:44.939311"
+  },
+  {
+    "review_id": "1ffdaf03-1a48-496d-8c9f-de20f8879cd2",
+    "user_id": "b91d29ac-e538-4f93-95d2-d303ed5ee654",
+    "movie_id": "m108",
+    "rating": 2.4920184243078785,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-24T20:00:44.939311"
+  },
+  {
+    "review_id": "c8427212-d488-42bf-b7a3-7a4f070b5769",
+    "user_id": "b91d29ac-e538-4f93-95d2-d303ed5ee654",
+    "movie_id": "m12",
+    "rating": 3.8030329304769395,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-14T20:00:44.939311"
+  },
+  {
+    "review_id": "ed37b250-3284-4907-936c-657f9d9add42",
+    "user_id": "c4264c76-093a-410c-bed7-1caa1a5e7f51",
+    "movie_id": "m222",
+    "rating": 2.610396048151009,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-05T20:00:44.939311"
+  },
+  {
+    "review_id": "f9644d4b-f7d4-4676-b110-aad32928a1fd",
+    "user_id": "c4264c76-093a-410c-bed7-1caa1a5e7f51",
+    "movie_id": "m298",
+    "rating": 2.448609523531808,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-09T20:00:44.939311"
+  },
+  {
+    "review_id": "50a28b6e-3cb3-4cb4-a503-a59053b3bd23",
+    "user_id": "c4264c76-093a-410c-bed7-1caa1a5e7f51",
+    "movie_id": "m16",
+    "rating": 2.261251876881091,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-26T20:00:44.939311"
+  },
+  {
+    "review_id": "1a6ab2be-f416-4ecd-8a0e-026d4a6c09f1",
+    "user_id": "8be665db-0594-4669-8461-8cbfd137ba85",
+    "movie_id": "m152",
+    "rating": 1.2776986454374564,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-08T20:00:44.939311"
+  },
+  {
+    "review_id": "18bc156a-8cf5-478d-ae49-55155d1a3096",
+    "user_id": "8be665db-0594-4669-8461-8cbfd137ba85",
+    "movie_id": "m260",
+    "rating": 3.5556697972924707,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-08T20:00:44.939311"
+  },
+  {
+    "review_id": "315c1794-945c-4858-a1f2-ad14191e5234",
+    "user_id": "fa335343-fdb2-43bd-b5da-8bf854bbb005",
+    "movie_id": "m30",
+    "rating": 3.1102430856763656,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-25T20:00:44.939311"
+  },
+  {
+    "review_id": "78dd0331-5452-4665-a58e-4cc3645aee1a",
+    "user_id": "fa335343-fdb2-43bd-b5da-8bf854bbb005",
+    "movie_id": "m183",
+    "rating": 4.088900309405114,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-28T20:00:44.939311"
+  },
+  {
+    "review_id": "2f650d3c-da9e-4451-a3e2-00b0ca57d980",
+    "user_id": "fa335343-fdb2-43bd-b5da-8bf854bbb005",
+    "movie_id": "m195",
+    "rating": 3.651403533827526,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-23T20:00:44.939311"
+  },
+  {
+    "review_id": "462dbbb8-f3d9-4fd8-9b2a-16559ebd1c64",
+    "user_id": "e36e2c59-532b-4475-a790-ebcba442e011",
+    "movie_id": "m56",
+    "rating": 1.3410488944578494,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-11T20:00:44.940311"
+  },
+  {
+    "review_id": "c28ee4e5-93ee-448e-828a-6f6a54255c13",
+    "user_id": "e36e2c59-532b-4475-a790-ebcba442e011",
+    "movie_id": "m237",
+    "rating": 2.67023999565773,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-24T20:00:44.940311"
+  },
+  {
+    "review_id": "6980b52c-cfcc-48f2-a391-9476d7c1f9f0",
+    "user_id": "3e50d32d-d1e3-49f2-b300-1ef46dab6672",
+    "movie_id": "m292",
+    "rating": 4.47730896046568,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-05T20:00:44.940311"
+  },
+  {
+    "review_id": "52e9fb35-bb59-496e-b8c5-dfe4ae4d4bff",
+    "user_id": "3e50d32d-d1e3-49f2-b300-1ef46dab6672",
+    "movie_id": "m280",
+    "rating": 4.946059783876898,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-20T20:00:44.940311"
+  },
+  {
+    "review_id": "a3a31e0e-9f64-4a1e-beb2-6a6c3cb50a9d",
+    "user_id": "8392f4f9-b506-4d0f-a2fc-989e1bfa2bfd",
+    "movie_id": "m89",
+    "rating": 3.944727338472902,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-20T20:00:44.940311"
+  },
+  {
+    "review_id": "0dacdbd5-b9de-471e-a1d2-fe7f2f4d33b5",
+    "user_id": "8392f4f9-b506-4d0f-a2fc-989e1bfa2bfd",
+    "movie_id": "m200",
+    "rating": 1.157722556606755,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-08T20:00:44.940311"
+  },
+  {
+    "review_id": "bff5a1d7-2763-45f3-91bd-7fdba79f3923",
+    "user_id": "8392f4f9-b506-4d0f-a2fc-989e1bfa2bfd",
+    "movie_id": "m268",
+    "rating": 4.898524741764261,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-16T20:00:44.940311"
+  },
+  {
+    "review_id": "a4903c1a-dd20-40ab-b113-d4202ccd54e4",
+    "user_id": "5b24be74-6cf4-4e30-beff-b8fb2636cf57",
+    "movie_id": "m41",
+    "rating": 3.7540786128456602,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-11T20:00:44.940311"
+  },
+  {
+    "review_id": "2e41e9e0-1fd0-45b0-aa4b-4014e0c4b384",
+    "user_id": "5b24be74-6cf4-4e30-beff-b8fb2636cf57",
+    "movie_id": "m52",
+    "rating": 3.6635792629328505,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-29T20:00:44.940311"
+  },
+  {
+    "review_id": "34cb6d9f-1035-472e-b4ab-4141b90c2dd6",
+    "user_id": "1cbba5cc-4cc6-4ce8-9dc3-0128c6089d2c",
+    "movie_id": "m118",
+    "rating": 3.950743688819795,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-21T20:00:44.940311"
+  },
+  {
+    "review_id": "5a73abf6-fcf9-4cdc-9c23-2a99b5635d42",
+    "user_id": "1cbba5cc-4cc6-4ce8-9dc3-0128c6089d2c",
+    "movie_id": "m254",
+    "rating": 2.4563363601594967,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-05T20:00:44.940311"
+  },
+  {
+    "review_id": "dd6dc731-6e97-4843-9885-37926a59effe",
+    "user_id": "a9bd315d-42dd-4421-9b72-d4ac47452890",
+    "movie_id": "m230",
+    "rating": 2.0017489514388482,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-18T20:00:44.941311"
+  },
+  {
+    "review_id": "49b20a98-de5f-44f7-a595-39fe80173887",
+    "user_id": "8fe39417-c23e-4266-af8e-880f1c194601",
+    "movie_id": "m221",
+    "rating": 1.6716274082325269,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-04T20:00:44.941311"
+  },
+  {
+    "review_id": "1e0d0b01-bb6c-4a50-8b58-fcf9db60c3bc",
+    "user_id": "e5285510-0fe5-4688-b3ab-6a38525e41a9",
+    "movie_id": "m173",
+    "rating": 4.8269341971197175,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-07T20:00:44.941311"
+  },
+  {
+    "review_id": "1f536721-eb65-4636-938d-27f76f6b4e0f",
+    "user_id": "d97cbda4-f724-49ee-8f42-c2d171e367c9",
+    "movie_id": "m110",
+    "rating": 4.1480797424048115,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-18T20:00:44.942312"
+  },
+  {
+    "review_id": "d836b1a6-29cc-45ec-9234-91cb939c7bdf",
+    "user_id": "c239c4e0-087a-416a-b67a-32a440718c22",
+    "movie_id": "m95",
+    "rating": 4.907771329163499,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-12T20:00:44.942312"
+  },
+  {
+    "review_id": "e3cfb277-9f7d-4e4d-97ae-d7957f7cf596",
+    "user_id": "18d88c7c-7580-4369-b8b3-a71025e1d64c",
+    "movie_id": "m192",
+    "rating": 1.7377571713123618,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-21T20:00:44.943322"
+  },
+  {
+    "review_id": "0763c427-4edf-448e-81d4-89f95a74ad1a",
+    "user_id": "18d88c7c-7580-4369-b8b3-a71025e1d64c",
+    "movie_id": "m93",
+    "rating": 2.5134217775512067,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-21T20:00:44.943322"
+  },
+  {
+    "review_id": "8319b832-8180-4de7-a42a-66facbe9c0c2",
+    "user_id": "bd713ff1-875f-49ad-a3d6-d4e467b92ec2",
+    "movie_id": "m18",
+    "rating": 3.351180279544918,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-10T20:00:44.943322"
+  },
+  {
+    "review_id": "043571b7-fd33-4b93-8944-3627a689676a",
+    "user_id": "cb7fe924-aa78-44e6-b14f-a63dfef16f25",
+    "movie_id": "m218",
+    "rating": 1.9699434031140077,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-20T20:00:44.943322"
+  },
+  {
+    "review_id": "0c7bf16d-222e-488e-886d-e215993af35d",
+    "user_id": "cb7fe924-aa78-44e6-b14f-a63dfef16f25",
+    "movie_id": "m251",
+    "rating": 3.4994130315304606,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-27T20:00:44.943322"
+  },
+  {
+    "review_id": "6bb91d00-61dc-4398-ac23-e1454f01f5e5",
+    "user_id": "e60a0913-5320-4603-9ffd-d956a3c71b2b",
+    "movie_id": "m299",
+    "rating": 2.0932372173270433,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-10T20:00:44.944316"
+  },
+  {
+    "review_id": "24bd2f68-bfca-4d84-b06a-b4abbdb1337e",
+    "user_id": "e60a0913-5320-4603-9ffd-d956a3c71b2b",
+    "movie_id": "m175",
+    "rating": 2.4644977577434277,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-25T20:00:44.944316"
+  },
+  {
+    "review_id": "13639569-bf66-4c5c-b4e4-28af1a10d450",
+    "user_id": "47f38445-a819-4e71-b22e-1258aac81658",
+    "movie_id": "m183",
+    "rating": 4.835368425980363,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-03T20:00:44.945320"
+  },
+  {
+    "review_id": "dc3f06a3-20d5-40fd-b681-7a2e6bc1ebf8",
+    "user_id": "47f38445-a819-4e71-b22e-1258aac81658",
+    "movie_id": "m261",
+    "rating": 3.5449753648491655,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-15T20:00:44.945320"
+  },
+  {
+    "review_id": "54f5cb9d-05fc-485f-8939-aecd161093b9",
+    "user_id": "47f38445-a819-4e71-b22e-1258aac81658",
+    "movie_id": "m131",
+    "rating": 4.584790736506099,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-06T20:00:44.945320"
+  },
+  {
+    "review_id": "037e6e33-369f-4a18-9d1f-9ab260983d42",
+    "user_id": "ac7ca934-7b53-4f98-a1b4-dee04f6ce580",
+    "movie_id": "m166",
+    "rating": 3.9044135413733523,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-06T20:00:44.945320"
+  },
+  {
+    "review_id": "c4d119c5-4c91-4925-bf2e-ee1509b4504a",
+    "user_id": "ac7ca934-7b53-4f98-a1b4-dee04f6ce580",
+    "movie_id": "m298",
+    "rating": 2.5919687487818024,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-30T20:00:44.945320"
+  },
+  {
+    "review_id": "9f0485a7-b34e-41d8-91c5-49ab08600ab2",
+    "user_id": "c345cda0-bca6-48c9-944f-db829639a318",
+    "movie_id": "m214",
+    "rating": 3.234259386630956,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-18T20:00:44.945320"
+  },
+  {
+    "review_id": "771cffa9-d56e-4d0d-8b32-608f0ad8254b",
+    "user_id": "c345cda0-bca6-48c9-944f-db829639a318",
+    "movie_id": "m210",
+    "rating": 4.64366696901811,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-12T20:00:44.945320"
+  },
+  {
+    "review_id": "40ecbadd-6676-4845-83cb-064928059ae7",
+    "user_id": "d1c1752d-ec2e-4424-9bde-e4059cec1d63",
+    "movie_id": "m204",
+    "rating": 1.8766372495713681,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-03T20:00:44.945320"
+  },
+  {
+    "review_id": "a5e13880-089e-4fc2-b40e-feecf8173506",
+    "user_id": "d1c1752d-ec2e-4424-9bde-e4059cec1d63",
+    "movie_id": "m275",
+    "rating": 1.2756804620815965,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-04T20:00:44.945320"
+  },
+  {
+    "review_id": "4a88ea43-ed10-49e5-9686-39286ca4999b",
+    "user_id": "d1c1752d-ec2e-4424-9bde-e4059cec1d63",
+    "movie_id": "m296",
+    "rating": 2.6633726112805585,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-07T20:00:44.945320"
+  },
+  {
+    "review_id": "ad3d0c9a-492c-46fe-a27d-1a864682ee43",
+    "user_id": "5de89284-ed89-443e-ba45-5ada798211b3",
+    "movie_id": "m163",
+    "rating": 4.44020934879115,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-21T20:00:44.945320"
+  },
+  {
+    "review_id": "599e8328-e2a7-4c94-be7f-f88838f9a1cc",
+    "user_id": "5de89284-ed89-443e-ba45-5ada798211b3",
+    "movie_id": "m12",
+    "rating": 2.3310045868413405,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-07T20:00:44.945320"
+  },
+  {
+    "review_id": "893df27f-2d8a-470c-b2e1-7b0a25093cb3",
+    "user_id": "5de89284-ed89-443e-ba45-5ada798211b3",
+    "movie_id": "m231",
+    "rating": 4.031409575909169,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-09T20:00:44.945320"
+  },
+  {
+    "review_id": "97c2d2fa-776b-4d1a-9402-6dca47fe11f5",
+    "user_id": "50b23ad6-e2ec-490f-bff0-2374f2a0a536",
+    "movie_id": "m193",
+    "rating": 1.4944283694728235,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-13T20:00:44.946313"
+  },
+  {
+    "review_id": "85e08e6f-c32a-4ded-8ad5-cf62f7e5d806",
+    "user_id": "50b23ad6-e2ec-490f-bff0-2374f2a0a536",
+    "movie_id": "m262",
+    "rating": 3.6400490361372726,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-15T20:00:44.946313"
+  },
+  {
+    "review_id": "8dbb33b4-7c40-4b79-9370-d0888a321e97",
+    "user_id": "ef06a585-c247-43bb-aa47-d4378a8d9884",
+    "movie_id": "m271",
+    "rating": 1.8748218915346935,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-29T20:00:44.946313"
+  },
+  {
+    "review_id": "1cb4dfee-328f-45b6-b8b7-db96177e94b2",
+    "user_id": "a9410ca3-49b9-45b4-aef9-a4ca439dec68",
+    "movie_id": "m274",
+    "rating": 4.175749112050328,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-04T20:00:44.946313"
+  },
+  {
+    "review_id": "f5280342-f967-45c4-9d27-9c8219fc490e",
+    "user_id": "a9410ca3-49b9-45b4-aef9-a4ca439dec68",
+    "movie_id": "m29",
+    "rating": 1.516319991958381,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-18T20:00:44.946313"
+  },
+  {
+    "review_id": "43aa3cd9-e62d-429c-8a7a-3133b1cfd67f",
+    "user_id": "29790b49-3f42-41b3-83c5-12d3b68c2caa",
+    "movie_id": "m28",
+    "rating": 4.260822654954627,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-09T20:00:44.946313"
+  },
+  {
+    "review_id": "b129017c-8979-4d0e-b634-ecf3229d97cb",
+    "user_id": "29790b49-3f42-41b3-83c5-12d3b68c2caa",
+    "movie_id": "m201",
+    "rating": 1.5562002798022405,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-22T20:00:44.946313"
+  },
+  {
+    "review_id": "c8faf304-c853-4c5e-acfc-a9933f84970b",
+    "user_id": "ea175cf7-77ab-4ced-b9be-6d1fa8f6fee6",
+    "movie_id": "m103",
+    "rating": 3.5552068031539306,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-06T20:00:44.946313"
+  },
+  {
+    "review_id": "2a86fb66-ac88-490a-8b90-14f6b055ac1c",
+    "user_id": "bcb7179c-2c47-4024-9c11-a8f8b2c42d12",
+    "movie_id": "m56",
+    "rating": 1.4844509742247132,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-12T20:00:44.947312"
+  },
+  {
+    "review_id": "ffcf6bc2-4305-4536-a43f-718d70e8af1b",
+    "user_id": "be2929df-402f-4b12-9cb5-8ff8c7e05d52",
+    "movie_id": "m157",
+    "rating": 2.111305876200324,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-16T20:00:44.947312"
+  },
+  {
+    "review_id": "0a7a4219-90e2-498d-82c0-0a474a38b738",
+    "user_id": "be2929df-402f-4b12-9cb5-8ff8c7e05d52",
+    "movie_id": "m239",
+    "rating": 1.472277414532848,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-04T20:00:44.947312"
+  },
+  {
+    "review_id": "6bfee407-7988-4ad3-a106-1b7f30857fc0",
+    "user_id": "b9da23ec-2bce-4735-bdf3-167fe1091538",
+    "movie_id": "m293",
+    "rating": 2.2178033877997008,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-14T20:00:44.947312"
+  },
+  {
+    "review_id": "f1e87a94-189b-4ea3-857f-eb586a7c0f59",
+    "user_id": "b9da23ec-2bce-4735-bdf3-167fe1091538",
+    "movie_id": "m32",
+    "rating": 4.716857565412775,
+    "text": "Sample review text...",
+    "timestamp": "2025-12-01T20:00:44.947312"
+  },
+  {
+    "review_id": "cfa0c6e5-9b8e-4bc6-8c17-1d6d08a879b2",
+    "user_id": "dc8f6c32-ee9d-44d0-92b3-1b44d36f6942",
+    "movie_id": "m195",
+    "rating": 4.194261264477555,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-07T20:00:44.948311"
+  },
+  {
+    "review_id": "84753fe2-f9e6-4538-bbc5-98a8742e70a5",
+    "user_id": "dc8f6c32-ee9d-44d0-92b3-1b44d36f6942",
+    "movie_id": "m199",
+    "rating": 1.098675434782495,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-22T20:00:44.948311"
+  },
+  {
+    "review_id": "b9dc410d-118e-421f-af53-7c5e05444c48",
+    "user_id": "602fd841-eba9-4754-a3b1-728f88c6b8d3",
+    "movie_id": "m211",
+    "rating": 2.1374139012557114,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-23T20:00:44.948311"
+  },
+  {
+    "review_id": "1dfe3b59-5244-4d28-9c51-c19d4d7c025e",
+    "user_id": "697b6194-9815-4400-bd76-69f99754d40d",
+    "movie_id": "m126",
+    "rating": 4.379322773631542,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-08T20:00:44.948311"
+  },
+  {
+    "review_id": "64d2bcb6-72c6-4b8b-aabb-2e8de65d695e",
+    "user_id": "697b6194-9815-4400-bd76-69f99754d40d",
+    "movie_id": "m85",
+    "rating": 2.25277582831022,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-26T20:00:44.948311"
+  },
+  {
+    "review_id": "e8c2d2f0-cfd7-4ee0-a51e-ac5bd0d9a387",
+    "user_id": "d68c986d-0472-45f2-bdca-80f3218c11f8",
+    "movie_id": "m75",
+    "rating": 1.8355418606924268,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-13T20:00:44.948311"
+  },
+  {
+    "review_id": "5f76a906-60b4-42d0-a9d2-e6304ecadeed",
+    "user_id": "d68c986d-0472-45f2-bdca-80f3218c11f8",
+    "movie_id": "m7",
+    "rating": 4.03991240738879,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-05T20:00:44.948311"
+  },
+  {
+    "review_id": "c8092064-91c8-4cfd-a26b-afe31c548fd4",
+    "user_id": "2ef047a0-ad53-4345-a914-dcd543f9a86b",
+    "movie_id": "m104",
+    "rating": 4.9195694534233745,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-10T20:00:44.949311"
+  },
+  {
+    "review_id": "8bee1439-c7b7-4690-9107-accba5fa7f47",
+    "user_id": "2ef047a0-ad53-4345-a914-dcd543f9a86b",
+    "movie_id": "m242",
+    "rating": 4.090858965569929,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-27T20:00:44.949311"
+  },
+  {
+    "review_id": "73e55c14-ba9f-47ae-8a73-695864daaba8",
+    "user_id": "20d07179-3095-44c8-b699-e24200df9471",
+    "movie_id": "m55",
+    "rating": 2.628900854148235,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-13T20:00:44.949311"
+  },
+  {
+    "review_id": "619c06b7-9a1e-46a1-89d0-59fcf80f1ac5",
+    "user_id": "20d07179-3095-44c8-b699-e24200df9471",
+    "movie_id": "m133",
+    "rating": 2.4549037636734106,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-21T20:00:44.949311"
+  },
+  {
+    "review_id": "c7bf4c58-f7f6-44ff-96b4-01e0bb0f8bbd",
+    "user_id": "2c288bea-046d-4c81-9548-847e12c6dacc",
+    "movie_id": "m264",
+    "rating": 2.0492031068896974,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-09T20:00:44.949311"
+  },
+  {
+    "review_id": "bf6d4027-aa08-489f-be01-3d948f03acfb",
+    "user_id": "2c288bea-046d-4c81-9548-847e12c6dacc",
+    "movie_id": "m281",
+    "rating": 2.8598606823830774,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-29T20:00:44.949311"
+  },
+  {
+    "review_id": "e12f3821-28a5-47d7-8a47-e477572c5f09",
+    "user_id": "2c288bea-046d-4c81-9548-847e12c6dacc",
+    "movie_id": "m206",
+    "rating": 2.7864688469093113,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-14T20:00:44.949311"
+  },
+  {
+    "review_id": "3a9885f0-c4f6-401a-ace3-8160132c30fc",
+    "user_id": "8b20baf6-58b3-4824-a28f-0f0de655fbcc",
+    "movie_id": "m70",
+    "rating": 1.3057154440278684,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-01T20:00:44.950312"
+  },
+  {
+    "review_id": "3f71fe80-89d7-4856-bebb-91486cacace8",
+    "user_id": "8b20baf6-58b3-4824-a28f-0f0de655fbcc",
+    "movie_id": "m113",
+    "rating": 3.5251725721238976,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-29T20:00:44.950312"
+  },
+  {
+    "review_id": "760e978d-13ab-465b-8f2a-e724c67ddc68",
+    "user_id": "8b20baf6-58b3-4824-a28f-0f0de655fbcc",
+    "movie_id": "m23",
+    "rating": 4.892933462419197,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-25T20:00:44.950312"
+  },
+  {
+    "review_id": "cadd1f8c-acc6-4d09-bc44-2fc6e0186d6a",
+    "user_id": "ad72c4b0-afeb-4c96-b68e-0a8e306179e6",
+    "movie_id": "m6",
+    "rating": 2.428352533489837,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-04T20:00:44.950312"
+  },
+  {
+    "review_id": "c582c358-6027-4ad7-9e7d-377809ccceec",
+    "user_id": "5a646c1e-1198-45d7-a9a5-d28e483696c9",
+    "movie_id": "m228",
+    "rating": 3.6727476098711476,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-17T20:00:44.950312"
+  },
+  {
+    "review_id": "f951405e-fce2-406a-ba33-30ec6866fde4",
+    "user_id": "5a646c1e-1198-45d7-a9a5-d28e483696c9",
+    "movie_id": "m289",
+    "rating": 1.8684895908380974,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-19T20:00:44.950312"
+  },
+  {
+    "review_id": "17a531f3-a40a-40e0-b989-c4e51f0a6ed3",
+    "user_id": "0b1dcddd-66bc-4256-a818-b7f8b7918dbb",
+    "movie_id": "m298",
+    "rating": 2.147006113970546,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-10T20:00:44.950312"
+  },
+  {
+    "review_id": "346ea2bb-19cb-4809-8454-c681b1658f22",
+    "user_id": "0b1dcddd-66bc-4256-a818-b7f8b7918dbb",
+    "movie_id": "m205",
+    "rating": 4.355555534084459,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-17T20:00:44.950312"
+  },
+  {
+    "review_id": "5cdc0b59-4278-46d6-9f16-841fc00d2046",
+    "user_id": "9618b111-b49c-4847-9e58-b0fbaa828ef5",
+    "movie_id": "m19",
+    "rating": 4.463615463814921,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-09T20:00:44.950312"
+  },
+  {
+    "review_id": "df96d038-4da8-4ebc-9d79-465c2e08d157",
+    "user_id": "9618b111-b49c-4847-9e58-b0fbaa828ef5",
+    "movie_id": "m256",
+    "rating": 3.19797890339394,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-05T20:00:44.950312"
+  },
+  {
+    "review_id": "55c57f62-28fc-46c8-91cc-03e39d368a92",
+    "user_id": "9618b111-b49c-4847-9e58-b0fbaa828ef5",
+    "movie_id": "m223",
+    "rating": 3.682872055387445,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-01T20:00:44.950312"
+  },
+  {
+    "review_id": "f13ce743-ce33-41be-b51a-9fc843c38d22",
+    "user_id": "5dd5542b-8249-45b3-9987-689a433f6ed8",
+    "movie_id": "m39",
+    "rating": 4.774205671970177,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-23T20:00:44.950312"
+  },
+  {
+    "review_id": "3d956366-8836-4f47-9a54-19726a489246",
+    "user_id": "8bfb1e2f-2802-45b1-bcd5-1e863a2f31f7",
+    "movie_id": "m173",
+    "rating": 2.4545163399470145,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-27T20:00:44.951311"
+  },
+  {
+    "review_id": "38e4b71e-16a9-4d75-b466-1fd68d0d8093",
+    "user_id": "8bfb1e2f-2802-45b1-bcd5-1e863a2f31f7",
+    "movie_id": "m263",
+    "rating": 2.7858946846947354,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-07T20:00:44.951311"
+  },
+  {
+    "review_id": "00473a68-7f66-4329-9091-fcfdc46146fb",
+    "user_id": "8bfb1e2f-2802-45b1-bcd5-1e863a2f31f7",
+    "movie_id": "m16",
+    "rating": 1.472963822532578,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-17T20:00:44.951311"
+  },
+  {
+    "review_id": "8c53c30c-49f5-4843-a5d7-da2a92249a93",
+    "user_id": "47186b3e-fa7f-4341-8c51-96da8162b79a",
+    "movie_id": "m159",
+    "rating": 4.954039709630371,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-27T20:00:44.951311"
+  },
+  {
+    "review_id": "2404658b-3125-429a-ae7f-09a4a7175d80",
+    "user_id": "47186b3e-fa7f-4341-8c51-96da8162b79a",
+    "movie_id": "m210",
+    "rating": 1.4462023144308436,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-19T20:00:44.951311"
+  },
+  {
+    "review_id": "ae1c0e76-4ff3-432d-ac87-19abad46d5b5",
+    "user_id": "a8969dc3-6bcc-4375-8c5a-61c020359b9e",
+    "movie_id": "m72",
+    "rating": 2.1009358027690133,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-26T20:00:44.952311"
+  },
+  {
+    "review_id": "14972af8-4aaa-4b9a-85df-eae6f25e584d",
+    "user_id": "a8969dc3-6bcc-4375-8c5a-61c020359b9e",
+    "movie_id": "m219",
+    "rating": 3.908484927802957,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-20T20:00:44.952311"
+  },
+  {
+    "review_id": "93bdeb86-8896-4a02-b7f8-ad76e135e321",
+    "user_id": "4e8b7b5c-14d2-4043-a934-d193f40c4349",
+    "movie_id": "m212",
+    "rating": 3.2305256562265154,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-28T20:00:44.952311"
+  },
+  {
+    "review_id": "4806371d-28c9-483d-b09f-6a357e6b8c64",
+    "user_id": "a23b71a8-66c6-430e-bc7b-5094b6358f48",
+    "movie_id": "m72",
+    "rating": 3.99805084741382,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-31T20:00:44.952311"
+  },
+  {
+    "review_id": "e63a645c-9d73-4409-9291-7a369f33a37b",
+    "user_id": "a23b71a8-66c6-430e-bc7b-5094b6358f48",
+    "movie_id": "m194",
+    "rating": 2.4648365148791243,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-18T20:00:44.952311"
+  },
+  {
+    "review_id": "17461528-6d74-4821-aa96-8d54b8fab476",
+    "user_id": "a23b71a8-66c6-430e-bc7b-5094b6358f48",
+    "movie_id": "m21",
+    "rating": 4.019672744321432,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-25T20:00:44.952311"
+  },
+  {
+    "review_id": "06c28edb-1e03-46d2-bc5a-e7b6d23453a0",
+    "user_id": "d9a34e5b-5f37-45a3-93e4-d02ef362555a",
+    "movie_id": "m63",
+    "rating": 2.3320160079038192,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-27T20:00:44.952311"
+  },
+  {
+    "review_id": "fc331b3d-7164-4aef-93f8-313635f42042",
+    "user_id": "35787ce4-1cbd-492b-afc4-5e1a7dd52ae8",
+    "movie_id": "m289",
+    "rating": 3.3895867174084944,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-13T20:00:44.953311"
+  },
+  {
+    "review_id": "35dd43d2-7b2d-4c9c-896f-fb740c308c01",
+    "user_id": "35787ce4-1cbd-492b-afc4-5e1a7dd52ae8",
+    "movie_id": "m120",
+    "rating": 3.098512284222059,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-08T20:00:44.953311"
+  },
+  {
+    "review_id": "d8f51566-c179-44a4-95fb-8ab3936b0c5b",
+    "user_id": "ea5ca6df-705e-463b-ae47-4a754413b270",
+    "movie_id": "m253",
+    "rating": 1.8866511542563162,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-13T20:00:44.953311"
+  },
+  {
+    "review_id": "8278f02e-3fde-4cbc-bbdd-243793d046e6",
+    "user_id": "ea5ca6df-705e-463b-ae47-4a754413b270",
+    "movie_id": "m186",
+    "rating": 3.0162543698510986,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-19T20:00:44.953311"
+  },
+  {
+    "review_id": "840d58d3-5d47-44b1-9e04-b6d04fb5b022",
+    "user_id": "25f2ca5b-fd48-4b8e-8644-2381c7705d3e",
+    "movie_id": "m12",
+    "rating": 4.975322617171951,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-21T20:00:44.954311"
+  },
+  {
+    "review_id": "94d770e0-3248-40ba-aceb-638f5635f014",
+    "user_id": "25f2ca5b-fd48-4b8e-8644-2381c7705d3e",
+    "movie_id": "m66",
+    "rating": 1.5196783302802546,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-27T20:00:44.954311"
+  },
+  {
+    "review_id": "29241eae-3474-4e15-8704-9a5127e4ce64",
+    "user_id": "25f2ca5b-fd48-4b8e-8644-2381c7705d3e",
+    "movie_id": "m284",
+    "rating": 4.212561748475199,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-27T20:00:44.954311"
+  },
+  {
+    "review_id": "1323db89-5758-41a1-91f7-e3ea0ee72919",
+    "user_id": "ae0dd0ee-0309-4868-9ca7-9a0547517348",
+    "movie_id": "m288",
+    "rating": 1.5199084810349093,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-31T20:00:44.954311"
+  },
+  {
+    "review_id": "b87f6d80-9df0-4950-8b87-6ba3f5ad7de7",
+    "user_id": "da23241a-3e4b-4039-b2cd-8627a5e02a74",
+    "movie_id": "m215",
+    "rating": 3.06150020696796,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-23T20:00:44.954311"
+  },
+  {
+    "review_id": "8d6848b2-49c8-4105-a138-702596555891",
+    "user_id": "6599e98e-0d80-42ec-8e00-339d6def68af",
+    "movie_id": "m205",
+    "rating": 1.9843200488931663,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-15T20:00:44.954311"
+  },
+  {
+    "review_id": "9dec7b6a-28e7-44c7-83b0-a1ca37182097",
+    "user_id": "5dc485f0-63f3-40bb-97a1-d763a3ed7b9a",
+    "movie_id": "m93",
+    "rating": 2.4388206836942685,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-22T20:00:44.955311"
+  },
+  {
+    "review_id": "462ba315-e81c-44cd-8784-2fe69bbc7494",
+    "user_id": "5dc485f0-63f3-40bb-97a1-d763a3ed7b9a",
+    "movie_id": "m247",
+    "rating": 2.370987003119857,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-01T20:00:44.955311"
+  },
+  {
+    "review_id": "9d080290-d2d7-4ced-bafc-a030b9d1c83c",
+    "user_id": "7b51e2b6-8af8-4c77-9417-b783756d883a",
+    "movie_id": "m17",
+    "rating": 3.561997457212474,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-09T20:00:44.955311"
+  },
+  {
+    "review_id": "f91a3969-5b36-4bb6-901a-fb46069f4c88",
+    "user_id": "7b51e2b6-8af8-4c77-9417-b783756d883a",
+    "movie_id": "m233",
+    "rating": 3.0425287701392576,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-02T20:00:44.955311"
+  },
+  {
+    "review_id": "61997c12-1ab1-4948-9555-76ed197159c3",
+    "user_id": "7b51e2b6-8af8-4c77-9417-b783756d883a",
+    "movie_id": "m94",
+    "rating": 3.2106774410846164,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-30T20:00:44.955311"
+  },
+  {
+    "review_id": "e33e3b36-b219-4715-b7fc-65c75401b023",
+    "user_id": "eec5e317-21db-46bb-91c5-5f7e9d99ea06",
+    "movie_id": "m38",
+    "rating": 2.8154094562671794,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-01T20:00:44.955311"
+  },
+  {
+    "review_id": "559aaf92-b1b1-4dc2-9077-a2695e928940",
+    "user_id": "4bd54cee-233f-48e6-a27b-bf2ab758e308",
+    "movie_id": "m67",
+    "rating": 1.872081199661812,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-25T20:00:44.955311"
+  },
+  {
+    "review_id": "b711184e-2f09-4c4a-a2dc-1db87dd46146",
+    "user_id": "4bd54cee-233f-48e6-a27b-bf2ab758e308",
+    "movie_id": "m139",
+    "rating": 1.4297731114936205,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-24T20:00:44.955311"
+  },
+  {
+    "review_id": "58374f2f-8a3c-45eb-9374-62d030a735b9",
+    "user_id": "5dd97398-6a43-4f0c-b7f4-f118445f6d18",
+    "movie_id": "m216",
+    "rating": 1.00675479782308,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-24T20:00:44.955311"
+  },
+  {
+    "review_id": "b8d7857a-5005-416d-b488-3e4b86e050bb",
+    "user_id": "5dd97398-6a43-4f0c-b7f4-f118445f6d18",
+    "movie_id": "m159",
+    "rating": 3.729689721725834,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-17T20:00:44.955311"
+  },
+  {
+    "review_id": "2a65fe77-3db4-4052-8f47-e1462911d38c",
+    "user_id": "5dd97398-6a43-4f0c-b7f4-f118445f6d18",
+    "movie_id": "m285",
+    "rating": 4.669653073927216,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-09T20:00:44.955311"
+  },
+  {
+    "review_id": "02ebf987-f3be-43c5-b456-eba0c1691869",
+    "user_id": "27bd828e-7a63-4de8-b76c-6deafbf2ebd5",
+    "movie_id": "m40",
+    "rating": 3.5467100448006437,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-21T20:00:44.956311"
+  },
+  {
+    "review_id": "c7de71ae-22c2-4866-b7b8-bd6c7192bb32",
+    "user_id": "27bd828e-7a63-4de8-b76c-6deafbf2ebd5",
+    "movie_id": "m108",
+    "rating": 3.9712185123856307,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-18T20:00:44.956311"
+  },
+  {
+    "review_id": "2590654f-4e19-485a-88f1-fa4fdf94236e",
+    "user_id": "27bd828e-7a63-4de8-b76c-6deafbf2ebd5",
+    "movie_id": "m276",
+    "rating": 3.148308685815384,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-15T20:00:44.956311"
+  },
+  {
+    "review_id": "d8f2e7a0-ecd3-402e-b20f-d4e0448e2cd8",
+    "user_id": "2821a7e7-44d9-47a5-8ba2-dab30293f8ba",
+    "movie_id": "m146",
+    "rating": 3.409621983272968,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-15T20:00:44.956311"
+  },
+  {
+    "review_id": "4988919a-43c6-4c35-b815-86f708282682",
+    "user_id": "effcbbc8-68b4-4887-984c-946c827e0428",
+    "movie_id": "m121",
+    "rating": 4.367248661076907,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-26T20:00:44.956311"
+  },
+  {
+    "review_id": "c58ab04f-4625-4e73-921b-96ea9a4c3c51",
+    "user_id": "effcbbc8-68b4-4887-984c-946c827e0428",
+    "movie_id": "m111",
+    "rating": 2.795081614445449,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-27T20:00:44.956311"
+  },
+  {
+    "review_id": "83abdc14-aea6-4464-bb90-bb063306900f",
+    "user_id": "effcbbc8-68b4-4887-984c-946c827e0428",
+    "movie_id": "m41",
+    "rating": 4.888770389952014,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-07T20:00:44.956311"
+  },
+  {
+    "review_id": "62f8c677-11bf-47cc-afcc-8a08ec4006fb",
+    "user_id": "96e680e5-0d39-4cec-9963-bfd16a611e99",
+    "movie_id": "m117",
+    "rating": 1.643819755744739,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-02T20:00:44.956311"
+  },
+  {
+    "review_id": "f0909aaf-4e31-4bce-8da5-ef28fdb54b54",
+    "user_id": "96e680e5-0d39-4cec-9963-bfd16a611e99",
+    "movie_id": "m1",
+    "rating": 1.3825140082432714,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-17T20:00:44.956311"
+  },
+  {
+    "review_id": "effb7316-27a4-4871-8093-51c943170808",
+    "user_id": "96e680e5-0d39-4cec-9963-bfd16a611e99",
+    "movie_id": "m61",
+    "rating": 2.983503479964835,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-20T20:00:44.956311"
+  },
+  {
+    "review_id": "1e6a08a1-b52e-476e-a8bd-29bcaee179f2",
+    "user_id": "c78b7080-9879-4e4c-b5ed-62a140b91b3a",
+    "movie_id": "m121",
+    "rating": 2.319195939594934,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-06T20:00:44.956311"
+  },
+  {
+    "review_id": "82b3d1b8-24cf-4b9e-ada3-15ff6b5df435",
+    "user_id": "c78b7080-9879-4e4c-b5ed-62a140b91b3a",
+    "movie_id": "m192",
+    "rating": 2.33758700251439,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-23T20:00:44.956311"
+  },
+  {
+    "review_id": "a116dab9-dda7-4ce1-9701-53e510571713",
+    "user_id": "c78b7080-9879-4e4c-b5ed-62a140b91b3a",
+    "movie_id": "m253",
+    "rating": 2.6447897660744144,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-25T20:00:44.956311"
+  },
+  {
+    "review_id": "39419c70-d69b-4ab4-abf5-b226f340ef5c",
+    "user_id": "92ce46b1-9c90-43d6-8b53-8f2a6865c527",
+    "movie_id": "m12",
+    "rating": 2.7571130303346334,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-07T20:00:44.957311"
+  },
+  {
+    "review_id": "aceb694f-4d3a-4255-87fe-bc5260dd1609",
+    "user_id": "92ce46b1-9c90-43d6-8b53-8f2a6865c527",
+    "movie_id": "m183",
+    "rating": 4.218921123453048,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-06T20:00:44.957311"
+  },
+  {
+    "review_id": "abddd446-c622-4a23-a6cf-d053c2247f53",
+    "user_id": "60587a54-abe9-4641-b677-c569b784fc54",
+    "movie_id": "m69",
+    "rating": 3.9662166246702935,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-26T20:00:44.957311"
+  },
+  {
+    "review_id": "4d1d8009-f3e6-467a-a50b-9be4e761dd28",
+    "user_id": "60587a54-abe9-4641-b677-c569b784fc54",
+    "movie_id": "m151",
+    "rating": 1.7251757378684665,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-29T20:00:44.957311"
+  },
+  {
+    "review_id": "2d372c04-e567-49d6-bab0-6a40dfbc1c08",
+    "user_id": "60587a54-abe9-4641-b677-c569b784fc54",
+    "movie_id": "m269",
+    "rating": 2.050510418484539,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-02T20:00:44.957311"
+  },
+  {
+    "review_id": "340fc3db-a19d-4ef8-92bb-4733c72734f7",
+    "user_id": "a2f76cfa-b095-4280-86a3-6e2f457e8c63",
+    "movie_id": "m46",
+    "rating": 4.595949138880307,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-04T20:00:44.957311"
+  },
+  {
+    "review_id": "69ac101b-e012-4f01-a48e-79a2780072a1",
+    "user_id": "a2f76cfa-b095-4280-86a3-6e2f457e8c63",
+    "movie_id": "m275",
+    "rating": 4.77164281865746,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-03T20:00:44.957311"
+  },
+  {
+    "review_id": "dcd4974c-7be7-4742-883a-3cec5fdcaad7",
+    "user_id": "a2f76cfa-b095-4280-86a3-6e2f457e8c63",
+    "movie_id": "m41",
+    "rating": 2.0922947715581466,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-03T20:00:44.957311"
+  },
+  {
+    "review_id": "57afbbda-5b29-4573-be51-df1103fcc870",
+    "user_id": "5530522e-5705-49c5-ba63-fe2983861b72",
+    "movie_id": "m182",
+    "rating": 2.9297602426094733,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-28T20:00:44.957311"
+  },
+  {
+    "review_id": "117169ce-2b47-4c81-a690-84d51bddc95a",
+    "user_id": "5530522e-5705-49c5-ba63-fe2983861b72",
+    "movie_id": "m275",
+    "rating": 4.759387560811108,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-13T20:00:44.957311"
+  },
+  {
+    "review_id": "e749231d-356a-4efe-93f0-4264c2d1f870",
+    "user_id": "5530522e-5705-49c5-ba63-fe2983861b72",
+    "movie_id": "m224",
+    "rating": 2.213592647557011,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-14T20:00:44.957311"
+  },
+  {
+    "review_id": "4a5d06a6-f264-4d78-9183-72afb2f171b0",
+    "user_id": "e895b562-8312-497b-9fca-48db1a67f98a",
+    "movie_id": "m61",
+    "rating": 4.538396363407779,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-13T20:00:44.957311"
+  },
+  {
+    "review_id": "63e77af3-2086-4634-8ee5-1349f603d187",
+    "user_id": "942b1ff4-b57a-4ad1-8911-a95e0e9136ee",
+    "movie_id": "m70",
+    "rating": 1.8124819343761374,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-30T20:00:44.958316"
+  },
+  {
+    "review_id": "4fcd8f44-d51c-4384-ae73-36c0eb9834bc",
+    "user_id": "942b1ff4-b57a-4ad1-8911-a95e0e9136ee",
+    "movie_id": "m175",
+    "rating": 3.5235746389020477,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-01T20:00:44.958316"
+  },
+  {
+    "review_id": "c969943b-9fde-45e7-84c1-d6084b3e5432",
+    "user_id": "ffc5ab7d-76a6-4772-99f6-58c9dfd990f3",
+    "movie_id": "m259",
+    "rating": 2.500162540189697,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-06T20:00:44.958316"
+  },
+  {
+    "review_id": "e8b546ee-224d-40f7-9a6a-421dd541e8e0",
+    "user_id": "ffc5ab7d-76a6-4772-99f6-58c9dfd990f3",
+    "movie_id": "m205",
+    "rating": 2.486880915839934,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-24T20:00:44.958316"
+  },
+  {
+    "review_id": "41e84a68-8952-4acc-9831-4cb71ba194c8",
+    "user_id": "ffc5ab7d-76a6-4772-99f6-58c9dfd990f3",
+    "movie_id": "m93",
+    "rating": 3.0491042340839045,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-21T20:00:44.958316"
+  },
+  {
+    "review_id": "6436d5cc-a9e6-4e20-91b1-a9ee885ba3f1",
+    "user_id": "9261b78c-a088-4519-9961-4f0084c98d37",
+    "movie_id": "m14",
+    "rating": 1.9286064351681382,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-09T20:00:44.958316"
+  },
+  {
+    "review_id": "c83fb239-0e10-479e-b655-72ebc35b3982",
+    "user_id": "0a84c4da-8704-48c5-8677-132c8173ff53",
+    "movie_id": "m149",
+    "rating": 3.7401620578295165,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-03T20:00:44.958316"
+  },
+  {
+    "review_id": "9e70b380-d496-455a-aaa5-8372994805b3",
+    "user_id": "0a84c4da-8704-48c5-8677-132c8173ff53",
+    "movie_id": "m298",
+    "rating": 4.5920341483419875,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-28T20:00:44.958316"
+  },
+  {
+    "review_id": "c8a47ae4-0236-4938-9fcb-b5519895e4e7",
+    "user_id": "35b37edd-bcad-4379-8d24-1c54343b4e7e",
+    "movie_id": "m137",
+    "rating": 1.874756127444142,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-02T20:00:44.958316"
+  },
+  {
+    "review_id": "d074098c-cb68-436d-ab66-b60b1966e941",
+    "user_id": "35b37edd-bcad-4379-8d24-1c54343b4e7e",
+    "movie_id": "m139",
+    "rating": 3.738275288812896,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-14T20:00:44.958316"
+  },
+  {
+    "review_id": "ec0b70b7-a907-462b-a394-5d731ebccb4d",
+    "user_id": "35b37edd-bcad-4379-8d24-1c54343b4e7e",
+    "movie_id": "m169",
+    "rating": 3.1978269526655887,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-27T20:00:44.958316"
+  },
+  {
+    "review_id": "ea445d88-a95b-4885-aef1-d8ccbcdbb4b9",
+    "user_id": "b2979036-a081-4524-8e1e-e44cbb46a275",
+    "movie_id": "m62",
+    "rating": 1.4176839324822406,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-13T20:00:44.958316"
+  },
+  {
+    "review_id": "c3b7c892-1d86-4fc2-a346-be1924ba6f97",
+    "user_id": "b2979036-a081-4524-8e1e-e44cbb46a275",
+    "movie_id": "m239",
+    "rating": 1.0143276751912111,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-22T20:00:44.959312"
+  },
+  {
+    "review_id": "8d10b06b-b939-40a4-a97c-e6b5f3a0bec7",
+    "user_id": "b2979036-a081-4524-8e1e-e44cbb46a275",
+    "movie_id": "m170",
+    "rating": 2.239957052408722,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-31T20:00:44.959312"
+  },
+  {
+    "review_id": "dcf950b0-839a-4685-9f44-15797d7adb7c",
+    "user_id": "424375fe-fefd-4c11-909b-abf231c974f3",
+    "movie_id": "m51",
+    "rating": 3.07323079400157,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-09T20:00:44.959312"
+  },
+  {
+    "review_id": "a8540f6d-f2a9-495e-aef7-e6a5b196f48a",
+    "user_id": "73c5d4d9-f69d-4c63-bfbb-7a6155b4ae68",
+    "movie_id": "m245",
+    "rating": 3.1465276915018214,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-07T20:00:44.959312"
+  },
+  {
+    "review_id": "e88abf6d-2735-4906-953c-9469a426cd3b",
+    "user_id": "0eb0cae3-60ec-40fc-b88f-ffb6c83f6453",
+    "movie_id": "m60",
+    "rating": 3.667439644581752,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-19T20:00:44.959312"
+  },
+  {
+    "review_id": "44fcd69f-e3eb-49af-8b13-e8617761c692",
+    "user_id": "cdde7e2a-5cef-4957-857f-b39dc35956b7",
+    "movie_id": "m249",
+    "rating": 1.727196208346851,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-22T20:00:44.960312"
+  },
+  {
+    "review_id": "86f9113a-b4c3-4b9a-a9e8-756c1ca21fb7",
+    "user_id": "cdde7e2a-5cef-4957-857f-b39dc35956b7",
+    "movie_id": "m267",
+    "rating": 3.2529101841618977,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-20T20:00:44.960312"
+  },
+  {
+    "review_id": "3ff5f564-3ea8-469c-89a4-97e0cdf76566",
+    "user_id": "3bd6ada5-8469-49c7-a8aa-dc229b4bd2f5",
+    "movie_id": "m57",
+    "rating": 1.5752105161113472,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-18T20:00:44.960312"
+  },
+  {
+    "review_id": "d5edc461-77fe-4c35-83b9-32cb30e1ef3d",
+    "user_id": "3bd6ada5-8469-49c7-a8aa-dc229b4bd2f5",
+    "movie_id": "m174",
+    "rating": 1.3961539345344662,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-26T20:00:44.960312"
+  },
+  {
+    "review_id": "fba46710-2340-4ddb-b0c6-cf2555b2ee44",
+    "user_id": "3bd6ada5-8469-49c7-a8aa-dc229b4bd2f5",
+    "movie_id": "m167",
+    "rating": 1.3017561934581163,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-07T20:00:44.960312"
+  },
+  {
+    "review_id": "69f03e42-c685-42c1-9658-2f5373961f30",
+    "user_id": "cc0db736-53eb-428e-890a-78334717bcca",
+    "movie_id": "m201",
+    "rating": 2.784870076228908,
+    "text": "Sample review text...",
+    "timestamp": "2025-12-01T20:00:44.960312"
+  },
+  {
+    "review_id": "bcf00908-a6e9-4ca3-a7ee-95b77929c968",
+    "user_id": "45e30050-30f6-45c8-aa79-7c7c4c71c946",
+    "movie_id": "m183",
+    "rating": 2.007701876816253,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-27T20:00:44.960312"
+  },
+  {
+    "review_id": "216f4487-6411-4b83-b727-8e377ac71365",
+    "user_id": "45e30050-30f6-45c8-aa79-7c7c4c71c946",
+    "movie_id": "m152",
+    "rating": 3.057794692618319,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-06T20:00:44.960312"
+  },
+  {
+    "review_id": "7e566276-b7b4-4b75-abbf-e0f85d4528df",
+    "user_id": "e6665e15-9608-4d02-b79e-802c9ee18a1d",
+    "movie_id": "m131",
+    "rating": 1.6713869289091532,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-06T20:00:44.960312"
+  },
+  {
+    "review_id": "d1331009-4f5a-4053-b91f-aba7a932b67d",
+    "user_id": "e6665e15-9608-4d02-b79e-802c9ee18a1d",
+    "movie_id": "m155",
+    "rating": 1.3991201216537505,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-06T20:00:44.960312"
+  },
+  {
+    "review_id": "3c38bb82-7816-48ee-aba7-776ca1c189c3",
+    "user_id": "8175540b-dbf1-44dc-904e-19faafe2fc8a",
+    "movie_id": "m258",
+    "rating": 3.893020830435112,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-14T20:00:44.961313"
+  },
+  {
+    "review_id": "355cf6cf-0bc7-4d40-bfa3-79cce55493e3",
+    "user_id": "8175540b-dbf1-44dc-904e-19faafe2fc8a",
+    "movie_id": "m266",
+    "rating": 4.8310567667288575,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-24T20:00:44.961313"
+  },
+  {
+    "review_id": "6f2d1fd5-d263-450a-a710-403225b4c7fd",
+    "user_id": "cc69ba78-f6e7-4d83-a8c3-d11885e96a5c",
+    "movie_id": "m248",
+    "rating": 4.044546749071057,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-16T20:00:44.961313"
+  },
+  {
+    "review_id": "0ca8763d-f2aa-47cb-a534-7cfca40353a4",
+    "user_id": "cc69ba78-f6e7-4d83-a8c3-d11885e96a5c",
+    "movie_id": "m171",
+    "rating": 2.5450783715985463,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-07T20:00:44.961313"
+  },
+  {
+    "review_id": "4d9a8cce-82b8-45da-ac92-2a0a49763f85",
+    "user_id": "cc69ba78-f6e7-4d83-a8c3-d11885e96a5c",
+    "movie_id": "m143",
+    "rating": 2.5238016408948094,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-09T20:00:44.961313"
+  },
+  {
+    "review_id": "0462cf6c-7450-4474-b763-331abc4d9e54",
+    "user_id": "28e2a952-4c56-4e86-824b-a2a395c1ae76",
+    "movie_id": "m155",
+    "rating": 3.559832808739893,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-16T20:00:44.961313"
+  },
+  {
+    "review_id": "b0084a32-4dad-4485-b5ef-2ebfc6d65316",
+    "user_id": "28e2a952-4c56-4e86-824b-a2a395c1ae76",
+    "movie_id": "m188",
+    "rating": 3.914149418416546,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-06T20:00:44.961313"
+  },
+  {
+    "review_id": "3acaccec-7378-45d0-b4fe-1aa30c3a7db3",
+    "user_id": "28e2a952-4c56-4e86-824b-a2a395c1ae76",
+    "movie_id": "m206",
+    "rating": 1.0543049361766044,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-25T20:00:44.961313"
+  },
+  {
+    "review_id": "91cbeefc-bc6c-431f-9418-f9d5f9d995d6",
+    "user_id": "be3efd73-dffb-4656-93ab-809239e647a9",
+    "movie_id": "m31",
+    "rating": 3.8182348419098684,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-10T20:00:44.961313"
+  },
+  {
+    "review_id": "e3117398-8ba1-4b50-b4f7-a37938662543",
+    "user_id": "ed7f9600-e348-47d7-a345-126357c12718",
+    "movie_id": "m40",
+    "rating": 4.54970951513041,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-23T20:00:44.961313"
+  },
+  {
+    "review_id": "b3076b95-cd37-4ece-b80a-5ff712cb27d1",
+    "user_id": "ed7f9600-e348-47d7-a345-126357c12718",
+    "movie_id": "m218",
+    "rating": 2.784933348470724,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-27T20:00:44.961313"
+  },
+  {
+    "review_id": "c72f54a1-82c3-456f-a7c0-acd6f9011990",
+    "user_id": "8d67f85f-14d5-480b-8771-8b1493c7faf7",
+    "movie_id": "m142",
+    "rating": 1.493822245971716,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-05T20:00:44.962312"
+  },
+  {
+    "review_id": "211e7c7a-edcd-44de-869b-1710e2552a71",
+    "user_id": "d10c4375-ed6d-4da4-ac57-6edccdaad21a",
+    "movie_id": "m299",
+    "rating": 2.32762439240056,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-29T20:00:44.962312"
+  },
+  {
+    "review_id": "f7da7120-4278-44aa-910f-ac2015453702",
+    "user_id": "b40961a1-3e2d-479d-a6b4-deb8168a7d20",
+    "movie_id": "m55",
+    "rating": 4.186083999923111,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-04T20:00:44.962312"
+  },
+  {
+    "review_id": "3b17bce3-c3ab-4f91-9500-8ac9f24542da",
+    "user_id": "b40961a1-3e2d-479d-a6b4-deb8168a7d20",
+    "movie_id": "m279",
+    "rating": 2.71958148295677,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-25T20:00:44.962312"
+  },
+  {
+    "review_id": "6e59b47c-e88f-4ff3-8d92-3eb08a2771e2",
+    "user_id": "d5af08b0-df58-40e2-9902-9e496afabb8e",
+    "movie_id": "m153",
+    "rating": 1.2956724883115673,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-30T20:00:44.962312"
+  },
+  {
+    "review_id": "65e611d1-c3cc-4613-81b4-77b3b00677ab",
+    "user_id": "d5af08b0-df58-40e2-9902-9e496afabb8e",
+    "movie_id": "m277",
+    "rating": 1.9482868146015573,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-09T20:00:44.962312"
+  },
+  {
+    "review_id": "a382e839-edb2-4663-839d-85eaacc331dd",
+    "user_id": "d5af08b0-df58-40e2-9902-9e496afabb8e",
+    "movie_id": "m289",
+    "rating": 3.62706377729588,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-27T20:00:44.962312"
+  },
+  {
+    "review_id": "cf4cf0f7-4c50-456a-a2b5-55ff51337dc8",
+    "user_id": "1c76ef7d-efe9-4721-a6cb-95556029d9cc",
+    "movie_id": "m76",
+    "rating": 2.3536766765294415,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-19T20:00:44.962312"
+  },
+  {
+    "review_id": "0fc2dba2-2143-4ac4-b395-0c6c0b24eb86",
+    "user_id": "1c76ef7d-efe9-4721-a6cb-95556029d9cc",
+    "movie_id": "m212",
+    "rating": 4.14097866275525,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-18T20:00:44.962312"
+  },
+  {
+    "review_id": "b7ce03df-d03e-4bef-b6d7-9414411af7d3",
+    "user_id": "1c76ef7d-efe9-4721-a6cb-95556029d9cc",
+    "movie_id": "m248",
+    "rating": 3.866430776182498,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-25T20:00:44.962312"
+  },
+  {
+    "review_id": "ebfaca42-3a89-47d1-8f5d-22902a317fb7",
+    "user_id": "332be62d-a312-46ab-97b6-826f9843a3c7",
+    "movie_id": "m186",
+    "rating": 1.8567958512522318,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-17T20:00:44.963311"
+  },
+  {
+    "review_id": "6ee3d0cf-474e-4c85-84d1-4ece031ccbfc",
+    "user_id": "332be62d-a312-46ab-97b6-826f9843a3c7",
+    "movie_id": "m121",
+    "rating": 3.395535335945386,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-17T20:00:44.963311"
+  },
+  {
+    "review_id": "4ee48dab-eb15-4b34-8e32-2487c80aae90",
+    "user_id": "332be62d-a312-46ab-97b6-826f9843a3c7",
+    "movie_id": "m271",
+    "rating": 2.614712897184623,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-14T20:00:44.963311"
+  },
+  {
+    "review_id": "40bf32eb-b8fc-478e-bd39-83834e950cff",
+    "user_id": "5df67db7-c7e5-4ff3-9548-9e82a6d33fd3",
+    "movie_id": "m22",
+    "rating": 2.765438424388462,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-27T20:00:44.963311"
+  },
+  {
+    "review_id": "9d11d364-d3f5-4928-8cfd-e514c29913ec",
+    "user_id": "5df67db7-c7e5-4ff3-9548-9e82a6d33fd3",
+    "movie_id": "m54",
+    "rating": 3.4380346071841057,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-22T20:00:44.963311"
+  },
+  {
+    "review_id": "b6a9a110-5475-4ec1-906e-6bb0680f9e32",
+    "user_id": "5df67db7-c7e5-4ff3-9548-9e82a6d33fd3",
+    "movie_id": "m176",
+    "rating": 3.528976539082225,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-01T20:00:44.963311"
+  },
+  {
+    "review_id": "d9cb4b90-90c5-4f1b-931d-21356613b47e",
+    "user_id": "b80e4807-9b55-4fba-ac33-3a9f52380805",
+    "movie_id": "m193",
+    "rating": 2.7885006284315006,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-28T20:00:44.963311"
+  },
+  {
+    "review_id": "574b269b-790f-429f-a985-1053571a8a4e",
+    "user_id": "b80e4807-9b55-4fba-ac33-3a9f52380805",
+    "movie_id": "m65",
+    "rating": 3.452052812612224,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-04T20:00:44.963311"
+  },
+  {
+    "review_id": "df8237f9-d14d-4ae3-b2c3-fe7168bd368f",
+    "user_id": "b80e4807-9b55-4fba-ac33-3a9f52380805",
+    "movie_id": "m247",
+    "rating": 4.133522247558895,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-26T20:00:44.963311"
+  },
+  {
+    "review_id": "9c86d0d7-cebb-4c6e-8400-aa52f7f00bf3",
+    "user_id": "6502e6bb-0298-4081-aa96-5e0c7422b9b6",
+    "movie_id": "m53",
+    "rating": 1.237803529078644,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-30T20:00:44.963311"
+  },
+  {
+    "review_id": "1a33a102-3cf2-4b98-809e-6d3dcfe10aaa",
+    "user_id": "03051bb6-d31c-45f8-b274-037e26b2127c",
+    "movie_id": "m134",
+    "rating": 1.5074969129261082,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-09T20:00:44.964311"
+  },
+  {
+    "review_id": "903e4534-50f0-4e32-a815-56b8bc51730b",
+    "user_id": "db727e35-ffb8-45ba-a10e-892c02beba16",
+    "movie_id": "m95",
+    "rating": 1.9976905777175684,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-08T20:00:44.964311"
+  },
+  {
+    "review_id": "85c51238-3046-4fce-bcec-9c0e58d67703",
+    "user_id": "db727e35-ffb8-45ba-a10e-892c02beba16",
+    "movie_id": "m72",
+    "rating": 4.828049729377609,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-27T20:00:44.964311"
+  },
+  {
+    "review_id": "06f5b8f7-2c6a-4d6d-a3e5-ddff94b14f1b",
+    "user_id": "e823124b-cb93-48a2-9672-2797f96cffd1",
+    "movie_id": "m227",
+    "rating": 1.2617208785808631,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-01T20:00:44.964311"
+  },
+  {
+    "review_id": "9ae67071-c554-48d6-a671-34aa9c094839",
+    "user_id": "4b6ae16e-8c11-46c7-b517-3da35ecbc91d",
+    "movie_id": "m48",
+    "rating": 4.121870433761197,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-02T20:00:44.964311"
+  },
+  {
+    "review_id": "99cdf8ee-0ccb-4f3b-8d89-fa12183a9365",
+    "user_id": "4b6ae16e-8c11-46c7-b517-3da35ecbc91d",
+    "movie_id": "m30",
+    "rating": 2.6075306063877446,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-18T20:00:44.964311"
+  },
+  {
+    "review_id": "3585caec-7137-4ebf-be88-ab1650c75dc2",
+    "user_id": "4b6ae16e-8c11-46c7-b517-3da35ecbc91d",
+    "movie_id": "m120",
+    "rating": 4.0355490592709815,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-08T20:00:44.964311"
+  },
+  {
+    "review_id": "bf15555a-7762-49e3-9d31-9c53dc26a350",
+    "user_id": "e3ff9359-3e45-4de9-b676-1fb7c6c3cf96",
+    "movie_id": "m196",
+    "rating": 1.571850538275633,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-11T20:00:44.964311"
+  },
+  {
+    "review_id": "66947874-2b17-462a-90a9-4671472178a1",
+    "user_id": "c04a40fc-7ac5-40f8-a99c-9792742cb038",
+    "movie_id": "m246",
+    "rating": 2.873990740613264,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-29T20:00:44.965311"
+  },
+  {
+    "review_id": "f4a56bdf-301a-4668-9422-d9167e40731f",
+    "user_id": "c04a40fc-7ac5-40f8-a99c-9792742cb038",
+    "movie_id": "m121",
+    "rating": 4.377274360018513,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-22T20:00:44.965311"
+  },
+  {
+    "review_id": "53b08af4-8f9c-4358-b18b-e92461acbb08",
+    "user_id": "c04a40fc-7ac5-40f8-a99c-9792742cb038",
+    "movie_id": "m58",
+    "rating": 3.9037158226701405,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-26T20:00:44.965311"
+  },
+  {
+    "review_id": "3ff41e1e-d321-4374-954e-8fff38395fc6",
+    "user_id": "99d40fb0-6ccf-4c34-b0da-ee904e4e5228",
+    "movie_id": "m19",
+    "rating": 2.068057940737133,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-27T20:00:44.965311"
+  },
+  {
+    "review_id": "ff0b719d-8bfe-42e4-b5f9-8f5ac240b874",
+    "user_id": "a510b2a5-a3ca-4a92-a91f-11e5cd5dace0",
+    "movie_id": "m44",
+    "rating": 1.7373896874109587,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-17T20:00:44.965311"
+  },
+  {
+    "review_id": "7ef6f686-f5dc-4093-b212-a4675297ee8d",
+    "user_id": "a510b2a5-a3ca-4a92-a91f-11e5cd5dace0",
+    "movie_id": "m238",
+    "rating": 1.084190962326684,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-13T20:00:44.965311"
+  },
+  {
+    "review_id": "a22d1b05-327f-45f1-afd2-578d1cefe30b",
+    "user_id": "625efd8b-00c4-408d-96b8-199ff60ea7c4",
+    "movie_id": "m143",
+    "rating": 3.651273836425665,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-25T20:00:44.965311"
+  },
+  {
+    "review_id": "e94352f4-f283-4fda-8341-094a1af06a2e",
+    "user_id": "625efd8b-00c4-408d-96b8-199ff60ea7c4",
+    "movie_id": "m248",
+    "rating": 2.797420780284034,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-14T20:00:44.965311"
+  },
+  {
+    "review_id": "ad7557c3-85ff-4c67-b434-3cce769a78c4",
+    "user_id": "625efd8b-00c4-408d-96b8-199ff60ea7c4",
+    "movie_id": "m133",
+    "rating": 4.663140662231362,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-02T20:00:44.965311"
+  },
+  {
+    "review_id": "b0b354db-198d-49e7-ae8f-4edb66312d1c",
+    "user_id": "bce28413-cbaa-4c82-a237-683167117151",
+    "movie_id": "m189",
+    "rating": 1.5564360038945155,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-17T20:00:44.965311"
+  },
+  {
+    "review_id": "e055f4f8-0b0c-4110-b729-b3befcdbdf2a",
+    "user_id": "5c3adfd9-0e48-4171-ba5e-b122f9fbd937",
+    "movie_id": "m137",
+    "rating": 1.0688980929190093,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-12T20:00:44.965311"
+  },
+  {
+    "review_id": "8c201576-845b-40a9-9b58-9a2ac4329dd8",
+    "user_id": "5c3adfd9-0e48-4171-ba5e-b122f9fbd937",
+    "movie_id": "m120",
+    "rating": 1.282518573354308,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-24T20:00:44.965311"
+  },
+  {
+    "review_id": "7e94906b-cb0c-4a28-8c81-a59c1a749966",
+    "user_id": "3a265dfd-cde9-48e4-8045-3400b784aac0",
+    "movie_id": "m34",
+    "rating": 1.2836858222494603,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-01T20:00:44.966311"
+  },
+  {
+    "review_id": "782fcf5d-8679-4c3a-94cc-470b020cff16",
+    "user_id": "176c7135-8e3a-4fd8-bafe-bfe32220a413",
+    "movie_id": "m33",
+    "rating": 1.532593952734,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-03T20:00:44.966311"
+  },
+  {
+    "review_id": "56e743ac-b8fa-45b7-9896-b7c588298f6f",
+    "user_id": "176c7135-8e3a-4fd8-bafe-bfe32220a413",
+    "movie_id": "m28",
+    "rating": 3.8154906209203063,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-23T20:00:44.966311"
+  },
+  {
+    "review_id": "867ddd8e-9a72-40e8-9865-2485c5e17051",
+    "user_id": "e0d269e4-c684-4d3f-842a-8cecee24e798",
+    "movie_id": "m217",
+    "rating": 4.987053001326851,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-02T20:00:44.966311"
+  },
+  {
+    "review_id": "dd4c9f76-40b5-4ccd-bef8-dc0120d132de",
+    "user_id": "e0d269e4-c684-4d3f-842a-8cecee24e798",
+    "movie_id": "m262",
+    "rating": 3.349923474632352,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-06T20:00:44.966311"
+  },
+  {
+    "review_id": "a0b1fc02-96e1-4774-948a-4aa205e8e7e0",
+    "user_id": "a5043616-a1b8-45fd-80e1-590622f49dfb",
+    "movie_id": "m267",
+    "rating": 4.930601775488068,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-16T20:00:44.966311"
+  },
+  {
+    "review_id": "c585871c-0e5d-4763-aa69-134f3588a217",
+    "user_id": "7a060713-f608-4cd3-acf4-3cade2beb465",
+    "movie_id": "m214",
+    "rating": 3.245336381850393,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-12T20:00:44.967318"
+  },
+  {
+    "review_id": "1d303c6d-245c-4635-b950-1cdf3529ec4f",
+    "user_id": "30f93737-043c-4ccd-9b80-9f475751e1de",
+    "movie_id": "m240",
+    "rating": 4.188335264762399,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-05T20:00:44.967318"
+  },
+  {
+    "review_id": "4829956a-85aa-4264-ab79-b7700670da21",
+    "user_id": "30f93737-043c-4ccd-9b80-9f475751e1de",
+    "movie_id": "m30",
+    "rating": 2.0100212053450677,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-02T20:00:44.967318"
+  },
+  {
+    "review_id": "e8d97b52-889f-474b-9401-e04504ea93c3",
+    "user_id": "de0f9796-1fb9-4e7a-b7c1-ffd617a068cd",
+    "movie_id": "m259",
+    "rating": 2.941611752873302,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-19T20:00:44.967318"
+  },
+  {
+    "review_id": "0a0f630b-f6a9-433d-8080-a636a8aa3e60",
+    "user_id": "71c2c7c4-1ad2-45f7-9254-44c430201ce5",
+    "movie_id": "m132",
+    "rating": 1.3501099710527291,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-27T20:00:44.967318"
+  },
+  {
+    "review_id": "cc1bcbcc-1b61-44ba-b67d-70df969ff4b9",
+    "user_id": "71c2c7c4-1ad2-45f7-9254-44c430201ce5",
+    "movie_id": "m87",
+    "rating": 3.781644053484779,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-23T20:00:44.967318"
+  },
+  {
+    "review_id": "96b1287b-cdd8-460b-9767-98c652100f03",
+    "user_id": "6570777f-ce2e-413f-bbaf-1b4a042f7db6",
+    "movie_id": "m68",
+    "rating": 4.783081893784458,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-01T20:00:44.967318"
+  },
+  {
+    "review_id": "2403df67-e122-40ec-a1d4-62f5573ddaf7",
+    "user_id": "6570777f-ce2e-413f-bbaf-1b4a042f7db6",
+    "movie_id": "m256",
+    "rating": 1.4548614346096551,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-06T20:00:44.967318"
+  },
+  {
+    "review_id": "7794396d-3a1e-40d3-9fc5-d189427f6cac",
+    "user_id": "6570777f-ce2e-413f-bbaf-1b4a042f7db6",
+    "movie_id": "m240",
+    "rating": 3.9876872882747674,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-14T20:00:44.967318"
+  },
+  {
+    "review_id": "49111cc4-4fb7-4dd1-956b-c5f78e722f6c",
+    "user_id": "ef7ddfd7-a7a1-47d8-85b5-e3c1a0c9bd0d",
+    "movie_id": "m265",
+    "rating": 4.233564872675031,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-17T20:00:44.968317"
+  },
+  {
+    "review_id": "280e936e-1ed1-494d-87e1-5c4eabc75ec5",
+    "user_id": "ef7ddfd7-a7a1-47d8-85b5-e3c1a0c9bd0d",
+    "movie_id": "m101",
+    "rating": 1.4769277823372606,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-18T20:00:44.968317"
+  },
+  {
+    "review_id": "12c889af-bd7c-4250-b4a4-841b1cc2efe2",
+    "user_id": "4fe55ed9-4f50-4dae-955a-9720625208a0",
+    "movie_id": "m202",
+    "rating": 2.535932352851469,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-15T20:00:44.968317"
+  },
+  {
+    "review_id": "18135aa4-0c72-4802-ab21-351bc46af933",
+    "user_id": "040c5dc1-9cce-4d38-ade4-79f6415e4cfb",
+    "movie_id": "m74",
+    "rating": 4.101584286537035,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-24T20:00:44.968317"
+  },
+  {
+    "review_id": "f2d68a4d-48dd-4030-ad1a-14a71c2c56d5",
+    "user_id": "040c5dc1-9cce-4d38-ade4-79f6415e4cfb",
+    "movie_id": "m92",
+    "rating": 4.933867324385308,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-19T20:00:44.968317"
+  },
+  {
+    "review_id": "bb352c34-72a4-43cd-a114-e06a568bb5f0",
+    "user_id": "39e85e4c-251a-4ccf-9b48-5730a2e64773",
+    "movie_id": "m178",
+    "rating": 1.905583377873227,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-08T20:00:44.969318"
+  },
+  {
+    "review_id": "06518e7b-f572-47fe-b2e4-d055add68462",
+    "user_id": "39e85e4c-251a-4ccf-9b48-5730a2e64773",
+    "movie_id": "m259",
+    "rating": 2.321920290621314,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-05T20:00:44.969318"
+  },
+  {
+    "review_id": "5b6cfdc5-5fc2-4cf1-a752-d4c523f46dd7",
+    "user_id": "39e85e4c-251a-4ccf-9b48-5730a2e64773",
+    "movie_id": "m165",
+    "rating": 1.8534018271025934,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-06T20:00:44.969318"
+  },
+  {
+    "review_id": "2461ff66-f5d5-42b3-a4d3-750f1907ef52",
+    "user_id": "5f559e40-d054-473d-a1f2-dfc0b6cf3bac",
+    "movie_id": "m220",
+    "rating": 2.4719142391865865,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-18T20:00:44.969318"
+  },
+  {
+    "review_id": "f7762b8a-9cff-47f6-b0ff-50eb5bb8aeaf",
+    "user_id": "5f559e40-d054-473d-a1f2-dfc0b6cf3bac",
+    "movie_id": "m297",
+    "rating": 2.349069065661305,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-16T20:00:44.969318"
+  },
+  {
+    "review_id": "6888a584-5a6c-44e3-96cd-cda820e51c61",
+    "user_id": "5f559e40-d054-473d-a1f2-dfc0b6cf3bac",
+    "movie_id": "m9",
+    "rating": 2.4261711296372157,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-28T20:00:44.969318"
+  },
+  {
+    "review_id": "7bf1381e-f58e-44b8-9212-a0e704322b57",
+    "user_id": "1473c39a-45b3-44c7-a360-3cc66b8cee5c",
+    "movie_id": "m153",
+    "rating": 3.305690923778119,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-07T20:00:44.969318"
+  },
+  {
+    "review_id": "c8c7e220-8663-43a7-83f8-9c997dbcd0f0",
+    "user_id": "913252cb-06b1-45f6-9319-dd1ab1625c30",
+    "movie_id": "m24",
+    "rating": 4.837332710803922,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-10T20:00:44.970318"
+  },
+  {
+    "review_id": "6ade5a52-44e7-49d6-934e-1539405fc7d5",
+    "user_id": "913252cb-06b1-45f6-9319-dd1ab1625c30",
+    "movie_id": "m19",
+    "rating": 1.7193175497228474,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-04T20:00:44.970318"
+  },
+  {
+    "review_id": "9f49b020-15f3-434e-8134-dad1fb8f7a45",
+    "user_id": "913252cb-06b1-45f6-9319-dd1ab1625c30",
+    "movie_id": "m236",
+    "rating": 1.4826541911888165,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-31T20:00:44.970318"
+  },
+  {
+    "review_id": "041e3a58-e775-41bb-9520-d46c970252ae",
+    "user_id": "e4a5a3de-73c2-4b48-95c8-d6bb0e9ec7b0",
+    "movie_id": "m284",
+    "rating": 4.0172518265986925,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-03T20:00:44.970318"
+  },
+  {
+    "review_id": "dff3eec1-1ba6-481a-a7b5-171a25d1a8e7",
+    "user_id": "e4a5a3de-73c2-4b48-95c8-d6bb0e9ec7b0",
+    "movie_id": "m47",
+    "rating": 1.9649396806704944,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-17T20:00:44.970318"
+  },
+  {
+    "review_id": "212bb5c0-f229-4e0c-b10a-a696c3bfa81a",
+    "user_id": "e4a5a3de-73c2-4b48-95c8-d6bb0e9ec7b0",
+    "movie_id": "m73",
+    "rating": 2.747523347519706,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-24T20:00:44.970318"
+  },
+  {
+    "review_id": "34fcf84d-d7fd-4f7b-8f87-0fbd7c3f1182",
+    "user_id": "44898ae5-a320-4612-a3be-4674bb41eb19",
+    "movie_id": "m32",
+    "rating": 3.359258119553487,
+    "text": "Sample review text...",
+    "timestamp": "2025-06-28T20:00:44.970318"
+  },
+  {
+    "review_id": "be1dbfa9-bca0-4a7a-88cb-0bc4eb7859db",
+    "user_id": "c21fbedd-00b8-4977-88ae-20239be3c60a",
+    "movie_id": "m232",
+    "rating": 2.5360735068175795,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-07T20:00:44.970318"
+  },
+  {
+    "review_id": "147fdd4c-3ce3-4f4c-a6e4-52727c96e779",
+    "user_id": "5cedf1c9-c198-44f1-a0d6-7dc71927c170",
+    "movie_id": "m265",
+    "rating": 2.5449208601940136,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-28T20:00:44.970318"
+  },
+  {
+    "review_id": "d9b02f0b-53d5-4de1-9e09-e00c049cb0df",
+    "user_id": "55765473-40e8-4f79-8899-46fbcbfae9dd",
+    "movie_id": "m153",
+    "rating": 2.407867441675309,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-09T20:00:44.971318"
+  },
+  {
+    "review_id": "28b69e89-8850-450c-8c16-dc51935bc71e",
+    "user_id": "55765473-40e8-4f79-8899-46fbcbfae9dd",
+    "movie_id": "m195",
+    "rating": 4.953803758079507,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-26T20:00:44.971318"
+  },
+  {
+    "review_id": "309ec652-e7a8-463e-bf01-9b52c329dda1",
+    "user_id": "55765473-40e8-4f79-8899-46fbcbfae9dd",
+    "movie_id": "m150",
+    "rating": 4.243400270587912,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-24T20:00:44.971318"
+  },
+  {
+    "review_id": "5f3da624-f304-4cb7-8d72-967526ef073b",
+    "user_id": "5fee82cc-9796-4296-a164-8870ce7436f1",
+    "movie_id": "m130",
+    "rating": 4.255640006706123,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-08T20:00:44.971318"
+  },
+  {
+    "review_id": "64fc79b2-e58c-4e8c-bde8-1f08c30276a0",
+    "user_id": "5fee82cc-9796-4296-a164-8870ce7436f1",
+    "movie_id": "m24",
+    "rating": 3.491809538350863,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-06T20:00:44.971318"
+  },
+  {
+    "review_id": "aba8d7f3-b3f9-405a-9365-69d8b1c925a8",
+    "user_id": "e26399aa-4ebb-4bba-b78f-7d1b76f3501a",
+    "movie_id": "m196",
+    "rating": 3.5935495591055555,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-13T20:00:44.971318"
+  },
+  {
+    "review_id": "041ae82b-eea4-4386-b08a-bd079dc92e3f",
+    "user_id": "e26399aa-4ebb-4bba-b78f-7d1b76f3501a",
+    "movie_id": "m119",
+    "rating": 3.9470332298327393,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-01T20:00:44.971318"
+  },
+  {
+    "review_id": "64b90958-fe6a-4edc-97bc-0bd121c39cd1",
+    "user_id": "e26399aa-4ebb-4bba-b78f-7d1b76f3501a",
+    "movie_id": "m210",
+    "rating": 1.6154485645818557,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-08T20:00:44.971318"
+  },
+  {
+    "review_id": "a457e9fb-e567-4313-91c8-f28e2605b488",
+    "user_id": "5ec59a98-2da2-4c9c-81e2-676a59a90796",
+    "movie_id": "m173",
+    "rating": 4.4888183754397115,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-04T20:00:44.971318"
+  },
+  {
+    "review_id": "32e2a2bb-212e-478c-a724-5591336dbe9f",
+    "user_id": "5ec59a98-2da2-4c9c-81e2-676a59a90796",
+    "movie_id": "m85",
+    "rating": 4.550900973436748,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-30T20:00:44.971318"
+  },
+  {
+    "review_id": "a27bcc05-2926-45f9-9a32-bae65d1baab5",
+    "user_id": "5ec59a98-2da2-4c9c-81e2-676a59a90796",
+    "movie_id": "m169",
+    "rating": 2.600730256090107,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-13T20:00:44.971318"
+  },
+  {
+    "review_id": "1b627743-2bca-4f96-87ed-94e2ddb108eb",
+    "user_id": "d7e316eb-b601-4ba1-b743-83813b24e07f",
+    "movie_id": "m298",
+    "rating": 4.606542958461084,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-26T20:00:44.971318"
+  },
+  {
+    "review_id": "3c329f87-d011-4ee5-92a5-904290cd908d",
+    "user_id": "d7e316eb-b601-4ba1-b743-83813b24e07f",
+    "movie_id": "m25",
+    "rating": 1.1465011446543198,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-18T20:00:44.971318"
+  },
+  {
+    "review_id": "5ea09c1a-6f66-4072-b980-4e14c4c327dd",
+    "user_id": "daba8c02-8f3e-4542-9bed-0a5fedb1cd8c",
+    "movie_id": "m46",
+    "rating": 4.300321215990884,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-31T20:00:44.972317"
+  },
+  {
+    "review_id": "df433491-2e1d-429c-91c5-6322a92d7fd6",
+    "user_id": "daba8c02-8f3e-4542-9bed-0a5fedb1cd8c",
+    "movie_id": "m114",
+    "rating": 1.192331617915253,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-15T20:00:44.972317"
+  },
+  {
+    "review_id": "64afae92-a1f3-4805-9552-7bd8f78fa6c4",
+    "user_id": "21aa5b98-7734-49f0-b7cc-73d52e6b6ef7",
+    "movie_id": "m160",
+    "rating": 1.310605965466293,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-04T20:00:44.972317"
+  },
+  {
+    "review_id": "01f500c4-e2ae-4c36-82bf-3bd731881261",
+    "user_id": "21aa5b98-7734-49f0-b7cc-73d52e6b6ef7",
+    "movie_id": "m192",
+    "rating": 2.5656763852380333,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-21T20:00:44.972317"
+  },
+  {
+    "review_id": "204a0f0b-2098-483e-81bd-c70ccbdb7958",
+    "user_id": "21aa5b98-7734-49f0-b7cc-73d52e6b6ef7",
+    "movie_id": "m27",
+    "rating": 2.671159259077645,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-01T20:00:44.972317"
+  },
+  {
+    "review_id": "a9febd86-0e2a-47cb-b446-118694e30ecc",
+    "user_id": "8e0ec37f-7716-4e0b-a111-b3dd6961a06b",
+    "movie_id": "m95",
+    "rating": 1.223234363494206,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-29T20:00:44.972317"
+  },
+  {
+    "review_id": "0aa0c710-37ad-4565-896c-987317ad16b7",
+    "user_id": "8e0ec37f-7716-4e0b-a111-b3dd6961a06b",
+    "movie_id": "m92",
+    "rating": 2.9410444958226805,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-20T20:00:44.972317"
+  },
+  {
+    "review_id": "1e75ee3c-a278-4ada-9b76-2ebf708ec68a",
+    "user_id": "70c70037-fe8a-4efa-b886-31aaad93eb71",
+    "movie_id": "m71",
+    "rating": 2.4630526235608627,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-15T20:00:44.972317"
+  },
+  {
+    "review_id": "83348898-bb58-4889-b741-52ccb1445c70",
+    "user_id": "c4cac465-a4ee-4779-96ce-f88276c67bca",
+    "movie_id": "m217",
+    "rating": 3.068268185947703,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-26T20:00:44.972317"
+  },
+  {
+    "review_id": "e3c7f1c3-81a3-4b73-933f-e688d31bf27c",
+    "user_id": "c4cac465-a4ee-4779-96ce-f88276c67bca",
+    "movie_id": "m74",
+    "rating": 1.8170455107712393,
+    "text": "Sample review text...",
+    "timestamp": "2025-10-05T20:00:44.972317"
+  },
+  {
+    "review_id": "77c15498-c1b1-4b45-bc6f-7cbbe145291f",
+    "user_id": "c4cac465-a4ee-4779-96ce-f88276c67bca",
+    "movie_id": "m294",
+    "rating": 3.8012242882811624,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-02T20:00:44.972317"
+  },
+  {
+    "review_id": "c46cda8d-acd3-479f-bf45-d38afb8be724",
+    "user_id": "9bbbbc11-2929-4f65-bffe-6961cefb63bf",
+    "movie_id": "m147",
+    "rating": 2.7094880908433443,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-01T20:00:44.973318"
+  },
+  {
+    "review_id": "1c7367dc-57e9-45d3-9dfd-b7cb2cedfd80",
+    "user_id": "9bbbbc11-2929-4f65-bffe-6961cefb63bf",
+    "movie_id": "m234",
+    "rating": 1.498241812959447,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-30T20:00:44.973318"
+  },
+  {
+    "review_id": "067eac69-f97d-4aae-82b6-50480297c34c",
+    "user_id": "6ce3c215-6f56-44dc-93f8-e91cd3b7a653",
+    "movie_id": "m116",
+    "rating": 2.0384560307852846,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-12T20:00:44.973318"
+  },
+  {
+    "review_id": "1471ca0f-d7bc-4ccf-ba05-4918ce7d03af",
+    "user_id": "233aa3de-4259-4729-91ac-c12dda590525",
+    "movie_id": "m193",
+    "rating": 1.640634466810202,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-03T20:00:44.973318"
+  },
+  {
+    "review_id": "6af48c63-2203-4844-8878-7d942248b8c4",
+    "user_id": "233aa3de-4259-4729-91ac-c12dda590525",
+    "movie_id": "m27",
+    "rating": 1.2632546843203043,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-24T20:00:44.973318"
+  },
+  {
+    "review_id": "de2d7906-e16f-4ff6-8d57-460d11352fc0",
+    "user_id": "233aa3de-4259-4729-91ac-c12dda590525",
+    "movie_id": "m225",
+    "rating": 3.7806919120389044,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-28T20:00:44.973318"
+  },
+  {
+    "review_id": "e21ec3ea-eff1-4db4-84ca-a35ebe4cd343",
+    "user_id": "e0cb4b17-02f3-4c1a-b573-09f358a0d33e",
+    "movie_id": "m166",
+    "rating": 4.298603086646521,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-09T20:00:44.974320"
+  },
+  {
+    "review_id": "a4a6087c-30ab-44e4-81e1-be561a7a4327",
+    "user_id": "e0cb4b17-02f3-4c1a-b573-09f358a0d33e",
+    "movie_id": "m17",
+    "rating": 2.648152196952857,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-22T20:00:44.974320"
+  },
+  {
+    "review_id": "876aaee7-8196-4374-b4d2-da7e2da2ce84",
+    "user_id": "e0cb4b17-02f3-4c1a-b573-09f358a0d33e",
+    "movie_id": "m281",
+    "rating": 1.0918655738502712,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-03T20:00:44.974320"
+  },
+  {
+    "review_id": "20753747-6824-4156-b38b-790ea390d687",
+    "user_id": "dd6fe415-f1f0-4ddb-8947-64799474180d",
+    "movie_id": "m11",
+    "rating": 2.8313074734918326,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-01T20:00:44.974320"
+  },
+  {
+    "review_id": "95933026-e739-4b26-acbd-28ee04c0cad2",
+    "user_id": "d18e9339-2390-4629-a26a-d6cae081b296",
+    "movie_id": "m78",
+    "rating": 4.581356516329803,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-15T20:00:44.974320"
+  },
+  {
+    "review_id": "bc068928-3e38-412b-b86c-4e6d264e73a3",
+    "user_id": "d18e9339-2390-4629-a26a-d6cae081b296",
+    "movie_id": "m236",
+    "rating": 3.3636412591438662,
+    "text": "Sample review text...",
+    "timestamp": "2025-09-02T20:00:44.974320"
+  },
+  {
+    "review_id": "42309522-e61c-4eb7-8434-cdaf7b724098",
+    "user_id": "e2924cbd-feed-46c3-86bf-8d78c2782eb4",
+    "movie_id": "m283",
+    "rating": 2.278685487144368,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-19T20:00:44.974320"
+  },
+  {
+    "review_id": "33e1c44f-cb8e-4a0f-a2fe-62ddd52f2f04",
+    "user_id": "e2924cbd-feed-46c3-86bf-8d78c2782eb4",
+    "movie_id": "m226",
+    "rating": 3.4139585282430454,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-13T20:00:44.974320"
+  },
+  {
+    "review_id": "fd7938f0-9a7a-454c-ab6c-4342fdaf2c72",
+    "user_id": "208d0990-5d9b-4261-a696-82ecec9f0f84",
+    "movie_id": "m108",
+    "rating": 1.261853732970549,
+    "text": "Sample review text...",
+    "timestamp": "2025-08-29T20:00:44.975318"
+  },
+  {
+    "review_id": "2f5d8888-de8d-4a14-bee1-af26682713c9",
+    "user_id": "6223a2a7-ff77-4000-8105-2a76d404699d",
+    "movie_id": "m127",
+    "rating": 2.7768449131722077,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-31T20:00:44.975318"
+  },
+  {
+    "review_id": "c21b54fd-4d24-4e87-a875-8a3bdec0c2ab",
+    "user_id": "cdd6536c-2ff8-4a6e-83e4-ef78485f584e",
+    "movie_id": "m197",
+    "rating": 4.459697358684831,
+    "text": "Sample review text...",
+    "timestamp": "2025-04-29T20:00:44.975318"
+  },
+  {
+    "review_id": "ac174b09-adb6-4897-ad02-be710026980f",
+    "user_id": "cdd6536c-2ff8-4a6e-83e4-ef78485f584e",
+    "movie_id": "m267",
+    "rating": 1.1241361148590867,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-15T20:00:44.975318"
+  },
+  {
+    "review_id": "33d2bc95-99bb-4aea-a025-ed6b5658fff9",
+    "user_id": "cdd6536c-2ff8-4a6e-83e4-ef78485f584e",
+    "movie_id": "m47",
+    "rating": 3.5646183684804362,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-02T20:00:44.975318"
+  },
+  {
+    "review_id": "eb0d65cb-f1d3-4c0e-9bc8-ddd3018dad02",
+    "user_id": "d0b54a37-59b1-432b-9407-5fa5e7b916f7",
+    "movie_id": "m268",
+    "rating": 3.161887030494634,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-21T20:00:44.975318"
+  },
+  {
+    "review_id": "050149cd-8df9-4582-be03-c8513109c973",
+    "user_id": "e8af929e-dca3-489a-839d-a0213efb535a",
+    "movie_id": "m77",
+    "rating": 3.6101941067885375,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-19T20:00:44.975318"
+  },
+  {
+    "review_id": "0ccb7630-fc41-4fa1-8fbb-2607dcf34d56",
+    "user_id": "1f7b3deb-da21-48c0-be3d-24dac2feb21d",
+    "movie_id": "m298",
+    "rating": 1.8994453850008082,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-07T20:00:44.976317"
+  },
+  {
+    "review_id": "a46716bb-362d-49ba-addf-9e390e5fac10",
+    "user_id": "1f7b3deb-da21-48c0-be3d-24dac2feb21d",
+    "movie_id": "m233",
+    "rating": 3.5839278729874295,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-11T20:00:44.976317"
+  },
+  {
+    "review_id": "86e0f70b-3db4-4155-bd66-ca217f9d2ecf",
+    "user_id": "a7ad53fd-4371-49aa-b3ff-1bb58d8b256a",
+    "movie_id": "m211",
+    "rating": 1.6509042932690798,
+    "text": "Sample review text...",
+    "timestamp": "2025-01-20T20:00:44.976317"
+  },
+  {
+    "review_id": "68691bf8-01b6-4f53-945e-16e8cb6bfe1e",
+    "user_id": "a7ad53fd-4371-49aa-b3ff-1bb58d8b256a",
+    "movie_id": "m227",
+    "rating": 4.493638103084484,
+    "text": "Sample review text...",
+    "timestamp": "2025-03-18T20:00:44.976317"
+  },
+  {
+    "review_id": "84514541-30df-4a86-a348-e9f57077cbc6",
+    "user_id": "a7ad53fd-4371-49aa-b3ff-1bb58d8b256a",
+    "movie_id": "m88",
+    "rating": 3.218629272999838,
+    "text": "Sample review text...",
+    "timestamp": "2025-07-24T20:00:44.976317"
+  },
+  {
+    "review_id": "89be165e-81e6-482d-966b-a82e3b104428",
+    "user_id": "7b509d1c-a09a-41f0-865e-cd905afc1aae",
+    "movie_id": "m78",
+    "rating": 4.103337201333293,
+    "text": "Sample review text...",
+    "timestamp": "2025-05-18T20:00:44.976317"
+  },
+  {
+    "review_id": "55883472-3b4b-411e-9443-361d5d434be8",
+    "user_id": "7b509d1c-a09a-41f0-865e-cd905afc1aae",
+    "movie_id": "m275",
+    "rating": 1.594184984020456,
+    "text": "Sample review text...",
+    "timestamp": "2025-02-09T20:00:44.976317"
+  },
+  {
+    "review_id": "dcd455c0-a4ef-4fc7-a30d-6b38f7c445ae",
+    "user_id": "56dbfbd2-5381-4185-ae6f-cfda3418980d",
+    "movie_id": "m226",
+    "rating": 4.354507224403447,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-15T20:00:44.976317"
+  },
+  {
+    "review_id": "4cdb1acb-4eac-4f68-8823-14988466832c",
+    "user_id": "56dbfbd2-5381-4185-ae6f-cfda3418980d",
+    "movie_id": "m156",
+    "rating": 4.873561345560185,
+    "text": "Sample review text...",
+    "timestamp": "2024-12-10T20:00:44.976317"
+  },
+  {
+    "review_id": "6f545f68-3421-4071-9cde-83a0734e30aa",
+    "user_id": "56dbfbd2-5381-4185-ae6f-cfda3418980d",
+    "movie_id": "m252",
+    "rating": 3.1201393799595847,
+    "text": "Sample review text...",
+    "timestamp": "2025-11-05T20:00:44.976317"
+  }
+]

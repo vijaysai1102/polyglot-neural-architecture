@@ -1,0 +1,17 @@
+Preprocessing:
+- Lowercase text
+- Strip punctuation
+- Truncate to 256 tokens
+
+Model:
+- all-MiniLM-L6-v2
+
+Storage:
+- Each movie embedding stored as:
+  {
+     "movie_id": "m402",
+     "embedding": [0.012, -0.544, ...],
+  }
+
+Indexing:
+- Use ChromaDB's default HNSW index for approximate nearest neighbors.

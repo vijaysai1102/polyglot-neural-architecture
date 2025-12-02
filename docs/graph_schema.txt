@@ -1,0 +1,14 @@
+Node Types:
+- User
+- Movie
+- Actor
+- Director
+- Genre
+
+(:User)-[:FOLLOWS]->(:User)
+(:User)-[:WATCHED]->(:Movie)
+(:User)-[:RATED {score: float}]->(:Movie)
+(:Actor)-[:ACTED_IN]->(:Movie)
+(:Director)-[:DIRECTED]->(:Movie)
+(:Movie)-[:HAS_GENRE]->(:Genre)
+

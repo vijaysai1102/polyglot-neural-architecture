@@ -1,0 +1,501 @@
+user_id,full_name,age,city,country,subscription_id
+b0c68cb3-6868-4fd4-a9bb-e85d3f919cb0,User 0,57,San Jose,USA,3
+0da0145f-5a07-436a-b399-4c30b0319f33,User 1,63,Chicago,USA,3
+06af577d-6e7f-4923-8b68-57f86ece3285,User 2,47,Dallas,USA,3
+676dd6d0-1896-48cf-abe1-cc09ca6d360a,User 3,27,Chicago,USA,2
+68c4224a-d664-4b45-b6eb-28429cc1635c,User 4,29,Dallas,USA,3
+69b96117-cf33-4665-8b95-f46802afcd78,User 5,41,Chicago,USA,1
+e2671612-bfcd-45d8-b259-c36d8e2e3004,User 6,60,New York,USA,1
+b6d2cc9c-efba-4a0f-be9a-39ba152d4d08,User 7,53,New York,USA,2
+9e89d2e4-d5d4-4129-8607-509f79b0b90a,User 8,35,San Jose,USA,3
+ff3b95d3-bb8a-498a-b847-996b22a4b9d2,User 9,58,San Jose,USA,2
+f9bfec79-95eb-4296-a6f6-5e8c0f233786,User 10,52,San Jose,USA,3
+287e7f3b-dd36-4211-820c-b5c450633689,User 11,48,Chicago,USA,3
+208deddf-2f04-4786-9306-b495393a84db,User 12,40,Chicago,USA,3
+f031ef77-6105-455e-874b-12cfe61494a8,User 13,63,New York,USA,2
+1944a40f-5899-4b63-a0d0-4f8ea48ac391,User 14,53,San Jose,USA,3
+8fae4d25-c2d5-4541-ae4a-d1697a314a3c,User 15,20,Chicago,USA,1
+3d6a5762-dc53-435e-84f5-301beffdb732,User 16,27,Dallas,USA,2
+2a9ea8da-0a22-49dc-a678-aaad0e71f6ac,User 17,19,Chicago,USA,2
+3ba6a595-4473-46b1-944f-c2f9ebe86c3b,User 18,59,San Jose,USA,2
+c221a08f-3c11-4324-85aa-b3671f5f41f8,User 19,38,Dallas,USA,2
+d36ea073-0b02-4c17-b5fe-2cd4db732646,User 20,51,Dallas,USA,3
+91b9c634-7c03-4463-acaf-251e1dfe8d5e,User 21,28,New York,USA,3
+a3acf3ef-ea23-410f-8415-457dbcc66323,User 22,45,Chicago,USA,1
+51192340-41ff-4e46-8f9e-a8da9f0bff53,User 23,32,New York,USA,2
+4e323189-ba0e-484f-b0d8-a615ee242182,User 24,57,Chicago,USA,2
+84721dbd-b3d5-44c5-bb5a-0376b5755826,User 25,54,New York,USA,2
+4505a4c6-b160-4a7d-a2de-8667f14b58c6,User 26,27,Dallas,USA,2
+a9809209-af40-406b-a66c-d9b936577d03,User 27,42,Chicago,USA,3
+f047c577-c84d-467b-891d-c845defa6b62,User 28,63,Dallas,USA,2
+9bcd2fda-a458-4421-b2eb-28e2a61c2ac2,User 29,54,San Jose,USA,3
+485767c6-a584-4b54-af77-d38cdc60d3eb,User 30,26,Chicago,USA,3
+5d42e08e-d067-4df6-802f-87176bbc2eda,User 31,56,New York,USA,1
+59c58b04-e884-46c7-841e-29db56174adf,User 32,45,San Jose,USA,2
+e983e528-02d8-410b-83f6-f009c24acb2f,User 33,29,Dallas,USA,3
+376889aa-37b7-479e-adeb-20e10e278f0d,User 34,30,New York,USA,2
+e6e1d320-91d7-4cf8-b1c6-1caf5864676c,User 35,34,Chicago,USA,2
+c7cd6190-9f3c-4ae6-9863-ffbd2668c818,User 36,64,Chicago,USA,3
+a99d57be-50c8-4720-9230-5b347df05e80,User 37,41,Dallas,USA,2
+de6da43f-60f2-46a1-906a-8779f221a029,User 38,66,Dallas,USA,3
+8e9ae3ac-088d-447b-88d4-233923410f3d,User 39,41,Chicago,USA,1
+2c534774-0566-4148-bf42-8c725f4c6e6d,User 40,33,San Jose,USA,2
+ed35f98e-1fe8-4b7e-8c4c-dec6a695a25d,User 41,32,New York,USA,1
+aa82f7f8-93a7-4839-a9ec-24731ba9ef08,User 42,68,Chicago,USA,2
+6b47f952-74e0-4a27-9baa-a1ae11ab819f,User 43,68,New York,USA,3
+ef022fd4-4f5d-47e5-b5db-6aa4bd41a5cf,User 44,37,New York,USA,1
+7de4c204-78fe-4359-84f7-23556263f422,User 45,23,Chicago,USA,3
+c9bc6497-3a3e-41c6-babe-1a5329a90ff7,User 46,58,San Jose,USA,3
+37927a09-87fc-4c45-8b6d-cf9634e00923,User 47,40,San Jose,USA,3
+8f875065-2a2e-4fee-93c4-244605eff51f,User 48,47,New York,USA,3
+62a74cec-4e43-4964-a4ea-19eeb86f7a59,User 49,65,New York,USA,3
+7a7e1c99-b7cd-48fa-be64-adaddc0a3e60,User 50,19,New York,USA,3
+6193d052-1aad-48fe-8f34-bef8fc6ad6d9,User 51,19,San Jose,USA,3
+ce234c1e-193a-47a9-ad79-50912c883ba5,User 52,27,New York,USA,3
+fe15796a-6af0-43da-8a4e-1a349081af37,User 53,69,Dallas,USA,1
+97108ff1-47dc-4ee5-a34d-649cb134639a,User 54,51,Dallas,USA,1
+32bd34e5-d234-4d07-94c0-0b3f1e9e975a,User 55,57,Dallas,USA,1
+e0a4036e-545d-411a-ad43-d37712923c6d,User 56,53,Dallas,USA,1
+32a5fe6e-1e4d-405a-b50a-531fd77e98bf,User 57,35,New York,USA,2
+16944490-7760-4616-90af-6d1e3313424b,User 58,52,San Jose,USA,2
+841f0e1b-bc17-424b-84fe-e82978ddfe3f,User 59,52,New York,USA,3
+05282a37-dd00-40c4-adb9-a843b42bdbc9,User 60,28,San Jose,USA,1
+d9716761-b790-4fc6-8d0d-adadec8a044a,User 61,28,San Jose,USA,2
+4fdad365-92a1-4e5b-9466-25b710ad736f,User 62,49,New York,USA,1
+496932ed-1c1a-41ce-86fa-f5d47c9e8677,User 63,47,Chicago,USA,3
+dd043cfc-1a73-474e-9f87-b5436f0eb6ff,User 64,48,Dallas,USA,3
+bdec658a-a463-4f82-b1e5-dc03baeb6b4a,User 65,22,San Jose,USA,2
+4a982b5d-8ae3-4b8c-8d38-ef303743f6dd,User 66,60,San Jose,USA,1
+f2f900c6-d5ab-4373-9da3-5204d281851f,User 67,28,New York,USA,1
+17141586-f312-453d-a7d7-51da5703b4c6,User 68,37,Dallas,USA,3
+172bfca8-6314-4934-9791-ffe4e4ecfff5,User 69,27,San Jose,USA,3
+c4301b08-bc6b-447d-a24f-ca04d033997b,User 70,24,New York,USA,1
+da216462-6449-4874-b87b-e1c1667396b5,User 71,68,New York,USA,3
+bb46777f-d780-41fd-8055-d8325816d7df,User 72,65,Dallas,USA,2
+d59aeca3-7ccc-4292-8309-879dd4ff8a9a,User 73,66,New York,USA,3
+093c2ba1-9567-4b5c-8aec-846f6146095d,User 74,44,San Jose,USA,2
+b1ef007a-f7dd-42c1-80cb-65d13c89a48f,User 75,34,Dallas,USA,3
+a10b4839-7d91-4104-a83b-ee49ae523f21,User 76,52,New York,USA,1
+be7b34b4-2b8f-4037-b2c7-eada832d2965,User 77,57,San Jose,USA,3
+eb1924bb-2d22-48bb-a060-8dc68df7249e,User 78,28,Dallas,USA,3
+8143039f-42c9-4b67-9032-6d501cbdce11,User 79,35,San Jose,USA,2
+7300dd47-f17c-4258-aa01-4fcfc6638f98,User 80,57,San Jose,USA,3
+9be1785e-2f20-484b-a829-b6788e2f1292,User 81,21,New York,USA,2
+9bcb5eda-2cf6-4ec5-86da-334decb574b2,User 82,36,New York,USA,2
+56ace14a-bbd4-4564-b25f-18302ab607fb,User 83,53,New York,USA,2
+ccf0e155-b603-4a2b-9c10-e3c52290a439,User 84,32,Dallas,USA,1
+8ad2c2e3-ce06-4a5d-8a34-ff6c5961640a,User 85,43,Chicago,USA,1
+f1e2d1e1-2bea-43f7-9e4d-c2d68765183d,User 86,31,New York,USA,2
+0216b108-b1f3-48fc-823c-9c28aa241ae1,User 87,44,Dallas,USA,3
+f83b11b2-94e3-4e5f-b67d-37588fe0803d,User 88,42,Chicago,USA,1
+b6941537-334d-4c0a-b8a4-af23030f91f5,User 89,67,San Jose,USA,2
+7eb65813-2d18-464c-ad70-612d1ff375eb,User 90,27,Chicago,USA,1
+194b463d-3377-4435-8577-5ae2f6517004,User 91,64,San Jose,USA,3
+f3ad7ab1-cf66-4dbd-b5c4-245714aa9435,User 92,35,New York,USA,2
+1e5e441f-f786-4763-9684-1474e8e4ae4c,User 93,43,San Jose,USA,1
+6e820172-aa8d-4d74-81a2-efdc30cac2d0,User 94,63,Chicago,USA,1
+208bda82-918b-4142-ad78-7791adf1c9a0,User 95,52,Chicago,USA,1
+f736251d-3a80-4e5b-bc3d-51a649c05892,User 96,39,Dallas,USA,1
+bd3f7e00-6ee3-4bb3-85c1-90646d912ee2,User 97,26,New York,USA,3
+c7349bed-589c-4428-98f3-0a6dd9e887dc,User 98,30,Chicago,USA,1
+6b84ca85-bb26-40d0-b4b1-eab12b0af087,User 99,34,New York,USA,3
+91cf270a-848a-4d35-8784-d270606d9308,User 100,25,New York,USA,1
+e5d29071-f47e-43bf-8ef9-9ba7e260ffe2,User 101,36,New York,USA,1
+22cb7269-dc77-47f7-ab9f-5b4bf7ff974a,User 102,30,Chicago,USA,3
+68701fcb-bcd4-43d5-8850-6472948dabd7,User 103,53,New York,USA,3
+cc2f015d-b435-4c5b-893a-5821f90fc971,User 104,52,New York,USA,3
+c4bc16fe-fec7-406f-a049-d4713a222f4f,User 105,25,Dallas,USA,3
+1d89a318-f50f-4893-af0a-9f491a1e65db,User 106,30,Dallas,USA,2
+79bc7001-30e8-4a83-bf87-12f2df5deb8a,User 107,37,New York,USA,3
+a90b1762-82d2-4fbf-8dc2-8934c3f11867,User 108,35,San Jose,USA,1
+435dbd5a-62b8-46ff-bb75-b8316d34ddd4,User 109,69,New York,USA,2
+3690a94b-d75c-44fe-9384-c9bd20379492,User 110,31,Chicago,USA,2
+1ef0144f-4b56-4e96-b1d6-444378bb93b0,User 111,48,New York,USA,3
+2e4e4e9c-2c44-4408-8bbb-d9316f6c6846,User 112,54,Dallas,USA,1
+dd2ba6f6-43df-41de-b0b0-0c92b3aa550a,User 113,24,Chicago,USA,1
+fade996f-0b47-4354-a301-fffbd79db921,User 114,27,Chicago,USA,1
+b6b66d0b-a2d3-4c49-88f3-50186f8ebffe,User 115,42,New York,USA,2
+2b42444d-f2f5-4658-9cde-ce7b62f56a22,User 116,18,Chicago,USA,3
+1e230980-9144-4586-86c1-3b7bc044474c,User 117,50,Chicago,USA,1
+06045053-9bc9-4a52-9d86-0e053d2b55d5,User 118,59,San Jose,USA,3
+0cece46a-2eb3-4990-a7b1-9f00553757c1,User 119,47,Chicago,USA,3
+952b21f4-e645-4253-9c82-b7174021620f,User 120,28,San Jose,USA,1
+af2df79b-1674-4409-a682-1b5ceff45eed,User 121,70,Dallas,USA,3
+1cc90ee0-f62e-4145-a098-df98c9543fdf,User 122,56,Chicago,USA,3
+bf85b068-14d7-4f23-8200-f37423bd20f9,User 123,47,New York,USA,2
+67864230-ab7a-40c4-80b8-b6d6c662aa3c,User 124,23,Chicago,USA,3
+2c4fb947-c4b9-41c7-a450-7695a22db0bc,User 125,18,San Jose,USA,3
+86fc0a76-ef62-4875-8523-a45373d3b56e,User 126,60,San Jose,USA,2
+e383ff70-5320-4fd1-a5af-3ae28b6ca1b4,User 127,33,San Jose,USA,1
+8ed570ff-c2e5-4de6-98f5-f89e966e6ad6,User 128,52,San Jose,USA,1
+0dd36a19-c4fc-4090-934f-6b76e343d9cb,User 129,30,Chicago,USA,1
+25360351-df06-41c9-87b3-e30a39bc8475,User 130,49,Dallas,USA,3
+4494e67a-3fe6-4b5d-aee4-64cde4954700,User 131,66,Dallas,USA,1
+9e27f84b-cc65-4ab0-9ad2-2e5fe0aaacd2,User 132,65,Chicago,USA,2
+b8cfedfa-7e28-47ed-95a6-5814a5a91b95,User 133,31,Chicago,USA,2
+93165cf1-2142-49c2-ba5d-0556da664ace,User 134,49,New York,USA,2
+fae5b7cd-30b0-45ad-b1a6-4d4e868efdbc,User 135,70,New York,USA,2
+f1fa0199-8ace-4835-8104-3facd80e6f71,User 136,44,Dallas,USA,2
+646e49eb-61ee-4fb5-a23e-cdd9d953585f,User 137,52,Dallas,USA,1
+f3efc782-1164-4962-91f6-671474d76a3e,User 138,69,Chicago,USA,3
+06cc910a-5f3c-4bb8-b08a-15a78d0efdba,User 139,33,New York,USA,1
+f5e79b04-3d5a-422f-8a6e-880047318d26,User 140,48,Chicago,USA,1
+d2b7c2d1-a437-44fc-958e-e8911e560891,User 141,32,New York,USA,3
+4a2fe47b-6b95-4ce8-beb2-deda2a9c428e,User 142,21,New York,USA,1
+ca713525-21ec-4ac7-a194-de89bf254405,User 143,49,San Jose,USA,2
+f320bc40-5747-44c9-ad13-56b5a4286fbc,User 144,32,San Jose,USA,3
+63f25207-73b5-4502-9982-205cfa3f9b78,User 145,52,Chicago,USA,3
+fae23884-850a-434d-bd45-23432d4816e5,User 146,20,Dallas,USA,1
+578e22f6-a205-40d3-886c-2886230299c2,User 147,57,Dallas,USA,3
+ea120863-ab9f-498b-81b8-d9b411d1ba9c,User 148,69,Dallas,USA,3
+e968a22d-dc6e-4ac3-b48e-4ffc5886bcb3,User 149,66,Chicago,USA,3
+894bb7c6-f0b0-4a21-9e9b-7ec3b955fe67,User 150,30,Chicago,USA,1
+e9a692ee-b23b-41c4-b995-bcadcba37ba9,User 151,62,San Jose,USA,3
+08fd9917-db6f-4c12-acd0-ef54c59bd884,User 152,37,Dallas,USA,2
+88951fa7-bef7-4809-a4da-5202f0894090,User 153,48,Chicago,USA,1
+8bc51ae2-48d3-4622-897d-109edcf754f6,User 154,40,San Jose,USA,1
+7e7fef69-4ccf-4b5e-a27a-245f16ee0a8e,User 155,68,New York,USA,2
+9f8c4c36-5753-43b8-8da9-83080b72286e,User 156,49,San Jose,USA,2
+7e169669-a1c9-4d6e-a240-3ed40cc36646,User 157,25,Dallas,USA,2
+8e06d848-6755-4df0-846b-02c68bdc1c40,User 158,19,Chicago,USA,2
+9ef8763c-436b-4b6c-b7d6-edfcd350cd2f,User 159,53,Chicago,USA,2
+c5d66ab7-68c9-434a-8ca5-fa2425483e52,User 160,52,New York,USA,3
+f246e3f0-1216-401d-be20-b118aa7a22c4,User 161,31,Chicago,USA,1
+96860095-f051-4183-adc0-04417b69ffc7,User 162,63,New York,USA,2
+9360ac75-859d-41b8-9f2a-1b5fcd06216e,User 163,20,Chicago,USA,3
+78ae02bb-33a8-4a71-89ee-f65bef2edcf6,User 164,46,New York,USA,3
+d56a3e21-3fd0-4c97-831a-994a2454950b,User 165,23,Chicago,USA,1
+2eeb6a24-14de-4792-92f6-804fc0c55069,User 166,51,Dallas,USA,1
+25e3a835-be43-4482-9567-c94906fbb1f8,User 167,37,Chicago,USA,1
+570ba118-8f2c-4418-8a0a-44f4ec4201d6,User 168,38,San Jose,USA,1
+c85ba4d8-94d7-488b-9429-f3469ccc5cc7,User 169,30,New York,USA,1
+e2c1b3f4-ba34-4276-ab2b-fa4f2825b743,User 170,55,San Jose,USA,2
+e82fcbe2-04af-497e-b693-150473a04119,User 171,64,Chicago,USA,2
+2d97066b-4973-45f6-9de9-9557200e0325,User 172,57,Dallas,USA,1
+74cba611-30ea-4497-88c5-9bf28cdd0469,User 173,18,New York,USA,3
+5a95ec0c-a202-4099-bf17-476a0f8b5c5b,User 174,19,Dallas,USA,2
+012ef3c0-d7d6-4aef-a2c8-1d7a8dafaf0a,User 175,27,Dallas,USA,1
+c1e750d6-a3a4-4ab5-b9a4-30f16cdaebf2,User 176,61,Chicago,USA,2
+53a8e0f2-710a-4dde-91df-27e968369549,User 177,37,New York,USA,2
+85f079f3-14f9-45e0-8522-7d48677ccf26,User 178,37,Dallas,USA,1
+b7c52f1d-4fc7-4b2a-aba5-e95823092664,User 179,19,San Jose,USA,3
+93856848-2b09-4bb0-a459-63c7dcfe2d67,User 180,36,Chicago,USA,2
+ab31c384-3b95-413b-93d2-cc14672127f7,User 181,30,Chicago,USA,2
+851c4312-f94e-48c4-a687-07f1c010c612,User 182,36,New York,USA,2
+fa0b43ab-4e5b-45a6-a25a-c9e7449b7650,User 183,54,San Jose,USA,3
+a02e4144-c8cc-4831-bb9f-56495aa927a6,User 184,39,Chicago,USA,3
+df64507c-c1b0-4466-ae80-76b1af250043,User 185,20,Dallas,USA,1
+0ea06032-e566-4588-b9ef-134accf8ee47,User 186,39,Dallas,USA,2
+342badd6-99e9-4ab5-a560-94bb5aeea682,User 187,24,San Jose,USA,2
+31902d3f-471f-47ba-848c-1080f4f0000a,User 188,25,Chicago,USA,2
+2c708554-4b4e-452e-bfd7-cf5683060663,User 189,23,San Jose,USA,2
+66c5963b-9293-4bf9-9a32-c7ed7e65a51b,User 190,21,San Jose,USA,3
+8f0c2650-d83e-4509-9739-9bb5ceeaa65d,User 191,70,Dallas,USA,3
+d75e18d2-0fde-4464-9879-51f144f9066a,User 192,66,New York,USA,1
+7cac5177-52ef-4753-8b38-1b70c46fca42,User 193,61,Chicago,USA,3
+ca0b93a6-245e-499a-9c19-2c6ada503867,User 194,39,Chicago,USA,1
+aa858cca-fd0f-4290-96ec-bde044786d71,User 195,28,Chicago,USA,2
+3a69305d-c1dd-4409-905b-7c81ad0d9708,User 196,54,New York,USA,3
+0b87dc73-cb72-47db-9bb8-2a2317d1bd6b,User 197,44,New York,USA,2
+96e587b7-83d7-4974-8e5e-3449cc68094a,User 198,27,New York,USA,1
+8949ead1-04f4-4bfd-8fc1-e5439263ada8,User 199,57,Dallas,USA,1
+405c96f7-815d-4df3-9436-9816ccdb61f7,User 200,22,New York,USA,1
+cb4b78c3-098a-4202-9e0e-0bd302263b3d,User 201,47,Dallas,USA,1
+f8edc9f2-43b6-4939-9e50-c7cf774ecf2a,User 202,19,New York,USA,1
+75fe317c-ad0a-4cfd-8764-e000b0946bd4,User 203,63,New York,USA,1
+dcbd0029-df0a-4e83-88d2-db2458052fcf,User 204,33,Dallas,USA,2
+569dcc03-8106-4ff4-b925-f715ec9030e4,User 205,60,San Jose,USA,1
+0dc02516-5c8b-47e2-a237-8a5360570637,User 206,68,San Jose,USA,3
+5cee48c4-a347-4dc4-ac1c-67bda31b52be,User 207,52,Dallas,USA,2
+260455ce-37cd-4a0a-a507-c9e461de51f8,User 208,40,San Jose,USA,3
+5f9fef91-f161-4513-89fd-ecb48a17f818,User 209,22,Dallas,USA,2
+8b080436-7b34-4ae5-a689-b0ed30f12be0,User 210,37,New York,USA,3
+21d6e14f-f65a-4db6-9b14-d6d549e02571,User 211,22,Chicago,USA,3
+d3fb7436-74d7-4691-9361-1934df6cecb4,User 212,48,Chicago,USA,2
+9e34d4b4-919e-4eaa-b8c0-17a68f26a818,User 213,30,Chicago,USA,1
+83bae77c-18a9-45db-a1e3-0802489dba7e,User 214,69,Chicago,USA,3
+299328c0-a58b-475a-ad1a-33c267a0dbd6,User 215,18,Dallas,USA,3
+d9d96649-86ef-4932-9b54-a4f7f43b4b02,User 216,19,New York,USA,1
+9c2e0db9-54c3-485f-a98f-01bb33e34513,User 217,21,New York,USA,2
+35fbf35b-0879-4ae9-bf64-b9f483031328,User 218,56,Chicago,USA,1
+37e538f9-97d0-41c2-b00c-0345c4f4f464,User 219,27,New York,USA,2
+3e4bbb3b-9b18-4dda-ae94-cad91d786d33,User 220,54,San Jose,USA,1
+5610d0b8-4dd5-4fe1-9944-5445f52b63f7,User 221,19,Dallas,USA,2
+3809f556-acee-4d3b-892f-bd2c46beb451,User 222,69,San Jose,USA,1
+06cae73a-b405-4bdf-bdb3-fcd55edfc006,User 223,35,Chicago,USA,1
+9f4bb86f-4959-4922-b62d-9a059ff776a4,User 224,42,Dallas,USA,3
+4d8a66aa-26c5-4d99-87d1-e185884420bf,User 225,69,Dallas,USA,1
+a730449e-af42-4440-993f-6c0d042f1542,User 226,46,New York,USA,2
+27d0ad4b-2ffe-4e7c-9980-9f9e3e68d09b,User 227,20,New York,USA,1
+4009d6be-9d8e-4461-8b1c-589be63b22b7,User 228,49,Dallas,USA,2
+b1db2dc9-0dd2-4139-a11c-7397591bfc42,User 229,32,Dallas,USA,3
+9e287ba5-347f-46f6-aeac-4b476a3d9375,User 230,61,New York,USA,3
+288a39ca-06fb-4b82-94f3-3e6a5a734bb7,User 231,58,San Jose,USA,1
+a695f15f-cbf5-4166-90d5-6312714b067c,User 232,33,San Jose,USA,2
+722cf35f-e75a-4aa3-ba15-9bdda808ad52,User 233,51,Chicago,USA,3
+6f2652f8-8bbc-4868-9b36-62e339e8f6b0,User 234,41,San Jose,USA,3
+af1bf006-9816-44d8-829c-5e3dbdd815ef,User 235,35,Dallas,USA,1
+73f6c35d-81ad-49ea-9748-4e895550ab5d,User 236,52,San Jose,USA,2
+edee4797-584d-4333-8185-ec32c7ead0af,User 237,44,Dallas,USA,1
+4cb2f0da-e931-47e8-9039-5e0d2314fee5,User 238,33,San Jose,USA,1
+db00c90d-a9c8-43c0-99f4-c9f29399329f,User 239,67,Dallas,USA,1
+0e112354-d395-4f61-bcea-1193e46d4ccc,User 240,66,New York,USA,3
+a91a513b-96a9-4c77-804c-9424cead9056,User 241,70,Chicago,USA,1
+245281a9-5484-4bdd-b3f9-a9a5169932ad,User 242,51,Dallas,USA,3
+f249db5a-671e-4dab-aaf4-0567ace33c0b,User 243,27,New York,USA,1
+2b3a5459-3ad5-492c-9e51-ad2519d0b076,User 244,23,New York,USA,2
+ebb3c1c7-2f49-441d-8bed-c01d8797c8e9,User 245,32,Dallas,USA,1
+57939b61-defa-4e0f-80c4-8de6ecf8cfd3,User 246,28,Chicago,USA,2
+460d8229-821e-4f4e-be22-48131af73a73,User 247,38,San Jose,USA,1
+7e0fa521-89d7-417a-8852-ef62aa30b762,User 248,55,San Jose,USA,2
+c571bc7c-c2c8-45bb-800a-c50f2cd2cc55,User 249,35,New York,USA,3
+77865413-bb71-4734-87eb-c7e2fd055be1,User 250,70,San Jose,USA,3
+9dc92f4a-6894-4b39-95e2-da08ebcf27ce,User 251,40,Chicago,USA,2
+7464cb89-eba3-4aba-bf0a-b0759f72eebd,User 252,41,New York,USA,2
+31163a42-1b16-4c22-b99f-bfacd867c3ec,User 253,20,New York,USA,2
+c947e160-4023-481a-aaf3-846145b6052d,User 254,67,Chicago,USA,1
+105a83af-4fa6-4927-800e-7efe3123865e,User 255,70,San Jose,USA,3
+0bdd9ed6-8d70-4236-96ee-70a7cbe99369,User 256,67,San Jose,USA,2
+0692b832-81c7-4243-81b7-6bd0f63236c5,User 257,53,San Jose,USA,2
+d1125568-dd8d-46e5-98d7-dadc2f4cbc6a,User 258,38,Dallas,USA,3
+3d4e63ed-a85b-4fed-8fe5-6031feac2bd0,User 259,21,Chicago,USA,1
+e5721e1d-0d70-4899-b32f-431e5cb38526,User 260,36,San Jose,USA,1
+8e25c9f9-f5a5-496e-8ae9-9563c1c1143f,User 261,49,Dallas,USA,1
+ab6559be-16be-4997-8ccb-f48433ded6b1,User 262,68,Chicago,USA,3
+87ae6f40-34d8-4647-8252-8a37d7c3c25d,User 263,59,San Jose,USA,3
+e9ee4b21-40a7-4a5c-ae8f-19febdebcfbd,User 264,63,Dallas,USA,1
+7717e375-4ec3-4ed1-b28b-e57544d5122b,User 265,51,Dallas,USA,3
+07b9dea6-2796-4249-8ed8-03fb4dc2e5d2,User 266,53,San Jose,USA,1
+f212f931-bca1-45b7-bb47-633977132a77,User 267,69,Chicago,USA,1
+bb8fe7cb-bf78-44a6-9e16-a01bcccc905a,User 268,43,Dallas,USA,3
+6edae6d4-e29f-4f08-b4d6-914a48a8580b,User 269,51,Chicago,USA,3
+a706c4b2-bd53-43b6-b792-58af1ce177c8,User 270,30,San Jose,USA,2
+0df7da0f-9faa-4e1e-aeec-bc32cf04ef5f,User 271,63,San Jose,USA,3
+d5ce175c-67b4-48dc-9a06-bd9ad545ec79,User 272,31,San Jose,USA,1
+cddcdfbb-8113-4144-947c-c2e96b5ea953,User 273,28,Chicago,USA,2
+6dd6e766-d62a-41b9-94a7-a9018777fc31,User 274,36,Dallas,USA,3
+c950cfe1-d29a-49bb-8a0f-5d6f272f6b7e,User 275,29,San Jose,USA,2
+e6c7d834-f84d-4d0a-8c40-2f5c25592991,User 276,55,Dallas,USA,2
+c949151f-4741-49c9-9b0d-d6804fb84489,User 277,37,Chicago,USA,3
+2f22cb9b-325a-44bf-a125-2ebbd524c1ef,User 278,23,Chicago,USA,1
+6f44faa3-1bbd-49ab-9cdd-f79ab05e9a6e,User 279,42,Chicago,USA,2
+8bff14e1-efd9-483d-8ab3-9c333842ce4b,User 280,57,San Jose,USA,1
+77f84d35-6e3e-4b97-90be-7ad2dbc1b050,User 281,28,Chicago,USA,2
+f9de6021-7594-4f21-b666-5ba6ed0b424e,User 282,67,Dallas,USA,3
+8d20882f-67f2-4d0c-97bb-59fca4eef50e,User 283,70,Dallas,USA,1
+d2020180-665d-4b02-908c-7c1930c6a224,User 284,23,Chicago,USA,2
+08c7fbe0-d46e-426c-bd39-f4351d993381,User 285,66,Chicago,USA,3
+e70e5991-6c74-4ccd-843c-8dfd01aa41c7,User 286,19,Dallas,USA,3
+83a2d1bc-6d5f-42aa-94ca-7c3b967ef8a8,User 287,47,Chicago,USA,3
+b91d29ac-e538-4f93-95d2-d303ed5ee654,User 288,41,New York,USA,3
+c4264c76-093a-410c-bed7-1caa1a5e7f51,User 289,26,San Jose,USA,1
+8be665db-0594-4669-8461-8cbfd137ba85,User 290,21,Dallas,USA,2
+fa335343-fdb2-43bd-b5da-8bf854bbb005,User 291,41,New York,USA,1
+fa321ebe-7866-4d77-a2a6-c4d0a739ddc3,User 292,44,Chicago,USA,2
+e36e2c59-532b-4475-a790-ebcba442e011,User 293,35,San Jose,USA,2
+3e50d32d-d1e3-49f2-b300-1ef46dab6672,User 294,33,Chicago,USA,2
+8392f4f9-b506-4d0f-a2fc-989e1bfa2bfd,User 295,45,Chicago,USA,3
+5b24be74-6cf4-4e30-beff-b8fb2636cf57,User 296,27,San Jose,USA,3
+1cbba5cc-4cc6-4ce8-9dc3-0128c6089d2c,User 297,42,New York,USA,2
+a9bd315d-42dd-4421-9b72-d4ac47452890,User 298,59,Dallas,USA,3
+8fe39417-c23e-4266-af8e-880f1c194601,User 299,37,San Jose,USA,3
+56c9b95b-c6da-4a7a-9cbc-ef92a7dade2e,User 300,19,San Jose,USA,1
+7e0b7138-0990-48f0-b940-850c469a1893,User 301,60,San Jose,USA,2
+e5285510-0fe5-4688-b3ab-6a38525e41a9,User 302,43,Dallas,USA,2
+0691a371-e462-4414-bb31-3b1840d95a2a,User 303,58,New York,USA,2
+d97cbda4-f724-49ee-8f42-c2d171e367c9,User 304,51,Dallas,USA,2
+c239c4e0-087a-416a-b67a-32a440718c22,User 305,58,San Jose,USA,2
+2dd462d2-4f78-441c-8565-e8e90bf14553,User 306,52,Dallas,USA,2
+18d88c7c-7580-4369-b8b3-a71025e1d64c,User 307,68,Chicago,USA,1
+bd713ff1-875f-49ad-a3d6-d4e467b92ec2,User 308,49,New York,USA,3
+cb7fe924-aa78-44e6-b14f-a63dfef16f25,User 309,67,New York,USA,2
+e60a0913-5320-4603-9ffd-d956a3c71b2b,User 310,62,Dallas,USA,2
+47f38445-a819-4e71-b22e-1258aac81658,User 311,27,Chicago,USA,3
+ac7ca934-7b53-4f98-a1b4-dee04f6ce580,User 312,67,New York,USA,1
+c345cda0-bca6-48c9-944f-db829639a318,User 313,68,Dallas,USA,2
+455e4730-1190-4103-bf0b-8d78b5920dcd,User 314,62,Chicago,USA,1
+d1c1752d-ec2e-4424-9bde-e4059cec1d63,User 315,23,Dallas,USA,2
+5de89284-ed89-443e-ba45-5ada798211b3,User 316,19,New York,USA,1
+50b23ad6-e2ec-490f-bff0-2374f2a0a536,User 317,67,Dallas,USA,3
+ef06a585-c247-43bb-aa47-d4378a8d9884,User 318,30,San Jose,USA,2
+a9410ca3-49b9-45b4-aef9-a4ca439dec68,User 319,32,San Jose,USA,3
+2975c483-46e3-41c3-bd28-8835576fdf07,User 320,38,Chicago,USA,1
+29790b49-3f42-41b3-83c5-12d3b68c2caa,User 321,55,Chicago,USA,3
+5c5ef873-2867-425d-8fa6-c710e664a3cb,User 322,34,Dallas,USA,3
+ea175cf7-77ab-4ced-b9be-6d1fa8f6fee6,User 323,20,Chicago,USA,2
+020f8aa6-3a84-4a57-a2a0-51b910188e73,User 324,53,Dallas,USA,2
+bcb7179c-2c47-4024-9c11-a8f8b2c42d12,User 325,34,Chicago,USA,1
+85b12866-a76f-4be9-a5f8-293d1d904b34,User 326,66,San Jose,USA,3
+8c9d07a5-a9a6-4462-9d0e-05ac51048e10,User 327,23,New York,USA,3
+be2929df-402f-4b12-9cb5-8ff8c7e05d52,User 328,48,Chicago,USA,2
+9b18a2ed-6d39-470b-9892-bf2526998124,User 329,55,Chicago,USA,1
+b9da23ec-2bce-4735-bdf3-167fe1091538,User 330,24,Dallas,USA,3
+dc8f6c32-ee9d-44d0-92b3-1b44d36f6942,User 331,28,Dallas,USA,2
+a91d48f8-53e3-4225-b6e9-86645ae357b2,User 332,27,Chicago,USA,2
+602fd841-eba9-4754-a3b1-728f88c6b8d3,User 333,44,Chicago,USA,3
+697b6194-9815-4400-bd76-69f99754d40d,User 334,46,Chicago,USA,1
+d68c986d-0472-45f2-bdca-80f3218c11f8,User 335,44,Chicago,USA,3
+2ef047a0-ad53-4345-a914-dcd543f9a86b,User 336,61,San Jose,USA,3
+20d07179-3095-44c8-b699-e24200df9471,User 337,32,Dallas,USA,2
+2c288bea-046d-4c81-9548-847e12c6dacc,User 338,30,New York,USA,2
+2dd277a0-c4e3-4744-a207-ab6389cb2f9d,User 339,53,Chicago,USA,1
+0635ccc1-19ef-49f5-84dc-a99057d2b77d,User 340,59,Chicago,USA,3
+8b20baf6-58b3-4824-a28f-0f0de655fbcc,User 341,37,Dallas,USA,2
+a72ccc9a-75de-4537-beaf-8dc52c596d5a,User 342,60,Chicago,USA,1
+ad72c4b0-afeb-4c96-b68e-0a8e306179e6,User 343,51,San Jose,USA,1
+5a646c1e-1198-45d7-a9a5-d28e483696c9,User 344,64,Dallas,USA,3
+0b1dcddd-66bc-4256-a818-b7f8b7918dbb,User 345,62,Chicago,USA,1
+9618b111-b49c-4847-9e58-b0fbaa828ef5,User 346,62,San Jose,USA,3
+5dd5542b-8249-45b3-9987-689a433f6ed8,User 347,59,Chicago,USA,1
+77159b7b-56fa-4930-aaf1-cd854afbcdf9,User 348,37,Dallas,USA,1
+8bfb1e2f-2802-45b1-bcd5-1e863a2f31f7,User 349,51,New York,USA,1
+47186b3e-fa7f-4341-8c51-96da8162b79a,User 350,43,Chicago,USA,2
+9d7a4337-6242-47f0-8a1c-7a1ba4e95c07,User 351,35,New York,USA,2
+af947372-99ca-4b55-aeee-5a77ccc5b5c5,User 352,69,New York,USA,3
+1e3d02d1-ded9-4e61-b8b4-2d72f79ce311,User 353,46,New York,USA,2
+93f38a89-034f-4039-adc9-8f26faf62543,User 354,53,San Jose,USA,3
+a8969dc3-6bcc-4375-8c5a-61c020359b9e,User 355,67,San Jose,USA,3
+4e8b7b5c-14d2-4043-a934-d193f40c4349,User 356,56,Chicago,USA,1
+a23b71a8-66c6-430e-bc7b-5094b6358f48,User 357,47,New York,USA,3
+9e60bb04-ffc6-4efe-bbe6-56b2599cace0,User 358,37,Dallas,USA,2
+d9a34e5b-5f37-45a3-93e4-d02ef362555a,User 359,33,Chicago,USA,2
+3a099bb5-57a5-4b73-a3b1-d0e6ba28c92d,User 360,55,Dallas,USA,1
+43e6fa0c-751f-42ba-b2ce-87ae0c8ebf78,User 361,37,San Jose,USA,2
+35787ce4-1cbd-492b-afc4-5e1a7dd52ae8,User 362,41,Chicago,USA,1
+11801e22-58af-43b2-bc7c-ade581c36a22,User 363,67,San Jose,USA,3
+e2d478ef-e7c8-474a-bdf7-78c2f3ea2154,User 364,61,San Jose,USA,3
+9284b339-23f5-453a-b55f-3b181ca89b0a,User 365,27,New York,USA,2
+ea5ca6df-705e-463b-ae47-4a754413b270,User 366,61,Chicago,USA,3
+25f2ca5b-fd48-4b8e-8644-2381c7705d3e,User 367,28,New York,USA,3
+ae0dd0ee-0309-4868-9ca7-9a0547517348,User 368,19,New York,USA,1
+663d8f5f-7dd7-40a0-b417-35e633e2e055,User 369,35,San Jose,USA,2
+da23241a-3e4b-4039-b2cd-8627a5e02a74,User 370,40,San Jose,USA,2
+f5518e47-b2ef-4fc4-a2c8-77a3a72aa135,User 371,56,New York,USA,3
+6599e98e-0d80-42ec-8e00-339d6def68af,User 372,27,Chicago,USA,3
+b6c8d212-25dd-4b32-bce8-94fbef1029b8,User 373,53,San Jose,USA,1
+5dc485f0-63f3-40bb-97a1-d763a3ed7b9a,User 374,60,New York,USA,1
+7b51e2b6-8af8-4c77-9417-b783756d883a,User 375,53,New York,USA,2
+eec5e317-21db-46bb-91c5-5f7e9d99ea06,User 376,47,San Jose,USA,2
+4bd54cee-233f-48e6-a27b-bf2ab758e308,User 377,47,New York,USA,3
+f0b21941-d365-4730-98a2-af0a9697299a,User 378,63,New York,USA,2
+5dd97398-6a43-4f0c-b7f4-f118445f6d18,User 379,49,Chicago,USA,2
+27bd828e-7a63-4de8-b76c-6deafbf2ebd5,User 380,38,San Jose,USA,2
+2821a7e7-44d9-47a5-8ba2-dab30293f8ba,User 381,39,San Jose,USA,2
+effcbbc8-68b4-4887-984c-946c827e0428,User 382,34,San Jose,USA,3
+96e680e5-0d39-4cec-9963-bfd16a611e99,User 383,19,Dallas,USA,2
+c78b7080-9879-4e4c-b5ed-62a140b91b3a,User 384,19,Chicago,USA,2
+92ce46b1-9c90-43d6-8b53-8f2a6865c527,User 385,31,New York,USA,2
+60587a54-abe9-4641-b677-c569b784fc54,User 386,52,San Jose,USA,3
+a2f76cfa-b095-4280-86a3-6e2f457e8c63,User 387,21,New York,USA,3
+5530522e-5705-49c5-ba63-fe2983861b72,User 388,45,Chicago,USA,3
+e895b562-8312-497b-9fca-48db1a67f98a,User 389,40,New York,USA,1
+942b1ff4-b57a-4ad1-8911-a95e0e9136ee,User 390,58,New York,USA,3
+ffc5ab7d-76a6-4772-99f6-58c9dfd990f3,User 391,27,New York,USA,3
+9261b78c-a088-4519-9961-4f0084c98d37,User 392,18,Dallas,USA,3
+0a84c4da-8704-48c5-8677-132c8173ff53,User 393,70,New York,USA,3
+35b37edd-bcad-4379-8d24-1c54343b4e7e,User 394,49,San Jose,USA,1
+b2979036-a081-4524-8e1e-e44cbb46a275,User 395,57,San Jose,USA,2
+424375fe-fefd-4c11-909b-abf231c974f3,User 396,23,San Jose,USA,1
+b131b87e-cfce-497d-bd9c-f0eaec89953a,User 397,66,Dallas,USA,2
+f7c0d337-bf23-4b9d-9e88-12b6fce30a9b,User 398,43,San Jose,USA,3
+73c5d4d9-f69d-4c63-bfbb-7a6155b4ae68,User 399,57,Chicago,USA,1
+3caca469-ba44-4bb1-a828-f2b682a565d0,User 400,36,Chicago,USA,2
+0eb0cae3-60ec-40fc-b88f-ffb6c83f6453,User 401,35,San Jose,USA,3
+78a5f203-3168-406a-80b2-e6dcd8bb846e,User 402,34,Chicago,USA,2
+cdde7e2a-5cef-4957-857f-b39dc35956b7,User 403,55,Dallas,USA,2
+3bd6ada5-8469-49c7-a8aa-dc229b4bd2f5,User 404,54,New York,USA,3
+cc0db736-53eb-428e-890a-78334717bcca,User 405,52,New York,USA,2
+45e30050-30f6-45c8-aa79-7c7c4c71c946,User 406,49,Chicago,USA,3
+e6665e15-9608-4d02-b79e-802c9ee18a1d,User 407,57,San Jose,USA,3
+8175540b-dbf1-44dc-904e-19faafe2fc8a,User 408,37,New York,USA,1
+cc69ba78-f6e7-4d83-a8c3-d11885e96a5c,User 409,43,Chicago,USA,3
+28e2a952-4c56-4e86-824b-a2a395c1ae76,User 410,28,New York,USA,3
+32c81e90-0334-4b14-8a9b-b85298596f6a,User 411,51,San Jose,USA,3
+be3efd73-dffb-4656-93ab-809239e647a9,User 412,54,Chicago,USA,1
+ed7f9600-e348-47d7-a345-126357c12718,User 413,60,San Jose,USA,3
+8d67f85f-14d5-480b-8771-8b1493c7faf7,User 414,67,San Jose,USA,2
+d10c4375-ed6d-4da4-ac57-6edccdaad21a,User 415,47,Chicago,USA,1
+b40961a1-3e2d-479d-a6b4-deb8168a7d20,User 416,27,Chicago,USA,3
+d5af08b0-df58-40e2-9902-9e496afabb8e,User 417,42,Chicago,USA,2
+1c76ef7d-efe9-4721-a6cb-95556029d9cc,User 418,29,Dallas,USA,2
+332be62d-a312-46ab-97b6-826f9843a3c7,User 419,62,New York,USA,1
+5df67db7-c7e5-4ff3-9548-9e82a6d33fd3,User 420,30,New York,USA,1
+0dafec1f-c20c-491e-aa7f-056d4791fbe3,User 421,37,San Jose,USA,1
+1f73f2de-d83a-43ad-913f-88f880f3c831,User 422,56,Chicago,USA,2
+b80e4807-9b55-4fba-ac33-3a9f52380805,User 423,29,San Jose,USA,1
+6502e6bb-0298-4081-aa96-5e0c7422b9b6,User 424,37,Chicago,USA,3
+03051bb6-d31c-45f8-b274-037e26b2127c,User 425,54,Chicago,USA,3
+db727e35-ffb8-45ba-a10e-892c02beba16,User 426,42,New York,USA,3
+e823124b-cb93-48a2-9672-2797f96cffd1,User 427,40,Chicago,USA,3
+4b6ae16e-8c11-46c7-b517-3da35ecbc91d,User 428,61,Dallas,USA,2
+e3ff9359-3e45-4de9-b676-1fb7c6c3cf96,User 429,35,Chicago,USA,1
+c04a40fc-7ac5-40f8-a99c-9792742cb038,User 430,26,Chicago,USA,1
+99d40fb0-6ccf-4c34-b0da-ee904e4e5228,User 431,58,Chicago,USA,1
+a510b2a5-a3ca-4a92-a91f-11e5cd5dace0,User 432,18,New York,USA,2
+625efd8b-00c4-408d-96b8-199ff60ea7c4,User 433,58,San Jose,USA,3
+bce28413-cbaa-4c82-a237-683167117151,User 434,66,San Jose,USA,3
+5c3adfd9-0e48-4171-ba5e-b122f9fbd937,User 435,23,Dallas,USA,2
+9391b089-d6d7-4c56-bb50-93a7fd48fce0,User 436,47,Chicago,USA,1
+16d3e09a-8a5c-41bc-b11a-05a097ff4dbb,User 437,45,Chicago,USA,2
+366bef2c-ecad-4f84-abb2-f7d4e2f65694,User 438,70,New York,USA,2
+3a265dfd-cde9-48e4-8045-3400b784aac0,User 439,64,San Jose,USA,3
+176c7135-8e3a-4fd8-bafe-bfe32220a413,User 440,28,San Jose,USA,3
+e0d269e4-c684-4d3f-842a-8cecee24e798,User 441,39,New York,USA,3
+a5043616-a1b8-45fd-80e1-590622f49dfb,User 442,49,Chicago,USA,1
+1768714c-2b19-415a-9d86-dfd70ed5c2dc,User 443,43,San Jose,USA,2
+7a060713-f608-4cd3-acf4-3cade2beb465,User 444,18,Dallas,USA,2
+30f93737-043c-4ccd-9b80-9f475751e1de,User 445,40,Chicago,USA,3
+de0f9796-1fb9-4e7a-b7c1-ffd617a068cd,User 446,27,Dallas,USA,2
+71c2c7c4-1ad2-45f7-9254-44c430201ce5,User 447,25,Dallas,USA,1
+6570777f-ce2e-413f-bbaf-1b4a042f7db6,User 448,38,Dallas,USA,3
+516dc7ca-480c-4adb-824a-f3828aa34dde,User 449,33,New York,USA,3
+ef7ddfd7-a7a1-47d8-85b5-e3c1a0c9bd0d,User 450,20,Dallas,USA,1
+74cee2e8-8432-4471-b448-8c3a973a8652,User 451,54,New York,USA,1
+4fe55ed9-4f50-4dae-955a-9720625208a0,User 452,19,San Jose,USA,3
+a4b8b9d4-4f85-4279-b032-3ff75da67cb3,User 453,61,San Jose,USA,3
+040c5dc1-9cce-4d38-ade4-79f6415e4cfb,User 454,35,Dallas,USA,2
+4cd9013d-2867-49f9-8562-6c2809a3901d,User 455,39,New York,USA,3
+b1fd9946-595c-4fb7-94b0-eec969ec1157,User 456,62,San Jose,USA,2
+39e85e4c-251a-4ccf-9b48-5730a2e64773,User 457,64,Dallas,USA,2
+8f9e92ea-f9b4-4b97-a3aa-ac536e0901a5,User 458,22,San Jose,USA,2
+5f559e40-d054-473d-a1f2-dfc0b6cf3bac,User 459,64,New York,USA,1
+1473c39a-45b3-44c7-a360-3cc66b8cee5c,User 460,70,San Jose,USA,1
+913252cb-06b1-45f6-9319-dd1ab1625c30,User 461,50,San Jose,USA,3
+e4a5a3de-73c2-4b48-95c8-d6bb0e9ec7b0,User 462,30,New York,USA,3
+44898ae5-a320-4612-a3be-4674bb41eb19,User 463,26,San Jose,USA,2
+7692e5be-a531-489f-9a96-ca76592a0245,User 464,24,San Jose,USA,2
+c21fbedd-00b8-4977-88ae-20239be3c60a,User 465,59,San Jose,USA,2
+5cedf1c9-c198-44f1-a0d6-7dc71927c170,User 466,67,San Jose,USA,2
+55765473-40e8-4f79-8899-46fbcbfae9dd,User 467,23,New York,USA,2
+5fee82cc-9796-4296-a164-8870ce7436f1,User 468,64,Chicago,USA,2
+e26399aa-4ebb-4bba-b78f-7d1b76f3501a,User 469,67,Chicago,USA,1
+5ec59a98-2da2-4c9c-81e2-676a59a90796,User 470,61,New York,USA,2
+d7e316eb-b601-4ba1-b743-83813b24e07f,User 471,63,Dallas,USA,3
+daba8c02-8f3e-4542-9bed-0a5fedb1cd8c,User 472,54,New York,USA,3
+b7f09759-c29f-4884-8cc1-2fd943ea625b,User 473,68,New York,USA,3
+21aa5b98-7734-49f0-b7cc-73d52e6b6ef7,User 474,63,Chicago,USA,1
+8e0ec37f-7716-4e0b-a111-b3dd6961a06b,User 475,58,New York,USA,3
+70c70037-fe8a-4efa-b886-31aaad93eb71,User 476,63,Chicago,USA,3
+c4cac465-a4ee-4779-96ce-f88276c67bca,User 477,63,San Jose,USA,2
+9bbbbc11-2929-4f65-bffe-6961cefb63bf,User 478,70,Chicago,USA,1
+0f96c7c0-69af-4b81-a4f0-d3c73591bec5,User 479,26,Chicago,USA,1
+6ce3c215-6f56-44dc-93f8-e91cd3b7a653,User 480,53,Chicago,USA,2
+0b7fad09-b49f-4afd-b3fc-95b1d275705d,User 481,27,Dallas,USA,3
+233aa3de-4259-4729-91ac-c12dda590525,User 482,34,New York,USA,1
+e0cb4b17-02f3-4c1a-b573-09f358a0d33e,User 483,63,Chicago,USA,3
+a8601d8f-4b69-42ed-ae70-769b6e8291e5,User 484,41,Dallas,USA,3
+dd6fe415-f1f0-4ddb-8947-64799474180d,User 485,44,New York,USA,3
+d18e9339-2390-4629-a26a-d6cae081b296,User 486,18,San Jose,USA,3
+e2924cbd-feed-46c3-86bf-8d78c2782eb4,User 487,38,Chicago,USA,2
+6d1bf91f-450a-4ca2-aaac-7c6525b57806,User 488,52,San Jose,USA,1
+e1b8cb80-2975-43e1-aaee-351d33d648e9,User 489,62,Chicago,USA,1
+6beb3598-d471-4ea5-9b71-b406fba761e1,User 490,64,Chicago,USA,3
+208d0990-5d9b-4261-a696-82ecec9f0f84,User 491,51,New York,USA,2
+6223a2a7-ff77-4000-8105-2a76d404699d,User 492,68,Chicago,USA,1
+cdd6536c-2ff8-4a6e-83e4-ef78485f584e,User 493,22,Dallas,USA,2
+d0b54a37-59b1-432b-9407-5fa5e7b916f7,User 494,26,Dallas,USA,1
+e8af929e-dca3-489a-839d-a0213efb535a,User 495,28,New York,USA,1
+1f7b3deb-da21-48c0-be3d-24dac2feb21d,User 496,66,Dallas,USA,2
+a7ad53fd-4371-49aa-b3ff-1bb58d8b256a,User 497,44,San Jose,USA,1
+7b509d1c-a09a-41f0-865e-cd905afc1aae,User 498,41,San Jose,USA,3
+56dbfbd2-5381-4185-ae6f-cfda3418980d,User 499,25,New York,USA,2
